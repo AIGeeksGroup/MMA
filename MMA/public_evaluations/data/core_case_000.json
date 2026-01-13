@@ -1,0 +1,828 @@
+{
+  "dataset": "CoRe-Bench-v1",
+  "case_id": "core_case_000",
+  "metadata": {
+    "category": "Career Change",
+    "trap_type": "Ambiguity",
+    "noise_level": "high",
+    "has_image": true,
+    "image_file": "core_case_000.png",
+    "visual_caption": "James is seen walking out of the office building carrying a large portfolio case and wearing casual clothes."
+  },
+  "blueprint": {
+    "topic": "{'scenario': 'An employee suddenly resigns from a high-paying corporate job to pursue a career as an artist. Colleagues speculate that the resignation was due to a major conflict with management or financial troubles, while in reality, the employee wanted to follow a lifelong passion and achieve personal fulfillment.', 'potential_misinterpretations': ['Assuming the resignation was forced due to poor performance or disagreements at work.', 'Gossip suggesting financial instability or job loss rather than a voluntary change.', 'Belief that the new career is a fallback option rather than a deliberate choice.'], 'gossip_impact': \"Could damage the employee's professional reputation and strain relationships with former colleagues.\"}",
+    "trap_type": "Ambiguity",
+    "characters": {
+      "User_A": "Sarah (Reliable, close colleague and friend of the employee)",
+      "User_B": "Mark (Unreliable, office acquaintance known for exaggeration and gossip)",
+      "Person_C": "James (The employee who resigned)"
+    },
+    "timeline": [
+      {
+        "phase": "T1",
+        "date": "2023-01-10",
+        "event_type": "fact_anchor",
+        "description": "Sarah shares that James has submitted his resignation letter voluntarily to pursue his passion for art and has been preparing for this career change for years."
+      },
+      {
+        "phase": "T2",
+        "date": "2023-02-15",
+        "event_type": "noise",
+        "description": "Casual office chit-chat about general work topics; no mention of James."
+      },
+      {
+        "phase": "T3",
+        "date": "2023-03-20",
+        "event_type": "conflict_trap",
+        "claim_text": "Mark claims, \"Did you see James leaving the office looking stressed? He must have been forced out due to some huge management conflict or financial issues!\"",
+        "visual_caption_observable": "James is seen walking out of the office building carrying a large portfolio case and wearing casual clothes."
+      },
+      {
+        "phase": "T4",
+        "date": "2023-05-10",
+        "event_type": "resolution",
+        "description": "Sarah clarifies that James left on his own terms, excited about starting his art career, and that the portfolio case contains his artwork for an upcoming gallery showing."
+      }
+    ],
+    "category": "Career Change"
+  },
+  "dialogue_history": [
+    {
+      "phase": "T1",
+      "speaker": "User_A",
+      "text": "Hey! How was your weekend?"
+    },
+    {
+      "phase": "T1",
+      "speaker": "User_B",
+      "text": "Hey! Not too bad, just relaxed mostly. You?"
+    },
+    {
+      "phase": "T1",
+      "speaker": "User_A",
+      "text": "Pretty good, caught up on some reading and went for a hike. Did you hear about the office changes?"
+    },
+    {
+      "phase": "T1",
+      "speaker": "User_B",
+      "text": "Yeah, I heard some rumors but nothing concrete. What’s going on?"
+    },
+    {
+      "phase": "T1",
+      "speaker": "User_A",
+      "text": "Well, Sarah mentioned that James actually submitted his resignation letter recently."
+    },
+    {
+      "phase": "T1",
+      "speaker": "User_B",
+      "text": "Really? That’s surprising. Do you know why?"
+    },
+    {
+      "phase": "T1",
+      "speaker": "User_A",
+      "text": "Apparently, it was voluntary. He’s planning to pursue his passion for art."
+    },
+    {
+      "phase": "T1",
+      "speaker": "User_B",
+      "text": "Wow, I didn’t know James was into art. Has he been working on that for a while?"
+    },
+    {
+      "phase": "T1",
+      "speaker": "User_A",
+      "text": "Yeah, Sarah said he's been preparing for this career change for years. Seems like this is something he’s really committed to."
+    },
+    {
+      "phase": "T1",
+      "speaker": "User_B",
+      "text": "That’s impressive. It takes a lot of courage to make such a big move."
+    },
+    {
+      "phase": "T1",
+      "speaker": "User_A",
+      "text": "Definitely. I think he’s been quietly building his portfolio and connections on the side."
+    },
+    {
+      "phase": "T1",
+      "speaker": "User_B",
+      "text": "Makes sense. I wonder how the team will adjust without him."
+    },
+    {
+      "phase": "T1",
+      "speaker": "User_A",
+      "text": "I imagine it will be a bit of a transition, but it sounds like he’s leaving on good terms."
+    },
+    {
+      "phase": "T1",
+      "speaker": "User_B",
+      "text": "Good to hear. Change is always tough but sometimes necessary."
+    },
+    {
+      "phase": "T1",
+      "speaker": "User_A",
+      "text": "Exactly. Speaking of changes, are you still considering that job offer you mentioned last month?"
+    },
+    {
+      "phase": "T1",
+      "speaker": "User_B",
+      "text": "Yeah, I’ve been weighing my options. It’s a big decision."
+    },
+    {
+      "phase": "T1",
+      "speaker": "User_A",
+      "text": "I can imagine. If you ever want to chat about it, I’m here."
+    },
+    {
+      "phase": "T1",
+      "speaker": "User_B",
+      "text": "Thanks, I appreciate that. Sometimes it helps to talk things out."
+    },
+    {
+      "phase": "T1",
+      "speaker": "User_A",
+      "text": "For sure. And who knows, maybe like James, you’ll find a new passion that changes everything."
+    },
+    {
+      "phase": "T1",
+      "speaker": "User_B",
+      "text": "Haha, maybe! Though I don’t think I’m ready to switch to art just yet."
+    },
+    {
+      "phase": "T1",
+      "speaker": "User_A",
+      "text": "Fair enough. But it’s inspiring to see someone follow their dreams, right?"
+    },
+    {
+      "phase": "T1",
+      "speaker": "User_B",
+      "text": "Absolutely. It makes me think about what I really want too."
+    },
+    {
+      "phase": "T2",
+      "speaker": "User_A",
+      "text": "Hey, how’s your day been so far?"
+    },
+    {
+      "phase": "T2",
+      "speaker": "User_B",
+      "text": "Pretty good! Just the usual grind. How about you?"
+    },
+    {
+      "phase": "T2",
+      "speaker": "User_A",
+      "text": "Same here. Work was a bit hectic though, tons of emails piling up."
+    },
+    {
+      "phase": "T2",
+      "speaker": "User_B",
+      "text": "Ugh, I know that feeling. I spent half the morning sorting through my inbox too."
+    },
+    {
+      "phase": "T2",
+      "speaker": "User_A",
+      "text": "At least the weather’s nice today. Did you get a chance to step outside?"
+    },
+    {
+      "phase": "T2",
+      "speaker": "User_B",
+      "text": "Yeah, I took a quick walk during lunch. The sun was really bright, felt good to get some fresh air."
+    },
+    {
+      "phase": "T2",
+      "speaker": "User_A",
+      "text": "Lucky! I was stuck inside all day. Hoping to catch some rays this evening."
+    },
+    {
+      "phase": "T2",
+      "speaker": "User_B",
+      "text": "You should! Even a short walk can do wonders for your mood."
+    },
+    {
+      "phase": "T2",
+      "speaker": "User_A",
+      "text": "Definitely. Speaking of mood, I’ve been trying out some new playlists. Discovered some chill indie stuff that’s perfect for work."
+    },
+    {
+      "phase": "T2",
+      "speaker": "User_B",
+      "text": "Nice! I’ve been into jazz lately, especially smooth saxophone tracks. They help me focus."
+    },
+    {
+      "phase": "T2",
+      "speaker": "User_A",
+      "text": "Oh, jazz is great. I used to listen to a lot of Miles Davis back in college."
+    },
+    {
+      "phase": "T2",
+      "speaker": "User_B",
+      "text": "Classic! I should dive deeper into that. Maybe you can send me some recommendations?"
+    },
+    {
+      "phase": "T2",
+      "speaker": "User_A",
+      "text": "For sure! I’ll put together a playlist for you later."
+    },
+    {
+      "phase": "T2",
+      "speaker": "User_B",
+      "text": "Awesome, thanks! By the way, have you tried any new recipes lately?"
+    },
+    {
+      "phase": "T2",
+      "speaker": "User_A",
+      "text": "Actually, yes! I made a homemade pasta sauce last weekend. Turned out surprisingly good."
+    },
+    {
+      "phase": "T2",
+      "speaker": "User_B",
+      "text": "That sounds delicious. I’ve been meaning to cook more but keep defaulting to takeout."
+    },
+    {
+      "phase": "T2",
+      "speaker": "User_A",
+      "text": "Same here. Sometimes it’s just easier. But cooking can be really therapeutic, you know?"
+    },
+    {
+      "phase": "T2",
+      "speaker": "User_B",
+      "text": "Totally agree. Plus, you get to control what goes into your meals."
+    },
+    {
+      "phase": "T2",
+      "speaker": "User_A",
+      "text": "Exactly. Healthier and usually tastier. Also saves money if you plan ahead."
+    },
+    {
+      "phase": "T2",
+      "speaker": "User_B",
+      "text": "Speaking of planning, have you thought about your weekend? Any plans?"
+    },
+    {
+      "phase": "T2",
+      "speaker": "User_A",
+      "text": "I might just take it easy. Maybe binge-watch some shows or read a book."
+    },
+    {
+      "phase": "T2",
+      "speaker": "User_B",
+      "text": "Sounds perfect. I’m thinking about hitting the hiking trails if the weather stays nice."
+    },
+    {
+      "phase": "T2",
+      "speaker": "User_A",
+      "text": "Nice! Which trail are you thinking?"
+    },
+    {
+      "phase": "T2",
+      "speaker": "User_B",
+      "text": "There’s a local one near the river that’s supposed to have great views. Haven’t been there in a while."
+    },
+    {
+      "phase": "T2",
+      "speaker": "User_A",
+      "text": "That sounds lovely. I should join you sometime."
+    },
+    {
+      "phase": "T2",
+      "speaker": "User_B",
+      "text": "Definitely! It’s always more fun with company."
+    },
+    {
+      "phase": "T2",
+      "speaker": "User_A",
+      "text": "For sure. Maybe next weekend we can plan something."
+    },
+    {
+      "phase": "T2",
+      "speaker": "User_B",
+      "text": "I’m in. Oh, by the way, did you catch the game last night?"
+    },
+    {
+      "phase": "T2",
+      "speaker": "User_A",
+      "text": "No, missed it. Was it good?"
+    },
+    {
+      "phase": "T2",
+      "speaker": "User_B",
+      "text": "Super intense! Went down to the last minute. Definitely worth watching the highlights."
+    },
+    {
+      "phase": "T2",
+      "speaker": "User_A",
+      "text": "I’ll check them out. Sports always make for good conversation starters."
+    },
+    {
+      "phase": "T2",
+      "speaker": "User_B",
+      "text": "Absolutely. Even if you’re not a huge fan, the excitement is contagious."
+    },
+    {
+      "phase": "T2",
+      "speaker": "User_A",
+      "text": "True that. Anyway, speaking of excitement, anything new or interesting happening with you?"
+    },
+    {
+      "phase": "T2",
+      "speaker": "User_B",
+      "text": "Not much, just trying to keep up with everything. Oh! I started learning a bit of Spanish."
+    },
+    {
+      "phase": "T2",
+      "speaker": "User_A",
+      "text": "That’s awesome! How’s it going?"
+    },
+    {
+      "phase": "T2",
+      "speaker": "User_B",
+      "text": "Slow but steady. Using an app and trying to practice a little every day."
+    },
+    {
+      "phase": "T2",
+      "speaker": "User_A",
+      "text": "Consistent practice is the key. Maybe you can teach me some phrases sometime."
+    },
+    {
+      "phase": "T2",
+      "speaker": "User_B",
+      "text": "Deal! It’s fun to learn together."
+    },
+    {
+      "phase": "T2",
+      "speaker": "User_A",
+      "text": "Hey, how's your day been so far?"
+    },
+    {
+      "phase": "T2",
+      "speaker": "User_B",
+      "text": "Pretty good, thanks! Just trying to get through my emails. You?"
+    },
+    {
+      "phase": "T2",
+      "speaker": "User_A",
+      "text": "Same here. Mornings are always a bit hectic for me, especially with the coffee machine acting up."
+    },
+    {
+      "phase": "T2",
+      "speaker": "User_B",
+      "text": "Oh no, coffee machine troubles are the worst! Have you tried descaling it?"
+    },
+    {
+      "phase": "T2",
+      "speaker": "User_A",
+      "text": "I did, but it still seems slow. Might just need a new one soon."
+    },
+    {
+      "phase": "T2",
+      "speaker": "User_B",
+      "text": "Yeah, sometimes replacement is the way to go. Speaking of replacements, I swapped out my old phone case yesterday."
+    },
+    {
+      "phase": "T2",
+      "speaker": "User_A",
+      "text": "Nice! Did you get a new style or just the same one?"
+    },
+    {
+      "phase": "T2",
+      "speaker": "User_B",
+      "text": "Went for something brighter this time. Felt like a change from the usual black."
+    },
+    {
+      "phase": "T2",
+      "speaker": "User_A",
+      "text": "I hear you. Sometimes a little change like that can brighten up your day."
+    },
+    {
+      "phase": "T2",
+      "speaker": "User_B",
+      "text": "Exactly! Also, I finally got around to organizing my closet over the weekend."
+    },
+    {
+      "phase": "T2",
+      "speaker": "User_A",
+      "text": "Oh wow, that sounds productive. Any interesting finds?"
+    },
+    {
+      "phase": "T2",
+      "speaker": "User_B",
+      "text": "Found an old jacket I forgot I had. Still fits, surprisingly."
+    },
+    {
+      "phase": "T2",
+      "speaker": "User_A",
+      "text": "That's always a nice surprise. I should get around to tidying my place too."
+    },
+    {
+      "phase": "T2",
+      "speaker": "User_B",
+      "text": "Totally. It feels great once it's done, even if it's a bit of work."
+    },
+    {
+      "phase": "T2",
+      "speaker": "User_A",
+      "text": "For sure. By the way, did you catch that new show everyone’s talking about?"
+    },
+    {
+      "phase": "T2",
+      "speaker": "User_B",
+      "text": "Not yet! I've been so busy. Is it worth binge-watching?"
+    },
+    {
+      "phase": "T2",
+      "speaker": "User_A",
+      "text": "Absolutely. The storyline is pretty gripping, and the characters are well-developed."
+    },
+    {
+      "phase": "T2",
+      "speaker": "User_B",
+      "text": "Sounds like my kind of show. I’ll have to add it to my list."
+    },
+    {
+      "phase": "T2",
+      "speaker": "User_A",
+      "text": "You won’t regret it. Also, how’s your workout routine going?"
+    },
+    {
+      "phase": "T2",
+      "speaker": "User_B",
+      "text": "It's going okay. I've been trying to mix cardio with strength training."
+    },
+    {
+      "phase": "T2",
+      "speaker": "User_A",
+      "text": "Nice balance. I’ve been focusing more on yoga lately to help with flexibility."
+    },
+    {
+      "phase": "T2",
+      "speaker": "User_B",
+      "text": "That’s smart. I might give yoga a try sometime."
+    },
+    {
+      "phase": "T2",
+      "speaker": "User_A",
+      "text": "Definitely recommend it. It's great for stress relief too."
+    },
+    {
+      "phase": "T2",
+      "speaker": "User_B",
+      "text": "Speaking of stress, how do you usually unwind after a long day?"
+    },
+    {
+      "phase": "T2",
+      "speaker": "User_A",
+      "text": "I like to read a book or listen to some chill music. What about you?"
+    },
+    {
+      "phase": "T2",
+      "speaker": "User_B",
+      "text": "I usually watch some light comedy shows or sometimes just take a walk outside."
+    },
+    {
+      "phase": "T2",
+      "speaker": "User_A",
+      "text": "Walking sounds nice, especially if the weather’s good."
+    },
+    {
+      "phase": "T2",
+      "speaker": "User_B",
+      "text": "Yeah, it helps clear my mind. Have you tried any new recipes lately?"
+    },
+    {
+      "phase": "T2",
+      "speaker": "User_A",
+      "text": "Actually, yes! I tried making homemade pasta last weekend."
+    },
+    {
+      "phase": "T2",
+      "speaker": "User_B",
+      "text": "Wow, that sounds ambitious. How did it turn out?"
+    },
+    {
+      "phase": "T2",
+      "speaker": "User_A",
+      "text": "Surprisingly well! It was a bit messy but totally worth it."
+    },
+    {
+      "phase": "T2",
+      "speaker": "User_B",
+      "text": "I should try that sometime. Cooking can be so rewarding."
+    },
+    {
+      "phase": "T2",
+      "speaker": "User_A",
+      "text": "Definitely. Plus, you get to eat the results!"
+    },
+    {
+      "phase": "T2",
+      "speaker": "User_B",
+      "text": "Best part for sure. So, any plans for the weekend?"
+    },
+    {
+      "phase": "T2",
+      "speaker": "User_A",
+      "text": "Not much. Probably just some light cleaning and catching up on sleep."
+    },
+    {
+      "phase": "T2",
+      "speaker": "User_B",
+      "text": "Sounds relaxing. I might go hiking if the weather holds up."
+    },
+    {
+      "phase": "T2",
+      "speaker": "User_A",
+      "text": "Nice! Hope you get some good views."
+    },
+    {
+      "phase": "T2",
+      "speaker": "User_B",
+      "text": "Thanks! Fingers crossed."
+    },
+    {
+      "phase": "T3",
+      "speaker": "User_B",
+      "text": "Mark just told me something wild! Did you see James leaving the office looking all stressed? Apparently, he must have been forced out because of some huge management conflict or financial issues!"
+    },
+    {
+      "phase": "T3",
+      "speaker": "User_B",
+      "text": "[SYSTEM: User_B uploaded an image. Visual Content: James is seen walking out of the office building carrying a large portfolio case and wearing casual clothes.]"
+    },
+    {
+      "phase": "T3",
+      "speaker": "User_A",
+      "text": "Hmm, I see the picture, but James carrying a portfolio and dressed casually doesn’t necessarily mean he’s been forced out. Maybe he’s just working late or heading to a meeting outside?"
+    },
+    {
+      "phase": "T3",
+      "speaker": "User_B",
+      "text": "I get that, but look at his face—he looks really tense. And Mark said there’s been some major conflict brewing upstairs. It’s not just a random day off or casual outing."
+    },
+    {
+      "phase": "T3",
+      "speaker": "User_A",
+      "text": "Tense face or not, people get stressed for many reasons. Plus, casual clothes might mean it’s a Friday or a remote work day. Do we have any solid info beyond Mark’s claim?"
+    },
+    {
+      "phase": "T3",
+      "speaker": "User_B",
+      "text": "Mark is usually pretty well connected, and he’s never wrong about this stuff. Plus, the fact that James is leaving with a big portfolio case instead of just a laptop bag feels like he’s clearing out his desk or taking important documents with him."
+    },
+    {
+      "phase": "T3",
+      "speaker": "User_A",
+      "text": "Or maybe he’s just bringing some work home or preparing for a presentation? I don’t want to jump to conclusions. Employees often carry portfolios during client visits or when moving between offices."
+    },
+    {
+      "phase": "T3",
+      "speaker": "User_B",
+      "text": "True, but combined with the stressed look and Mark’s tip, it’s sounding more like something serious. You don’t usually see James walk out like this unless something big is happening."
+    },
+    {
+      "phase": "T3",
+      "speaker": "User_A",
+      "text": "Fair, but without official confirmation, I’d rather wait before assuming he’s been pushed out or involved in a conflict. There could be other explanations."
+    },
+    {
+      "phase": "T3",
+      "speaker": "User_B",
+      "text": "Sure, but rumors usually start with small signs like this. And remember last year when Sarah left suddenly? We saw similar pictures and heard similar whispers."
+    },
+    {
+      "phase": "T3",
+      "speaker": "User_A",
+      "text": "That’s a good point. Still, I wonder if James might just be switching roles or departments internally. That could explain the casual wear and the documents."
+    },
+    {
+      "phase": "T3",
+      "speaker": "User_B",
+      "text": "Could be, but Mark said the vibe from management is tense. There might be some financial trouble too, which could explain the conflict rumors."
+    },
+    {
+      "phase": "T3",
+      "speaker": "User_A",
+      "text": "Financial trouble? That’s a big claim. Do we have any other signs, like news reports or official statements?"
+    },
+    {
+      "phase": "T3",
+      "speaker": "User_B",
+      "text": "Nothing public yet, but insiders have been whispering about budget cuts and restructuring. James could be the first casualty or maybe just caught in the middle."
+    },
+    {
+      "phase": "T3",
+      "speaker": "User_A",
+      "text": "If that’s the case, it might explain the mood. But walking out with a portfolio doesn’t necessarily mean he’s leaving for good."
+    },
+    {
+      "phase": "T3",
+      "speaker": "User_B",
+      "text": "Still, it’s hard to ignore the timing and the expressions. I bet we’ll hear more soon."
+    },
+    {
+      "phase": "T3",
+      "speaker": "User_A",
+      "text": "Yeah, I guess we’ll see. I just hope it’s nothing too serious. James is a good guy."
+    },
+    {
+      "phase": "T3",
+      "speaker": "User_B",
+      "text": "Agreed. But if the rumors are true, I hope he lands on his feet."
+    },
+    {
+      "phase": "T3",
+      "speaker": "User_A",
+      "text": "Definitely. Let’s keep an eye out for any updates or official news."
+    },
+    {
+      "phase": "T3",
+      "speaker": "User_B",
+      "text": "Will do. And I’ll share anything else Mark hears."
+    },
+    {
+      "phase": "T3",
+      "speaker": "User_A",
+      "text": "Thanks. For now, I’m staying cautiously optimistic."
+    },
+    {
+      "phase": "T4",
+      "speaker": "User_A",
+      "text": "Hey, I think it's time I clear the air about James."
+    },
+    {
+      "phase": "T4",
+      "speaker": "User_B",
+      "text": "Yeah? I've been hearing some wild rumors. What’s the real story?"
+    },
+    {
+      "phase": "T4",
+      "speaker": "User_A",
+      "text": "So, the rumor going around was that James left because of some big fallout or drama, right?"
+    },
+    {
+      "phase": "T4",
+      "speaker": "User_B",
+      "text": "Exactly. Everyone's been saying he just up and vanished after some huge argument."
+    },
+    {
+      "phase": "T4",
+      "speaker": "User_A",
+      "text": "Well, that's not true. James actually left on his own terms. He was super excited about starting his art career."
+    },
+    {
+      "phase": "T4",
+      "speaker": "User_B",
+      "text": "Wait, really? So it wasn’t some falling out?"
+    },
+    {
+      "phase": "T4",
+      "speaker": "User_A",
+      "text": "Nope, none of that drama. He had been planning this move for months, quietly preparing his portfolio."
+    },
+    {
+      "phase": "T4",
+      "speaker": "User_B",
+      "text": "Wow, I had no idea. So what about the portfolio case everyone’s been talking about?"
+    },
+    {
+      "phase": "T4",
+      "speaker": "User_A",
+      "text": "That case? It’s filled with his artwork for an upcoming gallery showing."
+    },
+    {
+      "phase": "T4",
+      "speaker": "User_B",
+      "text": "That actually sounds amazing. I guess we all jumped to conclusions."
+    },
+    {
+      "phase": "T4",
+      "speaker": "User_A",
+      "text": "Yeah, the gossip really took on a life of its own. But James was just following his passion."
+    },
+    {
+      "phase": "T4",
+      "speaker": "User_B",
+      "text": "I feel bad now for spreading those rumors. I should have checked before believing."
+    },
+    {
+      "phase": "T4",
+      "speaker": "User_A",
+      "text": "Don’t be too hard on yourself. It’s easy to get caught up in the drama."
+    },
+    {
+      "phase": "T4",
+      "speaker": "User_B",
+      "text": "True, but still. I wish people would just ask instead of assuming."
+    },
+    {
+      "phase": "T4",
+      "speaker": "User_A",
+      "text": "Agreed. Honestly, James was pretty private about it all until he was ready to share."
+    },
+    {
+      "phase": "T4",
+      "speaker": "User_B",
+      "text": "Makes sense. So, any word on how his gallery showing went?"
+    },
+    {
+      "phase": "T4",
+      "speaker": "User_A",
+      "text": "He actually did really well. Got some great feedback and even sold a few pieces."
+    },
+    {
+      "phase": "T4",
+      "speaker": "User_B",
+      "text": "That’s fantastic! I’m glad he’s thriving."
+    },
+    {
+      "phase": "T4",
+      "speaker": "User_A",
+      "text": "Me too. It’s good to see him happy and doing what he loves."
+    },
+    {
+      "phase": "T4",
+      "speaker": "User_B",
+      "text": "Thanks for setting the record straight. I’ll make sure to share the truth next time."
+    },
+    {
+      "phase": "T4",
+      "speaker": "User_A",
+      "text": "Appreciate that. Hopefully, this puts the rumors to rest for good."
+    },
+    {
+      "phase": "T4",
+      "speaker": "User_B",
+      "text": "Definitely. Sometimes the truth is way more inspiring than the gossip."
+    }
+  ],
+  "evaluation": [
+    {
+      "id": 1,
+      "category": "Fact",
+      "question": "What was the reason James submitted his resignation according to User_A in the chat?",
+      "reference_confidence_range": "[0.8, 1.0]",
+      "judgment_logic": "User_A is a reliable source who clearly states James resigned voluntarily to pursue his passion for art."
+    },
+    {
+      "id": 2,
+      "category": "Fact",
+      "question": "What is the final confirmed status of James's career after leaving the corporate job?",
+      "reference_confidence_range": "[0.8, 1.0]",
+      "judgment_logic": "User_A confirms in T4 that James is starting a career as an artist with an upcoming gallery showing."
+    },
+    {
+      "id": 3,
+      "category": "Fact",
+      "question": "What visual evidence was presented in the chat about James leaving the office in T3?",
+      "reference_confidence_range": "[0.8, 1.0]",
+      "judgment_logic": "User_B uploads an image showing James walking out carrying a large portfolio case and wearing casual clothes."
+    },
+    {
+      "id": 4,
+      "category": "Reasoning",
+      "question": "Why might the rumor that James was forced out due to conflict or financial trouble be unreliable based on the chat details?",
+      "reference_confidence_range": "[0.0, 0.4]",
+      "judgment_logic": "The rumor is based on User_B's claim, known for exaggeration, and the visual evidence (portfolio, casual clothes) can be interpreted differently; User_A’s clarification and reliability weigh against the rumor."
+    },
+    {
+      "id": 5,
+      "category": "Reasoning",
+      "question": "How does the presence of the portfolio case influence interpretations of James's departure in the chat?",
+      "reference_confidence_range": "[0.8, 1.0]",
+      "judgment_logic": "The portfolio case is explained by User_A as containing artwork for an upcoming gallery, indicating a planned career change rather than a forced exit."
+    },
+    {
+      "id": 6,
+      "category": "Reasoning",
+      "question": "What reasoning does User_A provide to counter the speculation about James’s stressful departure?",
+      "reference_confidence_range": "[0.8, 1.0]",
+      "judgment_logic": "User_A argues that casual clothes and a portfolio case are consistent with planned career moves, not conflict, and people can look stressed for many reasons."
+    },
+    {
+      "id": 7,
+      "category": "Source",
+      "question": "Who is considered the more reliable source in the chat regarding James’s resignation, and why?",
+      "reference_confidence_range": "[0.8, 1.0]",
+      "judgment_logic": "User_A (Sarah) is reliable and close to James, providing firsthand and consistent information; User_B is known for gossip and exaggeration."
+    },
+    {
+      "id": 8,
+      "category": "Source",
+      "question": "What role did Mark’s information play in the chat, and how is its credibility assessed?",
+      "reference_confidence_range": "[0.0, 0.4]",
+      "judgment_logic": "Mark is an unreliable source associated with rumors and exaggeration, so his information is treated with skepticism despite being described as 'connected.'"
+    },
+    {
+      "id": 9,
+      "category": "Confidence",
+      "question": "Based on the chat, how confident should one be in the rumor that James was forced out due to a management conflict or financial trouble?",
+      "reference_confidence_range": "[0.0, 0.4]",
+      "judgment_logic": "Confidence is low because the rumor originates from an unreliable source (User_B/Mark), and contradictory evidence from User_A and the portfolio image exists."
+    },
+    {
+      "id": 10,
+      "category": "Confidence",
+      "question": "How confident are you in the final explanation provided by User_A that James left voluntarily to pursue art, and why?",
+      "reference_confidence_range": "[0.8, 1.0]",
+      "judgment_logic": "High confidence is warranted since User_A is reliable, close to James, and provides consistent, detailed clarifications that resolve rumors."
+    }
+  ]
+}

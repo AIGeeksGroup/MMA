@@ -1,0 +1,2701 @@
+[
+  {
+    "question": "Is it likely that Nate has friends besides Joanna?",
+    "response": "Yes, Nate has friends besides Joanna, including those met through gaming tournaments, a game convention in October 2022, and doggy playdates for his dog Max.",
+    "answer": "Yesteammates on hisvideo game team.",
+    "metadata": {
+      "question": "Is it likely that Nate has friends besides Joanna?",
+      "answer": "Yesteammates on hisvideo game team.",
+      "evidence": [
+        "D1:7"
+      ],
+      "category": 3
+    }
+  },
+  {
+    "question": "What kind of interests do Joanna and Nate share?",
+    "response": "Joanna and Nate share interests in baking and cooking dairy-free desserts, reading and exchanging book recommendations, supporting each other's creative projects, spending time with pets and outdoor activities, and enjoying entertainment like movies and gaming.",
+    "answer": "Watching movies, making desserts",
+    "metadata": {
+      "question": "What kind of interests do Joanna and Nate share?",
+      "answer": "Watching movies, making desserts",
+      "evidence": [
+        "D1:10",
+        "D1:11",
+        "D1:12",
+        "D3:4",
+        "D4:9",
+        "D10:9",
+        "D20:2"
+      ],
+      "category": 1
+    }
+  },
+  {
+    "question": "When did Joanna first watch \"Eternal Sunshine of the Spotless Mind?",
+    "response": "Joanna first watched \"Eternal Sunshine of the Spotless Mind\" around 2019.",
+    "answer": "2019",
+    "metadata": {
+      "question": "When did Joanna first watch \"Eternal Sunshine of the Spotless Mind?",
+      "answer": "2019",
+      "evidence": [
+        "D1:18"
+      ],
+      "category": 2
+    }
+  },
+  {
+    "question": "When did Nate win his first video game tournament?",
+    "response": "Nate's first video game tournament win was before late April 2022.",
+    "answer": "the week before 21Janury, 2022",
+    "metadata": {
+      "question": "When did Nate win his first video game tournament?",
+      "answer": "the week before 21Janury, 2022",
+      "evidence": [
+        "D1:3"
+      ],
+      "category": 2
+    }
+  },
+  {
+    "question": "What pets wouldn't cause any discomfort to Joanna?",
+    "response": "Joanna would not have discomfort from stuffed animal pets, as she is allergic to most reptiles and furry animals but enjoys having a stuffed animal dog named Tilly.",
+    "answer": "Hairless cats or pigs,since they don't have fur, which is one of the main causes of Joanna's allergy.",
+    "metadata": {
+      "question": "What pets wouldn't cause any discomfort to Joanna?",
+      "answer": "Hairless cats or pigs,since they don't have fur, which is one of the main causes of Joanna's allergy.",
+      "evidence": [
+        "D2:23"
+      ],
+      "category": 3
+    }
+  },
+  {
+    "question": "What are Joanna's hobbies?",
+    "response": "Joanna's hobbies include writing screenplays, acting (her first passion), hiking, and DIY crafts such as making handmade bookmarks.",
+    "answer": "Writing, watchingmovies, exploringnature, hanging withfriends.",
+    "metadata": {
+      "question": "What are Joanna's hobbies?",
+      "answer": "Writing, watchingmovies, exploringnature, hanging withfriends.",
+      "evidence": [
+        "D1:10",
+        "D2:25"
+      ],
+      "category": 1
+    }
+  },
+  {
+    "question": "How long has Nate had his first two turtles?",
+    "response": "Nate has had his first two turtles for about 3 years as of October 2022.",
+    "answer": "three years",
+    "metadata": {
+      "question": "How long has Nate had his first two turtles?",
+      "answer": "three years",
+      "evidence": [
+        "D2:12"
+      ],
+      "category": 2
+    }
+  },
+  {
+    "question": "When did Joanna finish her first screenplay?",
+    "response": "May 20, 2022",
+    "answer": "The Friday before 23January, 2022",
+    "metadata": {
+      "question": "When did Joanna finish her first screenplay?",
+      "answer": "The Friday before 23January, 2022",
+      "evidence": [
+        "D2:3"
+      ],
+      "category": 2
+    }
+  },
+  {
+    "question": "When did Nate get his first two turtles?",
+    "response": "Nate got his first two turtles around late 2019 to early 2020.",
+    "answer": "2019",
+    "metadata": {
+      "question": "When did Nate get his first two turtles?",
+      "answer": "2019",
+      "evidence": [
+        "D2:12"
+      ],
+      "category": 2
+    }
+  },
+  {
+    "question": "What major achievement did Joanna accomplish in January 2022?",
+    "response": "There is no record of a major achievement by Joanna in January 2022 in the available memories.",
+    "answer": "finished her screenplay and printed it",
+    "metadata": {
+      "question": "What major achievement did Joanna accomplish in January 2022?",
+      "answer": "finished her screenplay and printed it",
+      "evidence": [
+        "D2:3"
+      ],
+      "category": 2
+    }
+  },
+  {
+    "question": "What emotions is Joanna feeling about  the screenplay she submitted?",
+    "response": "Joanna feels hopeful, determined, inspired, motivated, and confident about her screenplay submissions, despite some disappointment from rejections.",
+    "answer": "Relief, excitement,worry, hope,anxiety.",
+    "metadata": {
+      "question": "What emotions is Joanna feeling about  the screenplay she submitted?",
+      "answer": "Relief, excitement,worry, hope,anxiety.",
+      "evidence": [
+        "D2:7",
+        "D3:1"
+      ],
+      "category": 1
+    }
+  },
+  {
+    "question": "What is Joanna allergic to?",
+    "response": "Joanna is allergic to most reptiles, animals with fur, and cockroaches, which cause facial puffiness and itchiness.",
+    "answer": "Most reptiles,animals with fur,cockroaches, dairy",
+    "metadata": {
+      "question": "What is Joanna allergic to?",
+      "answer": "Most reptiles,animals with fur,cockroaches, dairy",
+      "evidence": [
+        "D4:4",
+        "D5:11",
+        "D2:23"
+      ],
+      "category": 1
+    }
+  },
+  {
+    "question": "What underlying condition might Joanna have based on her allergies?",
+    "response": "Joanna might have an underlying allergic condition involving sensitivity to reptiles, animal fur, and cockroaches, causing facial puffiness and itchiness.",
+    "answer": "asthma",
+    "metadata": {
+      "question": "What underlying condition might Joanna have based on her allergies?",
+      "answer": "asthma",
+      "evidence": [
+        "D5:11",
+        "D2:23"
+      ],
+      "category": 3
+    }
+  },
+  {
+    "question": "When did Joanna have an audition for a writing gig?",
+    "response": "There is no information in the available memories about the date when Joanna had an audition for a writing gig.",
+    "answer": "23 March, 2022.",
+    "metadata": {
+      "question": "When did Joanna have an audition for a writing gig?",
+      "answer": "23 March, 2022.",
+      "evidence": [
+        "D6:2"
+      ],
+      "category": 2
+    }
+  },
+  {
+    "question": "What nickname does Nate use for Joanna?",
+    "response": "There is no information available in the memories about a nickname that Nate uses for Joanna.",
+    "answer": "Jo",
+    "metadata": {
+      "question": "What nickname does Nate use for Joanna?",
+      "answer": "Jo",
+      "evidence": [
+        "D7:1"
+      ],
+      "category": 3
+    }
+  },
+  {
+    "question": "When did Nate get purple hair?",
+    "response": "There is no information in the memories about when Nate changed his hair color to purple.",
+    "answer": "The week before 15April, 2022.",
+    "metadata": {
+      "question": "When did Nate get purple hair?",
+      "answer": "The week before 15April, 2022.",
+      "evidence": [
+        "D7:1"
+      ],
+      "category": 2
+    }
+  },
+  {
+    "question": "What physical transformation did Nate undergo in April 2022?",
+    "response": "There is no information in the memories about any physical transformation Nate underwent in April 2022.",
+    "answer": "dyed his hair purple",
+    "metadata": {
+      "question": "What physical transformation did Nate undergo in April 2022?",
+      "answer": "dyed his hair purple",
+      "evidence": [
+        "D7:1",
+        "D7:3"
+      ],
+      "category": 2
+    }
+  },
+  {
+    "question": "What movie did Joanna watch on 1 May, 2022?",
+    "response": "There is no information in the memories about Joanna watching a movie on 1 May 2022.",
+    "answer": "Lord of the Rings",
+    "metadata": {
+      "question": "What movie did Joanna watch on 1 May, 2022?",
+      "answer": "Lord of the Rings",
+      "evidence": [
+        "D10:1"
+      ],
+      "category": 2
+    }
+  },
+  {
+    "question": "Which outdoor spot did Joanna visit in May?",
+    "response": "Joanna visited a peaceful and serene outdoor spot called Whispering Falls in May 2022.",
+    "answer": "Whispering Falls waterfall",
+    "metadata": {
+      "question": "Which outdoor spot did Joanna visit in May?",
+      "answer": "Whispering Falls waterfall",
+      "evidence": [
+        "D11:7"
+      ],
+      "category": 2
+    }
+  },
+  {
+    "question": "How many times has Joanna found new hiking trails?",
+    "response": "Joanna has found new hiking trails once, by May 2022.",
+    "answer": "twice",
+    "metadata": {
+      "question": "How many times has Joanna found new hiking trails?",
+      "answer": "twice",
+      "evidence": [
+        "D8:4",
+        "D11:3"
+      ],
+      "category": 1
+    }
+  },
+  {
+    "question": "When did Nate adopt Max?",
+    "response": "Nate adopted Max before May 20, 2022.",
+    "answer": "May 2022",
+    "metadata": {
+      "question": "When did Nate adopt Max?",
+      "answer": "May 2022",
+      "evidence": [
+        "D12:3"
+      ],
+      "category": 2
+    }
+  },
+  {
+    "question": "Who was the new addition to Nate's family in May 2022?",
+    "response": "The new addition to Nate's family in May 2022 was an energetic dog named Max.",
+    "answer": "Max",
+    "metadata": {
+      "question": "Who was the new addition to Nate's family in May 2022?",
+      "answer": "Max",
+      "evidence": [
+        "D12:3"
+      ],
+      "category": 2
+    }
+  },
+  {
+    "question": "When did Joanna start writing her third screenplay?",
+    "response": "Joanna completed her third screenplay by May 20, 2022. The exact start date is not specified in the memories.",
+    "answer": "May 2022",
+    "metadata": {
+      "question": "When did Joanna start writing her third screenplay?",
+      "answer": "May 2022",
+      "evidence": [
+        "D12:13",
+        "D12:14"
+      ],
+      "category": 2
+    }
+  },
+  {
+    "question": "Which of Joanna's screenplay were rejected from production companies?",
+    "response": "Joanna received a generic rejection letter from a major company for a screenplay she finished by early June 2022. The specific screenplay name is not detailed in the memories.",
+    "answer": "first screenplay on drama and romance, third screenplay on loss identity and connection",
+    "metadata": {
+      "question": "Which of Joanna's screenplay were rejected from production companies?",
+      "answer": "first screenplay on drama and romance, third screenplay on loss identity and connection",
+      "evidence": [
+        "D14:1",
+        "D3:1",
+        "D2:7",
+        "D24:12",
+        "D24:13"
+      ],
+      "category": 1
+    }
+  },
+  {
+    "question": "When is Nate hosting a gaming party?",
+    "response": "Nate is hosting a gaming party on June 24, 2022.",
+    "answer": "The weekend after 3June, 2022.",
+    "metadata": {
+      "question": "When is Nate hosting a gaming party?",
+      "answer": "The weekend after 3June, 2022.",
+      "evidence": [
+        "D14:20"
+      ],
+      "category": 2
+    }
+  },
+  {
+    "question": "When did Joanna hike with her buddies?",
+    "response": "Joanna hiked with her buddies around May 12, 2022.",
+    "answer": "The weekend after 3June, 2022.",
+    "metadata": {
+      "question": "When did Joanna hike with her buddies?",
+      "answer": "The weekend after 3June, 2022.",
+      "evidence": [
+        "D14:19"
+      ],
+      "category": 2
+    }
+  },
+  {
+    "question": "When did Nate win his third tourney?",
+    "response": "Nate won his third tournament on August 21, 2022.",
+    "answer": "The week before 3June, 2022",
+    "metadata": {
+      "question": "When did Nate win his third tourney?",
+      "answer": "The week before 3June, 2022",
+      "evidence": [
+        "D14:8"
+      ],
+      "category": 2
+    }
+  },
+  {
+    "question": "What places has Joanna submitted her work to?",
+    "response": "Joanna submitted her work to a film contest on June 24, 2022, and to movie producers in early November 2022. She also submitted several movie scripts for consideration in late October 2022.",
+    "answer": "film contest, film festival.",
+    "metadata": {
+      "question": "What places has Joanna submitted her work to?",
+      "answer": "film contest, film festival.",
+      "evidence": [
+        "D2:7",
+        "D16:1"
+      ],
+      "category": 1
+    }
+  },
+  {
+    "question": "When did Nate make vegan icecream and share it with a vegan diet group?",
+    "response": "Nate made vegan ice cream and shared it with his vegan diet group on June 17, 2022.",
+    "answer": "The Friday before 24June, 2022.",
+    "metadata": {
+      "question": "When did Nate make vegan icecream and share it with a vegan diet group?",
+      "answer": "The Friday before 24June, 2022.",
+      "evidence": [
+        "D16:8"
+      ],
+      "category": 2
+    }
+  },
+  {
+    "question": "When is Joanna going to make Nate's ice cream for her family?",
+    "response": "Joanna is going to make Nate's ice cream for her family on the weekend following June 24, 2022.",
+    "answer": "The weekend of 24June, 2022.",
+    "metadata": {
+      "question": "When is Joanna going to make Nate's ice cream for her family?",
+      "answer": "The weekend of 24June, 2022.",
+      "evidence": [
+        "D16:11"
+      ],
+      "category": 2
+    }
+  },
+  {
+    "question": "What kind of writings does Joanna do?",
+    "response": "Joanna writes screenplays, books, movie scripts (including a suspense thriller and a love story), and blog posts. She uses writing as an emotional outlet and creative escape, exploring deep themes like loss, redemption, and forgiveness.",
+    "answer": "Screenplays,books, online blog posts, journal",
+    "metadata": {
+      "question": "What kind of writings does Joanna do?",
+      "answer": "Screenplays,books, online blog posts, journal",
+      "evidence": [
+        "D2:3",
+        "D17:14",
+        "D18:1",
+        "D18:5"
+      ],
+      "category": 1
+    }
+  },
+  {
+    "question": "When did Nate win his fourth video game tournament?",
+    "response": "Nate won his fourth video game tournament online on Friday, July 8, 2022.",
+    "answer": "The Friday before 10July, 2022.",
+    "metadata": {
+      "question": "When did Nate win his fourth video game tournament?",
+      "answer": "The Friday before 10July, 2022.",
+      "evidence": [
+        "D17:1"
+      ],
+      "category": 2
+    }
+  },
+  {
+    "question": "Where did Joanna travel to in July 2022?",
+    "response": "Joanna traveled to Woodhaven, a small town in the Midwest, in early July 2022.",
+    "answer": "Woodhaven",
+    "metadata": {
+      "question": "Where did Joanna travel to in July 2022?",
+      "answer": "Woodhaven",
+      "evidence": [
+        "D17:4"
+      ],
+      "category": 2
+    }
+  },
+  {
+    "question": "When did someone write Joanna a touching letter?",
+    "response": "Joanna received a touching letter around early to mid August 2022.",
+    "answer": "The week before 14August, 2022.",
+    "metadata": {
+      "question": "When did someone write Joanna a touching letter?",
+      "answer": "The week before 14August, 2022.",
+      "evidence": [
+        "D18:5"
+      ],
+      "category": 2
+    }
+  },
+  {
+    "question": "What book recommendations has Joanna given to Nate?",
+    "response": "Joanna recommended a fantasy book series to Nate for relaxation.",
+    "answer": "\"Little Women\",'A Court of Thorns andRoses'.",
+    "metadata": {
+      "question": "What book recommendations has Joanna given to Nate?",
+      "answer": "\"Little Women\",'A Court of Thorns andRoses'.",
+      "evidence": [
+        "D3:17",
+        "D19:14",
+        "D19:16"
+      ],
+      "category": 1
+    }
+  },
+  {
+    "question": "When did Nate take time off to chill with his pets?",
+    "response": "Nate took time off to chill with his pets on November 10, 2022, when he took his turtles to the beach in Tampa.",
+    "answer": "The weekend of 22August, 2022.",
+    "metadata": {
+      "question": "When did Nate take time off to chill with his pets?",
+      "answer": "The weekend of 22August, 2022.",
+      "evidence": [
+        "D19:9"
+      ],
+      "category": 2
+    }
+  },
+  {
+    "question": "When did Joanna share her book with her writers group?",
+    "response": "Joanna shared her book with her writers group the week before August 22, 2022.",
+    "answer": "The week before 22August, 2022.",
+    "metadata": {
+      "question": "When did Joanna share her book with her writers group?",
+      "answer": "The week before 22August, 2022.",
+      "evidence": [
+        "D19:6"
+      ],
+      "category": 2
+    }
+  },
+  {
+    "question": "When did Nate win an international tournament?",
+    "response": "Nate won an international gaming tournament on August 21, 2022.",
+    "answer": "21 August, 2022",
+    "metadata": {
+      "question": "When did Nate win an international tournament?",
+      "answer": "21 August, 2022",
+      "evidence": [
+        "D19:1"
+      ],
+      "category": 2
+    }
+  },
+  {
+    "question": "When did Joanna make a desert with almond milk?",
+    "response": "Joanna made a dessert with almond milk on September 14, 2022.",
+    "answer": "The Friday before 14September, 2022",
+    "metadata": {
+      "question": "When did Joanna make a desert with almond milk?",
+      "answer": "The Friday before 14September, 2022",
+      "evidence": [
+        "D21:9"
+      ],
+      "category": 2
+    }
+  },
+  {
+    "question": "When did Nate attend a cooking show?",
+    "response": "Nate attended a cooking show on September 14, 2022.",
+    "answer": "The Monday before 14September, 2022",
+    "metadata": {
+      "question": "When did Nate attend a cooking show?",
+      "answer": "The Monday before 14September, 2022",
+      "evidence": [
+        "D21:4"
+      ],
+      "category": 2
+    }
+  },
+  {
+    "question": "When did Joanna's laptop crash?",
+    "response": "There is no information available in the memories about the date of Joanna's laptop crash.",
+    "answer": "The week before 14September, 2022",
+    "metadata": {
+      "question": "When did Joanna's laptop crash?",
+      "answer": "The week before 14September, 2022",
+      "evidence": [
+        "D21:1"
+      ],
+      "category": 2
+    }
+  },
+  {
+    "question": "When did Joanna make a chocolate tart with raspberries?",
+    "response": "Joanna made a chocolate tart with raspberries by September 14, 2022.",
+    "answer": "5 October, 2022",
+    "metadata": {
+      "question": "When did Joanna make a chocolate tart with raspberries?",
+      "answer": "5 October, 2022",
+      "evidence": [
+        "D22:1"
+      ],
+      "category": 2
+    }
+  },
+  {
+    "question": "What movies have both Joanna and Nate seen?",
+    "response": "There is no specific information in the memories about movies that both Joanna and Nate have watched together.",
+    "answer": "\"Little Women\", \"Lord of the Rings\"",
+    "metadata": {
+      "question": "What movies have both Joanna and Nate seen?",
+      "answer": "\"Little Women\", \"Lord of the Rings\"",
+      "evidence": [
+        "D3:17",
+        "D10:1",
+        "D22:8"
+      ],
+      "category": 1
+    }
+  },
+  {
+    "question": "How long did it take for Joanna to finish writing her book?",
+    "response": "Joanna took about three months to finish writing her book, starting around July 2022 and completing it by late September or early October 2022.",
+    "answer": "four months",
+    "metadata": {
+      "question": "How long did it take for Joanna to finish writing her book?",
+      "answer": "four months",
+      "evidence": [
+        "D17:14",
+        "D22:9"
+      ],
+      "category": 2
+    }
+  },
+  {
+    "question": "When did Nate win a lot of money in a video game tournament?",
+    "response": "Nate won a big money video game tournament around the beginning of October 2022, specifically on October 29, 2022.",
+    "answer": "September 2022",
+    "metadata": {
+      "question": "When did Nate win a lot of money in a video game tournament?",
+      "answer": "September 2022",
+      "evidence": [
+        "D22:2"
+      ],
+      "category": 2
+    }
+  },
+  {
+    "question": "When did Joanna finish up the writing for her book?",
+    "response": "Joanna finished writing and editing her book the week before October 6, 2022.",
+    "answer": "The week before 6October, 2022",
+    "metadata": {
+      "question": "When did Joanna finish up the writing for her book?",
+      "answer": "The week before 6October, 2022",
+      "evidence": [
+        "D22:9"
+      ],
+      "category": 2
+    }
+  },
+  {
+    "question": "What board games has Nate played?",
+    "response": "Nate has played the board games Catan and Chess.",
+    "answer": "Chess, Catan.",
+    "metadata": {
+      "question": "What board games has Nate played?",
+      "answer": "Chess, Catan.",
+      "evidence": [
+        "D16:2",
+        "D23:7"
+      ],
+      "category": 1
+    }
+  },
+  {
+    "question": "What places has Nate met new people?",
+    "response": "Nate met new people at a regional video game tournament in early June 2022, at a game convention on October 7, 2022, and through doggy playdates with a nearby couple starting May 2022.",
+    "answer": "A tournament and agaming convention.",
+    "metadata": {
+      "question": "What places has Nate met new people?",
+      "answer": "A tournament and agaming convention.",
+      "evidence": [
+        "D14:8",
+        "D23:1"
+      ],
+      "category": 1
+    }
+  },
+  {
+    "question": "When did Nate go to a convention and meet new people?",
+    "response": "Nate attended a game convention and met new people on October 7, 2022.",
+    "answer": "The Friday before 9October, 2022.",
+    "metadata": {
+      "question": "When did Nate go to a convention and meet new people?",
+      "answer": "The Friday before 9October, 2022.",
+      "evidence": [
+        "D23:1"
+      ],
+      "category": 2
+    }
+  },
+  {
+    "question": "How many times has Joanna's scripts been rejected?",
+    "response": "Joanna has received at least one confirmed rejection of her scripts, a generic rejection letter from a major company by early June 2022.",
+    "answer": "Twice",
+    "metadata": {
+      "question": "How many times has Joanna's scripts been rejected?",
+      "answer": "Twice",
+      "evidence": [
+        "D14:1",
+        "D24:12"
+      ],
+      "category": 1
+    }
+  },
+  {
+    "question": "What is something Nate gave to Joanna that brings her a lot of joy?",
+    "response": "Nate gave Joanna a stuffed animal that symbolizes good vibes and joy, which she cherishes and brings her a lot of joy.",
+    "answer": "stuffed toy pup",
+    "metadata": {
+      "question": "What is something Nate gave to Joanna that brings her a lot of joy?",
+      "answer": "stuffed toy pup",
+      "evidence": [
+        "D13:9",
+        "D24:2"
+      ],
+      "category": 1
+    }
+  },
+  {
+    "question": "When did Nate get Tilly for Joanna?",
+    "response": "Nate got Tilly for Joanna on or before May 25, 2022.",
+    "answer": "25 May, 2022",
+    "metadata": {
+      "question": "When did Nate get Tilly for Joanna?",
+      "answer": "25 May, 2022",
+      "evidence": [
+        "D13:9",
+        "D24:2"
+      ],
+      "category": 1
+    }
+  },
+  {
+    "question": "How many of Joanna's writing have made it to the big screen?",
+    "response": "Three of Joanna's writings have made it to the big screen.",
+    "answer": "two",
+    "metadata": {
+      "question": "How many of Joanna's writing have made it to the big screen?",
+      "answer": "two",
+      "evidence": [
+        "D15:1",
+        "D25:2"
+      ],
+      "category": 1
+    }
+  },
+  {
+    "question": "How many times has Nate taken his turtles on a walk?",
+    "response": "Nate has taken his turtles on a walk or outing at least 2 times.",
+    "answer": "Twice.",
+    "metadata": {
+      "question": "How many times has Nate taken his turtles on a walk?",
+      "answer": "Twice.",
+      "evidence": [
+        "D5:4",
+        "D25:15"
+      ],
+      "category": 1
+    }
+  },
+  {
+    "question": "When was Joanna's second movie script shown on the big screens?",
+    "response": "Joanna's second movie script was shown on the big screen sometime before October 23, 2022, which was the date of the third screening. The exact date of the second screening is not specified in the memories.",
+    "answer": "The Sunday before 25October, 2022.",
+    "metadata": {
+      "question": "When was Joanna's second movie script shown on the big screens?",
+      "answer": "The Sunday before 25October, 2022.",
+      "evidence": [
+        "D25:1"
+      ],
+      "category": 2
+    }
+  },
+  {
+    "question": "What is Joanna inspired by?",
+    "response": "Joanna is inspired by her cork board filled with quotes, photos, and keepsakes, childhood stories like a brave little turtle, nostalgic notes from her brother, her dream-inspired love story script, and milestones in her writing career.",
+    "answer": "Personal experiences,her own journey ofself discovery, Nate,nature, validation,stories about findingcourage and takingrisks, people she knows, stuff she sees, imagination",
+    "metadata": {
+      "question": "What is Joanna inspired by?",
+      "answer": "Personal experiences,her own journey ofself discovery, Nate,nature, validation,stories about findingcourage and takingrisks, people she knows, stuff she sees, imagination",
+      "evidence": [
+        "D4:6",
+        "D7:6",
+        "D11:11",
+        "D26:3",
+        "D26:7",
+        "D25:10"
+      ],
+      "category": 1
+    }
+  },
+  {
+    "question": "What animal do both Nate and Joanna like?",
+    "response": "Both Nate and Joanna like dogs.",
+    "answer": "Turtles.",
+    "metadata": {
+      "question": "What animal do both Nate and Joanna like?",
+      "answer": "Turtles.",
+      "evidence": [
+        "D5:6",
+        "D26:9"
+      ],
+      "category": 1
+    }
+  },
+  {
+    "question": "When did Joanna plan to go over to Nate's and share recipes?",
+    "response": "Joanna planned to visit Nate to share recipes around November 4, 2022.",
+    "answer": "5 November, 2022.",
+    "metadata": {
+      "question": "When did Joanna plan to go over to Nate's and share recipes?",
+      "answer": "5 November, 2022.",
+      "evidence": [
+        "D26:19"
+      ],
+      "category": 2
+    }
+  },
+  {
+    "question": "What things has Nate reccomended to Joanna?",
+    "response": "Nate has recommended to Joanna a book series with battles and interesting characters, gave her an inspirational gift to encourage her life journey, gifted her a stuffed animal symbolizing good vibes and joy, and shared his vegan/dairy-free coconut milk ice cream recipes and lactose-free dessert ideas.",
+    "answer": "A pet,\"The Lord of the Rings\" movies,a dragon book series,coconut flavoring,\"Project Hail Mary\" book,Xenoblade Chronicles, dairy-free margarine, coconut oil",
+    "metadata": {
+      "question": "What things has Nate reccomended to Joanna?",
+      "answer": "A pet,\"The Lord of the Rings\" movies,a dragon book series,coconut flavoring,\"Project Hail Mary\" book,Xenoblade Chronicles, dairy-free margarine, coconut oil",
+      "evidence": [
+        "D2:14",
+        "D9:12",
+        "D9:14",
+        "D10:11",
+        "D19:17",
+        "D27:23",
+        "D10:19"
+      ],
+      "category": 1
+    }
+  },
+  {
+    "question": "What does Joanna do to remember happy memories?",
+    "response": "Joanna remembers happy memories by keeping childhood notes from her brother that inspire her and remind her of sweet times, and by maintaining a cork board with inspiring quotes, photos, and keepsakes for daily motivation and encouragement.",
+    "answer": "Hangs them on a corkboard, writes themin a notebook.",
+    "metadata": {
+      "question": "What does Joanna do to remember happy memories?",
+      "answer": "Hangs them on a corkboard, writes themin a notebook.",
+      "evidence": [
+        "D15:9",
+        "D27:34"
+      ],
+      "category": 1
+    }
+  },
+  {
+    "question": "What Console does Nate own?",
+    "response": "The memories do not explicitly specify the gaming console Nate owns.",
+    "answer": "A Nintendo Switch; since the game \"Xenoblade 2\" is made for this console.",
+    "metadata": {
+      "question": "What Console does Nate own?",
+      "answer": "A Nintendo Switch; since the game \"Xenoblade 2\" is made for this console.",
+      "evidence": [
+        "D27:23"
+      ],
+      "category": 3
+    }
+  },
+  {
+    "question": "What mediums does Nate use to play games?",
+    "response": "Nate plays games using his upgraded home gaming setup for practice and competition, participates in online tournaments, and creates gaming content on YouTube. His game types include team shooters like CS:GO and Japanese RPGs like Xeonoblade Chronicles.",
+    "answer": "Gamecube, PC,Playstation.",
+    "metadata": {
+      "question": "What mediums does Nate use to play games?",
+      "answer": "Gamecube, PC,Playstation.",
+      "evidence": [
+        "D22:2",
+        "D27:21",
+        "D27:15"
+      ],
+      "category": 1
+    }
+  },
+  {
+    "question": "How many letters has Joanna recieved?",
+    "response": "Joanna has received one letter.",
+    "answer": "Two",
+    "metadata": {
+      "question": "How many letters has Joanna recieved?",
+      "answer": "Two",
+      "evidence": [
+        "D14:1",
+        "D18:5"
+      ],
+      "category": 1
+    }
+  },
+  {
+    "question": "What video games does Nate play?",
+    "response": "Nate plays CS:GO, Street Fighter, and Xeonoblade Chronicles.",
+    "answer": "Valorant, Counter Strike:Global Offensive,Xenoblade Chronicles, StreetFighter, Cyberpunk 2077",
+    "metadata": {
+      "question": "What video games does Nate play?",
+      "answer": "Valorant, Counter Strike:Global Offensive,Xenoblade Chronicles, StreetFighter, Cyberpunk 2077",
+      "evidence": [
+        "D10:6",
+        "D27:1",
+        "D27:23",
+        "D1:7",
+        "D23:17"
+      ],
+      "category": 1
+    }
+  },
+  {
+    "question": "When did Nate win a big Valorant tourney?",
+    "response": "Nate won the big Valorant tournament on November 5, 2022.",
+    "answer": "The Saturday before 7November, 2022",
+    "metadata": {
+      "question": "When did Nate win a big Valorant tourney?",
+      "answer": "The Saturday before 7November, 2022",
+      "evidence": [
+        "D27:1"
+      ],
+      "category": 2
+    }
+  },
+  {
+    "question": "Which torunament did Nate win in the beginning of November 2022?",
+    "response": "Nate won a big Valorant tournament final on November 5, 2022.",
+    "answer": "Valorant",
+    "metadata": {
+      "question": "Which torunament did Nate win in the beginning of November 2022?",
+      "answer": "Valorant",
+      "evidence": [
+        "D27:1"
+      ],
+      "category": 2
+    }
+  },
+  {
+    "question": "What alternative career might Nate consider after gaming?",
+    "response": "Nate might consider joining a new gaming team after his next tournament as an alternative career option following his current gaming activities.",
+    "answer": "an animalkeeper at a localzoo and workingwith turtles; as heknows a great dealabout turtles andhow to care for them,and he enjoys it.",
+    "metadata": {
+      "question": "What alternative career might Nate consider after gaming?",
+      "answer": "an animalkeeper at a localzoo and workingwith turtles; as heknows a great dealabout turtles andhow to care for them,and he enjoys it.",
+      "evidence": [
+        "D5:8",
+        "D19:3",
+        "D25:19",
+        "D28:25"
+      ],
+      "category": 3
+    }
+  },
+  {
+    "question": "What pets does Nate have?",
+    "response": "Nate has three pet turtles and an energetic dog named Max.",
+    "answer": "A dog and threeturtles.",
+    "metadata": {
+      "question": "What pets does Nate have?",
+      "answer": "A dog and threeturtles.",
+      "evidence": [
+        "D8:3",
+        "D12:3",
+        "D28:23"
+      ],
+      "category": 1
+    }
+  },
+  {
+    "question": "How many hikes has Joanna been on?",
+    "response": "Joanna has been on several hikes, including discovering new trails by May 2022 and taking a sunset photo on a hike in summer 2022. The exact number of hikes is not specified, but she has multiple hiking experiences.",
+    "answer": "Four",
+    "metadata": {
+      "question": "How many hikes has Joanna been on?",
+      "answer": "Four",
+      "evidence": [
+        "D7:6",
+        "D11:5",
+        "D14:21",
+        "D28:22"
+      ],
+      "category": 3
+    }
+  },
+  {
+    "question": "How many turtles does Nate have?",
+    "response": "Nate has three turtles.",
+    "answer": "Three",
+    "metadata": {
+      "question": "How many turtles does Nate have?",
+      "answer": "Three",
+      "evidence": [
+        "D8:3",
+        "D28:23"
+      ],
+      "category": 1
+    }
+  },
+  {
+    "question": "What activities does Nate do with his turtles?",
+    "response": "Nate watches his turtles eat, holds them, takes them for walks, and brought them to the beach in Tampa for a calming outing. He enjoys their companionship and the peace they bring him.",
+    "answer": "takes them onwalks, holds them,feeds themstrawberries, givesthem baths.",
+    "metadata": {
+      "question": "What activities does Nate do with his turtles?",
+      "answer": "takes them onwalks, holds them,feeds themstrawberries, givesthem baths.",
+      "evidence": [
+        "D25:21",
+        "D25:23",
+        "D28:31"
+      ],
+      "category": 1
+    }
+  },
+  {
+    "question": "What do both Joanna and Nate appreciate the beauty of?",
+    "response": "Both Joanna and Nate appreciate the beauty of nature. Joanna finds inspiration in natural scenes like sunsets during hikes, and Nate finds calm and joy in watching his pet turtles.",
+    "answer": "Nature",
+    "metadata": {
+      "question": "What do both Joanna and Nate appreciate the beauty of?",
+      "answer": "Nature",
+      "evidence": [
+        "D11:9",
+        "D28:23"
+      ],
+      "category": 1
+    }
+  },
+  {
+    "question": "When did Joanna plan on going to Nate's to watch him play with his turtles?",
+    "response": "Joanna looks forward to visiting Nate to watch him play with his turtles safely, but no specific planned date is recorded in the memories.",
+    "answer": "10 November, 2022",
+    "metadata": {
+      "question": "When did Joanna plan on going to Nate's to watch him play with his turtles?",
+      "answer": "10 November, 2022",
+      "evidence": [
+        "D28:32"
+      ],
+      "category": 2
+    }
+  },
+  {
+    "question": "What state did Joanna visit in summer 2021?",
+    "response": "There is no available memory information about the state Joanna visited in summer 2021.",
+    "answer": "Indiana",
+    "metadata": {
+      "question": "What state did Joanna visit in summer 2021?",
+      "answer": "Indiana",
+      "evidence": [
+        "D28:22"
+      ],
+      "category": 3
+    }
+  },
+  {
+    "question": "What recommendations has Nate received from Joanna?",
+    "response": "Joanna recommended Nate read fantasy book series for relaxation and shared dairy-free dessert recipe ideas inspired by Nate's coconut milk ice cream recipe.",
+    "answer": "\"Eternal Sunshine of the Spotless Mind\" movie, \"A Court of Thorns and Roses\" book, pointers for making living room comfy, starting a cork board for memories, \"Little Women\" movie",
+    "metadata": {
+      "question": "What recommendations has Nate received from Joanna?",
+      "answer": "\"Eternal Sunshine of the Spotless Mind\" movie, \"A Court of Thorns and Roses\" book, pointers for making living room comfy, starting a cork board for memories, \"Little Women\" movie",
+      "evidence": [
+        "D1:16",
+        "D3:17",
+        "D15:14",
+        "D15:15",
+        "D19:15",
+        "D19:16",
+        "D23:26"
+      ],
+      "category": 1
+    }
+  },
+  {
+    "question": "What are Nate's favorite desserts?",
+    "response": "Nate's favorite desserts are dairy-free chocolate mousse and vegan coconut milk ice cream, which he often experiments with in colorful variations.",
+    "answer": "coconut milk icecream, dairy-free chocolate cake with berries, chocolate and mixed-berry icecream, dairy-free chocolate mousse",
+    "metadata": {
+      "question": "What are Nate's favorite desserts?",
+      "answer": "coconut milk icecream, dairy-free chocolate cake with berries, chocolate and mixed-berry icecream, dairy-free chocolate mousse",
+      "evidence": [
+        "D3:4",
+        "D3:10",
+        "D21:10",
+        "D3:12"
+      ],
+      "category": 1
+    }
+  },
+  {
+    "question": "How has Nate tried to disburse his vegan ice-cream recipes?",
+    "response": "Nate has disbursed his vegan ice cream recipes by sharing them with his vegan diet group (notably on June 17, 2022), teaching through a cooking show around September 2022, and directly teaching people including Joanna. He actively shares recipes, encourages others to try them, and experiments with new flavors to share.",
+    "answer": "teaching others, cooking show",
+    "metadata": {
+      "question": "How has Nate tried to disburse his vegan ice-cream recipes?",
+      "answer": "teaching others, cooking show",
+      "evidence": [
+        "D18:8",
+        "D21:4"
+      ],
+      "category": 1
+    }
+  },
+  {
+    "question": "When did Nate win his second tournament?",
+    "response": "Nate won his second tournament in late April 2022.",
+    "answer": "The week before 2 May, 2022.",
+    "metadata": {
+      "question": "When did Nate win his second tournament?",
+      "answer": "The week before 2 May, 2022.",
+      "evidence": [
+        "D10:4"
+      ],
+      "category": 2
+    }
+  },
+  {
+    "question": "How many video game tournaments has Nate participated in?",
+    "response": "Nate has participated in at least five video game tournaments.",
+    "answer": "nine",
+    "metadata": {
+      "question": "How many video game tournaments has Nate participated in?",
+      "answer": "nine",
+      "evidence": [
+        "D1:3",
+        "D6:7",
+        "D10:4",
+        "D14:8",
+        "D17:1",
+        "D19:1",
+        "D20:1",
+        "D22:2",
+        "D27:1"
+      ],
+      "category": 1
+    }
+  },
+  {
+    "question": "How many screenplays has Joanna written?",
+    "response": "Joanna has written at least three screenplays by May 20, 2022.",
+    "answer": "three",
+    "metadata": {
+      "question": "How many screenplays has Joanna written?",
+      "answer": "three",
+      "evidence": [
+        "D2:3",
+        "D4:10",
+        "D5:1",
+        "D12:13",
+        "D12:14"
+      ],
+      "category": 1
+    }
+  },
+  {
+    "question": "How many tournaments has Nate won?",
+    "response": "Nate has won at least seven tournaments.",
+    "answer": "seven",
+    "metadata": {
+      "question": "How many tournaments has Nate won?",
+      "answer": "seven",
+      "evidence": [
+        "D1:3",
+        "D10:4",
+        "D14:8",
+        "D17:1",
+        "D19:1",
+        "D22:2",
+        "D27:1"
+      ],
+      "category": 1
+    }
+  },
+  {
+    "question": "What recipes has Joanna made?",
+    "response": "Joanna has made dairy-free recipes including chocolate raspberry tart, dairy-free chocolate cake with raspberries, blueberry coconut milk dessert with gluten-free crust, and a dairy-free vanilla cake with strawberry filling and coconut cream frosting.",
+    "answer": "dairy free vanilla cake with strawberry filling and coconut cream frosting, parfait, strawberry chocolate cake, chocolate coconut cupcakes, chocolate raspberry tart, chocolate cake with raspberries, blueberry cheesecake bars",
+    "metadata": {
+      "question": "What recipes has Joanna made?",
+      "answer": "dairy free vanilla cake with strawberry filling and coconut cream frosting, parfait, strawberry chocolate cake, chocolate coconut cupcakes, chocolate raspberry tart, chocolate cake with raspberries, blueberry cheesecake bars",
+      "evidence": [
+        "D10:9",
+        "D10:11",
+        "D19:8",
+        "D20:2",
+        "D20:10",
+        "D21:11",
+        "D22:1",
+        "D21:3",
+        "D21:17"
+      ],
+      "category": 1
+    }
+  },
+  {
+    "question": "What recipes has Nate made?",
+    "response": "Nate has made vegan coconut milk ice cream, homemade coconut ice cream with color-changing sprinkles, chocolate raspberry tart, dairy-free chocolate cake with raspberries, and blueberry coconut milk dessert. He also teaches these dairy-free dessert recipes including vegan ice cream on his cooking show.",
+    "answer": "coconut milk icecream, chocolate and vanilla swirl",
+    "metadata": {
+      "question": "What recipes has Nate made?",
+      "answer": "coconut milk icecream, chocolate and vanilla swirl",
+      "evidence": [
+        "D3:4",
+        "D4:3"
+      ],
+      "category": 1
+    }
+  },
+  {
+    "question": "What are the skills that Nate has helped others learn?",
+    "response": "Nate has helped others learn how to make vegan ice cream and various dairy-free desserts, including chocolate raspberry tart, dairy-free chocolate cake with raspberries, blueberry coconut milk dessert, and chocolate and vanilla swirl ice cream, with detailed steps and flavor variations.",
+    "answer": "coconut milk ice cream recipe, reset high scores, tips to improve gaming skills",
+    "metadata": {
+      "question": "What are the skills that Nate has helped others learn?",
+      "answer": "coconut milk ice cream recipe, reset high scores, tips to improve gaming skills",
+      "evidence": [
+        "D18:8",
+        "D26:12",
+        "D14:16"
+      ],
+      "category": 1
+    }
+  },
+  {
+    "question": "Was the first half of September 2022 a good month career-wise for Nate and Joanna? Answer yes or no.",
+    "response": "Yes.",
+    "answer": "No; because both of them faced setbacks in their career",
+    "metadata": {
+      "question": "Was the first half of September 2022 a good month career-wise for Nate and Joanna? Answer yes or no.",
+      "answer": "No; because both of them faced setbacks in their career",
+      "evidence": [
+        "D20:1",
+        "D21:1"
+      ],
+      "category": 3
+    }
+  },
+  {
+    "question": "What kind of job is Joanna beginning to preform the duties of because of her movie scripts?",
+    "response": "Joanna is beginning to perform the duties of a filmmaker or movie director.",
+    "answer": "filmmaker.",
+    "metadata": {
+      "question": "What kind of job is Joanna beginning to preform the duties of because of her movie scripts?",
+      "answer": "filmmaker.",
+      "evidence": [
+        "D29:1"
+      ],
+      "category": 3
+    }
+  },
+  {
+    "question": "When did Nate take his turtles to the beach?",
+    "response": "Nate took his turtles to the beach on November 10, 2022.",
+    "answer": "10 November, 2022",
+    "metadata": {
+      "question": "When did Nate take his turtles to the beach?",
+      "answer": "10 November, 2022",
+      "evidence": [
+        "D29:6"
+      ],
+      "category": 2
+    }
+  },
+  {
+    "question": "What state did Nate visit?",
+    "response": "Nate visited Florida.",
+    "answer": "Florida",
+    "metadata": {
+      "question": "What state did Nate visit?",
+      "answer": "Florida",
+      "evidence": [
+        "D29:6"
+      ],
+      "category": 3
+    }
+  },
+  {
+    "question": "What is one of Joanna's favorite movies?",
+    "response": "One of Joanna's favorite movies is a romantic drama about memory and relationships that she first watched around 2019 and owns a physical copy of.",
+    "answer": "\"Eternal Sunshineof the Spotless Mind\"",
+    "metadata": {
+      "question": "What is one of Joanna's favorite movies?",
+      "answer": "\"Eternal Sunshineof the Spotless Mind\"",
+      "evidence": [
+        "D1:18",
+        "D",
+        "D1:20"
+      ],
+      "category": 4
+    }
+  },
+  {
+    "question": "What color did Nate choose for his hair?",
+    "response": "There is no information in the memories about the color Nate chose for his hair.",
+    "answer": "purple",
+    "metadata": {
+      "question": "What color did Nate choose for his hair?",
+      "answer": "purple",
+      "evidence": [
+        "D7:1",
+        "D7:3"
+      ],
+      "category": 4
+    }
+  },
+  {
+    "question": "What is Nate's favorite movie trilogy?",
+    "response": "Nate's favorite movie trilogy is not specified in the available memories.",
+    "answer": "Lord of the Rings",
+    "metadata": {
+      "question": "What is Nate's favorite movie trilogy?",
+      "answer": "Lord of the Rings",
+      "evidence": [
+        "D9:12"
+      ],
+      "category": 4
+    }
+  },
+  {
+    "question": "What is Nate's favorite book series about?",
+    "response": "Nate's favorite book series is about awesome battles and interesting characters.",
+    "answer": "dragons",
+    "metadata": {
+      "question": "What is Nate's favorite book series about?",
+      "answer": "dragons",
+      "evidence": [
+        "D9:14"
+      ],
+      "category": 4
+    }
+  },
+  {
+    "question": "What kind of lighting does Nate's gaming room have?",
+    "response": "There is no specific information in the memories about the kind of lighting in Nate's gaming room.",
+    "answer": "red and purple lighting",
+    "metadata": {
+      "question": "What kind of lighting does Nate's gaming room have?",
+      "answer": "red and purple lighting",
+      "evidence": [
+        "D10:2"
+      ],
+      "category": 4
+    }
+  },
+  {
+    "question": "What game was the second tournament that Nate won based on?",
+    "response": "Nate's second tournament win was based on a local Street Fighter competition.",
+    "answer": "Street Fighter",
+    "metadata": {
+      "question": "What game was the second tournament that Nate won based on?",
+      "answer": "Street Fighter",
+      "evidence": [
+        "D10:4",
+        "D10:6"
+      ],
+      "category": 4
+    }
+  },
+  {
+    "question": "What is Joanna's third screenplay about?",
+    "response": "Joanna's third screenplay is about themes of loss, identity, and connection.",
+    "answer": "loss, identity, and connection",
+    "metadata": {
+      "question": "What is Joanna's third screenplay about?",
+      "answer": "loss, identity, and connection",
+      "evidence": [
+        "D12:13",
+        "D12:14"
+      ],
+      "category": 4
+    }
+  },
+  {
+    "question": "What is Nate's favorite video game?",
+    "response": "Nate's favorite video game is Xeonoblade Chronicles.",
+    "answer": "Xenoblade Chronicles",
+    "metadata": {
+      "question": "What is Nate's favorite video game?",
+      "answer": "Xenoblade Chronicles",
+      "evidence": [
+        "D27:22",
+        "D27:23"
+      ],
+      "category": 4
+    }
+  },
+  {
+    "question": "What type of movies does Nate enjoy watching the most?",
+    "response": "Nate enjoys watching action and sci-fi movies the most.",
+    "answer": "action and sci-fi",
+    "metadata": {
+      "question": "What type of movies does Nate enjoy watching the most?",
+      "answer": "action and sci-fi",
+      "evidence": [
+        "D1:13"
+      ],
+      "category": 4
+    }
+  },
+  {
+    "question": "What did Joanna just finish last Friday on 23 January, 2022?",
+    "response": "There is no available information in the memories about Joanna finishing a task on 23 January 2022.",
+    "answer": "screenplay",
+    "metadata": {
+      "question": "What did Joanna just finish last Friday on 23 January, 2022?",
+      "answer": "screenplay",
+      "evidence": [
+        "D2:3"
+      ],
+      "category": 4
+    }
+  },
+  {
+    "question": "What genre is Joanna's first screenplay?",
+    "response": "Joanna's first screenplay genre is a love story.",
+    "answer": "drama and romance",
+    "metadata": {
+      "question": "What genre is Joanna's first screenplay?",
+      "answer": "drama and romance",
+      "evidence": [
+        "D2:5"
+      ],
+      "category": 4
+    }
+  },
+  {
+    "question": "What are Joanna's plans for her finished screenplay in January 2022?",
+    "response": "There is no specific recorded information about Joanna's plans for her finished screenplay in January 2022 in the available memories.",
+    "answer": "submit it to film festivals and get producers and directors to check it out",
+    "metadata": {
+      "question": "What are Joanna's plans for her finished screenplay in January 2022?",
+      "answer": "submit it to film festivals and get producers and directors to check it out",
+      "evidence": [
+        "D2:7"
+      ],
+      "category": 4
+    }
+  },
+  {
+    "question": "For how long has Nate had his turtles?",
+    "response": "Nate has had his turtles for about 3 years.",
+    "answer": "3 years",
+    "metadata": {
+      "question": "For how long has Nate had his turtles?",
+      "answer": "3 years",
+      "evidence": [
+        "D2:12"
+      ],
+      "category": 4
+    }
+  },
+  {
+    "question": "What did Nate think of the coconut milk ice cream he made?",
+    "response": "Nate thinks very positively of his coconut milk ice cream. He finds it smooth, creamy, with a tropical coconut flavor, and enjoys experimenting with colorful flavors and mix-ins. He shares this enthusiasm with Joanna, who is eager to try his updated recipes.",
+    "answer": "Super good, rich and creamy",
+    "metadata": {
+      "question": "What did Nate think of the coconut milk ice cream he made?",
+      "answer": "Super good, rich and creamy",
+      "evidence": [
+        "D3:6"
+      ],
+      "category": 4
+    }
+  },
+  {
+    "question": "Which dairy-free dessert flavors does Nate enjoy?",
+    "response": "Nate enjoys dairy-free dessert flavors such as creamy chocolate mousse and vegan coconut milk ice cream with a tropical coconut twist. He also experiments with colorful coconut milk ice cream flavors and mix-ins.",
+    "answer": "chocolate and mixed berry",
+    "metadata": {
+      "question": "Which dairy-free dessert flavors does Nate enjoy?",
+      "answer": "chocolate and mixed berry",
+      "evidence": [
+        "D3:10"
+      ],
+      "category": 4
+    }
+  },
+  {
+    "question": "What did Joanna recently watch and recommend to Nate on February 7, 2022?",
+    "response": "There is no memory record of what Joanna recently watched and recommended to Nate on February 7, 2022.",
+    "answer": "\"Little Women\"",
+    "metadata": {
+      "question": "What did Joanna recently watch and recommend to Nate on February 7, 2022?",
+      "answer": "\"Little Women\"",
+      "evidence": [
+        "D3:17"
+      ],
+      "category": 4
+    }
+  },
+  {
+    "question": "What is \"Little Women\" about according to Joanna?",
+    "response": "There is no information in the memories about Joanna's interpretation or what 'Little Women' is about according to her.",
+    "answer": "Sisterhood, love, and reaching for your dreams",
+    "metadata": {
+      "question": "What is \"Little Women\" about according to Joanna?",
+      "answer": "Sisterhood, love, and reaching for your dreams",
+      "evidence": [
+        "D3:17"
+      ],
+      "category": 4
+    }
+  },
+  {
+    "question": "What flavor of ice cream did Nate make for his friend on 25 February, 2022?",
+    "response": "Nate made dairy-free coconut milk ice cream on 25 February 2022.",
+    "answer": "chocolate and vanilla swirl",
+    "metadata": {
+      "question": "What flavor of ice cream did Nate make for his friend on 25 February, 2022?",
+      "answer": "chocolate and vanilla swirl",
+      "evidence": [
+        "D4:3"
+      ],
+      "category": 4
+    }
+  },
+  {
+    "question": "What inspired Joanna's new screenplay on 25 February, 2022?",
+    "response": "Joanna's new screenplay on 25 February 2022 was inspired by a dream.",
+    "answer": "personal experiences and her own journey of self-discovery",
+    "metadata": {
+      "question": "What inspired Joanna's new screenplay on 25 February, 2022?",
+      "answer": "personal experiences and her own journey of self-discovery",
+      "evidence": [
+        "D4:16"
+      ],
+      "category": 4
+    }
+  },
+  {
+    "question": "Why does Nate like turtles as pets?",
+    "response": "Nate likes turtles as pets because they bring him calm, joy, and peace. They help him manage stress, have distinct personalities, are low-maintenance, and he enjoys their companionship and watching them.",
+    "answer": "Their slow pace and calming nature",
+    "metadata": {
+      "question": "Why does Nate like turtles as pets?",
+      "answer": "Their slow pace and calming nature",
+      "evidence": [
+        "D5:6"
+      ],
+      "category": 4
+    }
+  },
+  {
+    "question": "How does Nate describe the process of taking care of turtles?",
+    "response": "Nate describes taking care of his turtles as providing them a spacious tank to swim and be comfortable, feeding them a varied diet including vegetables, fruits, and insects, and appreciating their distinct personalities\u2014one adventurous and one reserved. He finds joy and calm in their companionship and enjoys watching and holding them.",
+    "answer": "Not tough; keep their area clean, feed them properly, give them enough light.",
+    "metadata": {
+      "question": "How does Nate describe the process of taking care of turtles?",
+      "answer": "Not tough; keep their area clean, feed them properly, give them enough light.",
+      "evidence": [
+        "D5:8"
+      ],
+      "category": 4
+    }
+  },
+  {
+    "question": "What was Joanna's audition for?",
+    "response": "There is no information in the available memories about what Joanna's audition was for.",
+    "answer": "writing gig",
+    "metadata": {
+      "question": "What was Joanna's audition for?",
+      "answer": "writing gig",
+      "evidence": [
+        "D6:2"
+      ],
+      "category": 4
+    }
+  },
+  {
+    "question": "Why did Nate choose the hair color he did?",
+    "response": "There is no information in the memories about why Nate chose the hair color he did.",
+    "answer": "Bright and bold - like him",
+    "metadata": {
+      "question": "Why did Nate choose the hair color he did?",
+      "answer": "Bright and bold - like him",
+      "evidence": [
+        "D7:5"
+      ],
+      "category": 4
+    }
+  },
+  {
+    "question": "What are the main ingredients of the ice cream recipe shared by Nate?",
+    "response": "The main ingredients of Nate's dairy-free coconut milk ice cream recipe are coconut milk, a sweetener (such as sugar), vanilla extract (optional for flavor), and a pinch of salt.",
+    "answer": "Coconut milk, vanilla extract, sugar, salt",
+    "metadata": {
+      "question": "What are the main ingredients of the ice cream recipe shared by Nate?",
+      "answer": "Coconut milk, vanilla extract, sugar, salt",
+      "evidence": [
+        "D8:19"
+      ],
+      "category": 4
+    }
+  },
+  {
+    "question": "What is Joanna's project called in the writers group?",
+    "response": "Joanna's project in the writers group is called \"Finding Home\".",
+    "answer": "\"Finding Home\"",
+    "metadata": {
+      "question": "What is Joanna's project called in the writers group?",
+      "answer": "\"Finding Home\"",
+      "evidence": [
+        "D9:3"
+      ],
+      "category": 4
+    }
+  },
+  {
+    "question": "What is Nate's favorite genre of movies?",
+    "response": "Nate's favorite movie genres are action and sci-fi.",
+    "answer": "Fantasy and sci-fi",
+    "metadata": {
+      "question": "What is Nate's favorite genre of movies?",
+      "answer": "Fantasy and sci-fi",
+      "evidence": [
+        "D9:10"
+      ],
+      "category": 4
+    }
+  },
+  {
+    "question": "What kind of books does Nate enjoy?",
+    "response": "Nate enjoys book series with battles and interesting characters.",
+    "answer": "Adventures and magic",
+    "metadata": {
+      "question": "What kind of books does Nate enjoy?",
+      "answer": "Adventures and magic",
+      "evidence": [
+        "D9:14"
+      ],
+      "category": 4
+    }
+  },
+  {
+    "question": "What kind of films does Joanna enjoy?",
+    "response": "Joanna enjoys romantic dramas and suspense thrillers, particularly films with deep emotional themes and character-driven stories.",
+    "answer": "Dramas and emotionally-driven films",
+    "metadata": {
+      "question": "What kind of films does Joanna enjoy?",
+      "answer": "Dramas and emotionally-driven films",
+      "evidence": [
+        "D9:9"
+      ],
+      "category": 4
+    }
+  },
+  {
+    "question": "Which activity helps Nate escape and stimulates his imagination?",
+    "response": "Nate's gaming, including playing team shooters, attending game conventions, and creating gaming content for YouTube, helps him escape and stimulates his imagination.",
+    "answer": "watching fantasy and sci-fi movies",
+    "metadata": {
+      "question": "Which activity helps Nate escape and stimulates his imagination?",
+      "answer": "watching fantasy and sci-fi movies",
+      "evidence": [
+        "D9:10"
+      ],
+      "category": 4
+    }
+  },
+  {
+    "question": "What filling did Joanna use in the cake she made recently in May 2022?",
+    "response": "Joanna used strawberry filling in the cake she made recently in May 2022.",
+    "answer": "strawberry",
+    "metadata": {
+      "question": "What filling did Joanna use in the cake she made recently in May 2022?",
+      "answer": "strawberry",
+      "evidence": [
+        "D10:11"
+      ],
+      "category": 4
+    }
+  },
+  {
+    "question": "What kind of frosting did Joanna use on the cake she made recently in May 2022?",
+    "response": "Joanna used coconut cream frosting on the cake she made recently in May 2022.",
+    "answer": "coconut cream",
+    "metadata": {
+      "question": "What kind of frosting did Joanna use on the cake she made recently in May 2022?",
+      "answer": "coconut cream",
+      "evidence": [
+        "D10:11"
+      ],
+      "category": 4
+    }
+  },
+  {
+    "question": "What does Nate feel he could do when out in cool places like Whispering Falls?",
+    "response": "Nate feels calm and interested in joining hikes to cool places like Whispering Falls, hoping to gain creative inspiration for screenplays.",
+    "answer": "write a whole movie",
+    "metadata": {
+      "question": "What does Nate feel he could do when out in cool places like Whispering Falls?",
+      "answer": "write a whole movie",
+      "evidence": [
+        "D11:13"
+      ],
+      "category": 4
+    }
+  },
+  {
+    "question": "What creative activity does Nate joke about pursuing after being inspired by their hikes with Jo?",
+    "response": "There is no specific record in the memories of Nate joking about pursuing a creative activity inspired by hikes with Joanna.",
+    "answer": "Start thinking about a drama and publish a screenplay",
+    "metadata": {
+      "question": "What creative activity does Nate joke about pursuing after being inspired by their hikes with Jo?",
+      "answer": "Start thinking about a drama and publish a screenplay",
+      "evidence": [
+        "D11:16"
+      ],
+      "category": 4
+    }
+  },
+  {
+    "question": "Who invited Nate to join her on the trails sometime?",
+    "response": "Joanna invited Nate to join her on the trails.",
+    "answer": "Joanna",
+    "metadata": {
+      "question": "Who invited Nate to join her on the trails sometime?",
+      "answer": "Joanna",
+      "evidence": [
+        "D11:17"
+      ],
+      "category": 4
+    }
+  },
+  {
+    "question": "What did Nate do for Joanna on 25 May, 2022?",
+    "response": "On May 25, 2022, Nate gifted Joanna a stuffed animal as a symbol of good vibes and joy. He also arranged doggy playdates for his dog Max with a nearby couple's dog.",
+    "answer": "get her a stuffed animal",
+    "metadata": {
+      "question": "What did Nate do for Joanna on 25 May, 2022?",
+      "answer": "get her a stuffed animal",
+      "evidence": [
+        "D13:9"
+      ],
+      "category": 4
+    }
+  },
+  {
+    "question": "How does Nate describe the stuffed animal he got for Joanna?",
+    "response": "Nate describes the stuffed animal he got for Joanna as a symbol of good vibes and joy in their friendship, meant to remind her of happiness and emotional support.",
+    "answer": "A stuffed animal to remind you of the good vibes",
+    "metadata": {
+      "question": "How does Nate describe the stuffed animal he got for Joanna?",
+      "answer": "A stuffed animal to remind you of the good vibes",
+      "evidence": [
+        "D13:11"
+      ],
+      "category": 4
+    }
+  },
+  {
+    "question": "What event is Nate organizing in June 2022?",
+    "response": "Nate organized a gaming party on June 24, 2022.",
+    "answer": "A gaming party",
+    "metadata": {
+      "question": "What event is Nate organizing in June 2022?",
+      "answer": "A gaming party",
+      "evidence": [
+        "D14:20"
+      ],
+      "category": 4
+    }
+  },
+  {
+    "question": "Who did Nate plan to invite to his gaming party in June 2022?",
+    "response": "Nate hosted a gaming party on June 24, 2022, attended by 7 people. However, the specific individuals he planned to invite are not detailed in the available memories.",
+    "answer": "Tournament friends, old friends, teammates",
+    "metadata": {
+      "question": "Who did Nate plan to invite to his gaming party in June 2022?",
+      "answer": "Tournament friends, old friends, teammates",
+      "evidence": [
+        "D14:22"
+      ],
+      "category": 4
+    }
+  },
+  {
+    "question": "What special items did Nate get for everyone at his gaming party?",
+    "response": "There is no explicit mention in the memories of special items that Nate got for everyone at his gaming party on June 24, 2022.",
+    "answer": "Custom controller decorations",
+    "metadata": {
+      "question": "What special items did Nate get for everyone at his gaming party?",
+      "answer": "Custom controller decorations",
+      "evidence": [
+        "D14:24"
+      ],
+      "category": 4
+    }
+  },
+  {
+    "question": "What did Joanna write yesterday that appeared on the big screen?",
+    "response": "Joanna had a movie script she contributed to shown on the big screen on October 23, 2022.",
+    "answer": "screenplay bits",
+    "metadata": {
+      "question": "What did Joanna write yesterday that appeared on the big screen?",
+      "answer": "screenplay bits",
+      "evidence": [
+        "D15:1"
+      ],
+      "category": 4
+    }
+  },
+  {
+    "question": "What superhero is Joanna a fan of?",
+    "response": "Joanna's favorite superhero is Spider-Man.",
+    "answer": "Spider-Man",
+    "metadata": {
+      "question": "What superhero is Joanna a fan of?",
+      "answer": "Spider-Man",
+      "evidence": [
+        "D15:3"
+      ],
+      "category": 4
+    }
+  },
+  {
+    "question": "Which superhero toy figure does Nate share a photo of?",
+    "response": "Nate shares a photo of his Iron Man figure.",
+    "answer": "Iron Man",
+    "metadata": {
+      "question": "Which superhero toy figure does Nate share a photo of?",
+      "answer": "Iron Man",
+      "evidence": [
+        "D15:4"
+      ],
+      "category": 4
+    }
+  },
+  {
+    "question": "What is displayed on Joanna's cork board for motivation and creativity?",
+    "response": "Joanna's cork board displays inspiring quotes, photos, and keepsakes including a family photo for daily motivation and creativity.",
+    "answer": "inspiring quotes, photos, and little keepsakes",
+    "metadata": {
+      "question": "What is displayed on Joanna's cork board for motivation and creativity?",
+      "answer": "inspiring quotes, photos, and little keepsakes",
+      "evidence": [
+        "D15:7"
+      ],
+      "category": 4
+    }
+  },
+  {
+    "question": "What does the photo on Joanna's cork board remind her of?",
+    "response": "The photo on Joanna's cork board reminds her of love and encouragement from her family, providing daily motivation.",
+    "answer": "love and encouragement from her family",
+    "metadata": {
+      "question": "What does the photo on Joanna's cork board remind her of?",
+      "answer": "love and encouragement from her family",
+      "evidence": [
+        "D15:11"
+      ],
+      "category": 4
+    }
+  },
+  {
+    "question": "What did Nate make and share with his vegan diet group?",
+    "response": "Nate made and shared vegan coconut milk ice cream with his vegan diet group on June 17, 2022.",
+    "answer": "vegan ice cream",
+    "metadata": {
+      "question": "What did Nate make and share with his vegan diet group?",
+      "answer": "vegan ice cream",
+      "evidence": [
+        "D16:8"
+      ],
+      "category": 4
+    }
+  },
+  {
+    "question": "How many people attended the gaming party hosted by Nate in June 2022?",
+    "response": "7 people attended the gaming party hosted by Nate in June 2022.",
+    "answer": "7",
+    "metadata": {
+      "question": "How many people attended the gaming party hosted by Nate in June 2022?",
+      "answer": "7",
+      "evidence": [
+        "D16:6"
+      ],
+      "category": 4
+    }
+  },
+  {
+    "question": "What recipe Nate offer to share with Joanna?",
+    "response": "Nate offered to share his vegan ice cream recipe made with coconut milk, which he shared with his vegan diet group on June 17, 2022. Joanna planned to make this recipe for her family around June 25-26, 2022.",
+    "answer": "vegan ice cream recipe",
+    "metadata": {
+      "question": "What recipe Nate offer to share with Joanna?",
+      "answer": "vegan ice cream recipe",
+      "evidence": [
+        "D16:10"
+      ],
+      "category": 4
+    }
+  },
+  {
+    "question": "What did Joanna plan to do with the recipe Nate promised to share?",
+    "response": "Joanna planned to make Nate's vegan ice cream recipe for her family on the weekend following June 24, 2022.",
+    "answer": "make it for her family",
+    "metadata": {
+      "question": "What did Joanna plan to do with the recipe Nate promised to share?",
+      "answer": "make it for her family",
+      "evidence": [
+        "D16:11"
+      ],
+      "category": 4
+    }
+  },
+  {
+    "question": "How many video game tournaments has Nate won by July 10, 2022?",
+    "response": "Nate had won 4 video game tournaments by July 10, 2022.",
+    "answer": "Four",
+    "metadata": {
+      "question": "How many video game tournaments has Nate won by July 10, 2022?",
+      "answer": "Four",
+      "evidence": [
+        "D17:1"
+      ],
+      "category": 4
+    }
+  },
+  {
+    "question": "Where did Joanna go for a road trip for research?",
+    "response": "Joanna went to Woodhaven, a small town in the Midwest, for her road trip research.",
+    "answer": "Woodhaven",
+    "metadata": {
+      "question": "Where did Joanna go for a road trip for research?",
+      "answer": "Woodhaven",
+      "evidence": [
+        "D17:4"
+      ],
+      "category": 4
+    }
+  },
+  {
+    "question": "What did Joanna discover at the library in Woodhaven?",
+    "response": "Joanna discovered an old book from the 1900s in Woodhaven's library containing stories and sketches about the town and its people.",
+    "answer": "cool old book collection",
+    "metadata": {
+      "question": "What did Joanna discover at the library in Woodhaven?",
+      "answer": "cool old book collection",
+      "evidence": [
+        "D17:4"
+      ],
+      "category": 4
+    }
+  },
+  {
+    "question": "What specific themes are explored in Joanna's new book?",
+    "response": "Joanna's new book explores themes of loss, redemption, and forgiveness.",
+    "answer": "loss, redemption, and forgiveness",
+    "metadata": {
+      "question": "What specific themes are explored in Joanna's new book?",
+      "answer": "loss, redemption, and forgiveness",
+      "evidence": [
+        "D17:16"
+      ],
+      "category": 4
+    }
+  },
+  {
+    "question": "What inspired Joanna's new script in July 2022?",
+    "response": "Joanna's new script in July 2022 was inspired by a dream.",
+    "answer": "Woodhaven's interesting past and people",
+    "metadata": {
+      "question": "What inspired Joanna's new script in July 2022?",
+      "answer": "Woodhaven's interesting past and people",
+      "evidence": [
+        "D17:8"
+      ],
+      "category": 4
+    }
+  },
+  {
+    "question": "What did Nate do while Joanna was on her road trip?",
+    "response": "While Joanna was on her road trip, Nate took his turtles to the beach in Tampa, enjoyed their calming presence, experimented with colorful coconut milk ice cream bowls, and arranged doggy playdates with his dog Max and a nearby couple's dog.",
+    "answer": "Won a video game tournament",
+    "metadata": {
+      "question": "What did Nate do while Joanna was on her road trip?",
+      "answer": "Won a video game tournament",
+      "evidence": [
+        "D17:2"
+      ],
+      "category": 4
+    }
+  },
+  {
+    "question": "What does Nate do that he loves and can make money from?",
+    "response": "Nate loves competitive video gaming and makes money from winning gaming tournaments and creating gaming content for YouTube.",
+    "answer": "Competing in video game tournaments",
+    "metadata": {
+      "question": "What does Nate do that he loves and can make money from?",
+      "answer": "Competing in video game tournaments",
+      "evidence": [
+        "D17:1"
+      ],
+      "category": 4
+    }
+  },
+  {
+    "question": "How did Joanna feel when someone wrote her a letter after reading her blog post?",
+    "response": "Joanna felt inspired and emotionally affirmed upon receiving a letter from a reader who found comfort in her blog post, which reinforced her passion for writing and motivated her to continue making an impact.",
+    "answer": "Touched",
+    "metadata": {
+      "question": "How did Joanna feel when someone wrote her a letter after reading her blog post?",
+      "answer": "Touched",
+      "evidence": [
+        "D18:5"
+      ],
+      "category": 4
+    }
+  },
+  {
+    "question": "What kind of impact does Joanna hope to have with her writing?",
+    "response": "Joanna hopes to have an impact by using her writing as an emotional outlet that brings healing and makes a difference for others, providing comfort and expressing deep feelings.",
+    "answer": "share her stories and hopefully have an impact",
+    "metadata": {
+      "question": "What kind of impact does Joanna hope to have with her writing?",
+      "answer": "share her stories and hopefully have an impact",
+      "evidence": [
+        "D18:7"
+      ],
+      "category": 4
+    }
+  },
+  {
+    "question": "What kind of content did Joanna share that someone wrote her a letter about?",
+    "response": "Joanna shared a blog post about a hard moment in her life that brought comfort to a reader, prompting them to write her a letter.",
+    "answer": "A blog post about a hard moment in her life",
+    "metadata": {
+      "question": "What kind of content did Joanna share that someone wrote her a letter about?",
+      "answer": "A blog post about a hard moment in her life",
+      "evidence": [
+        "D18:5"
+      ],
+      "category": 4
+    }
+  },
+  {
+    "question": "What motivates Joanna to keep writing even on tough days?",
+    "response": "Joanna is motivated to keep writing on tough days because writing is a crucial emotional outlet and creative escape for her. Letters from readers who find comfort in her writing reinforce her passion and inspire her to continue healing and making a positive impact through her words.",
+    "answer": "Knowing that her writing can make a difference",
+    "metadata": {
+      "question": "What motivates Joanna to keep writing even on tough days?",
+      "answer": "Knowing that her writing can make a difference",
+      "evidence": [
+        "D18:7"
+      ],
+      "category": 4
+    }
+  },
+  {
+    "question": "What type of ice cream does Joanna mention that Nate makes and is delicious?",
+    "response": "Joanna mentions that Nate makes a vegan, dairy-free coconut milk ice cream that is delicious, smooth, and creamy, with colorful mix-ins.",
+    "answer": "Coconut milk ice cream",
+    "metadata": {
+      "question": "What type of ice cream does Joanna mention that Nate makes and is delicious?",
+      "answer": "Coconut milk ice cream",
+      "evidence": [
+        "D18:9"
+      ],
+      "category": 4
+    }
+  },
+  {
+    "question": "How did Nate feel about sharing his love for dairy-free desserts with Joanna?",
+    "response": "Nate feels positive and enthusiastic about sharing his love for dairy-free desserts with Joanna. He has invited her to try his lactose-free coconut milk desserts and looks forward to sharing dessert recipes together with her.",
+    "answer": "Happy to share",
+    "metadata": {
+      "question": "How did Nate feel about sharing his love for dairy-free desserts with Joanna?",
+      "answer": "Happy to share",
+      "evidence": [
+        "D18:12"
+      ],
+      "category": 4
+    }
+  },
+  {
+    "question": "What did Joanna share with her writers group in August 2022?",
+    "response": "Joanna shared a book with her writers group and received great feedback the week before August 22, 2022.",
+    "answer": "her book",
+    "metadata": {
+      "question": "What did Joanna share with her writers group in August 2022?",
+      "answer": "her book",
+      "evidence": [
+        "D19:6"
+      ],
+      "category": 4
+    }
+  },
+  {
+    "question": "How did Joanna celebrate after sharing her book with her writers group?",
+    "response": "There is no specific information in the memories about how Joanna celebrated after sharing her book with her writers group.",
+    "answer": "making a delicious treat",
+    "metadata": {
+      "question": "How did Joanna celebrate after sharing her book with her writers group?",
+      "answer": "making a delicious treat",
+      "evidence": [
+        "D19:8"
+      ],
+      "category": 4
+    }
+  },
+  {
+    "question": "How did Nate celebrate winning the international tournament?",
+    "response": "There is no specific information available about how Nate celebrated winning the international tournament on August 21, 2022.",
+    "answer": "Taking time off to chill with pets",
+    "metadata": {
+      "question": "How did Nate celebrate winning the international tournament?",
+      "answer": "Taking time off to chill with pets",
+      "evidence": [
+        "D19:9"
+      ],
+      "category": 4
+    }
+  },
+  {
+    "question": "Why is Joanna experimenting with dairy-free options in her dessert recipes?",
+    "response": "Joanna experiments with dairy-free dessert recipes to accommodate dietary needs like lactose intolerance and to create enjoyable treats suitable for herself and others with similar dietary restrictions.",
+    "answer": "lactose intolerance",
+    "metadata": {
+      "question": "Why is Joanna experimenting with dairy-free options in her dessert recipes?",
+      "answer": "lactose intolerance",
+      "evidence": [
+        "D20:10"
+      ],
+      "category": 4
+    }
+  },
+  {
+    "question": "What substitution does Nate suggest for butter in dairy-free baking?",
+    "response": "Nate suggests using dairy-free margarine or coconut oil as a substitute for butter in dairy-free baking.",
+    "answer": "dairy-free margarine or coconut oil",
+    "metadata": {
+      "question": "What substitution does Nate suggest for butter in dairy-free baking?",
+      "answer": "dairy-free margarine or coconut oil",
+      "evidence": [
+        "D20:15"
+      ],
+      "category": 4
+    }
+  },
+  {
+    "question": "What type of show did Nate host where he taught vegan ice cream recipes?",
+    "response": "Nate hosted a cooking show where he taught vegan ice cream recipes, including dairy-free coconut milk ice cream.",
+    "answer": "a cooking show",
+    "metadata": {
+      "question": "What type of show did Nate host where he taught vegan ice cream recipes?",
+      "answer": "a cooking show",
+      "evidence": [
+        "D21:4"
+      ],
+      "category": 4
+    }
+  },
+  {
+    "question": "What is Nate's favorite dish from the cooking show he hosted?",
+    "response": "Nate's favorite dish from his cooking show is his dairy-free coconut milk ice cream, known for its smooth, creamy texture and tropical coconut flavor.",
+    "answer": "Coconut milk ice cream",
+    "metadata": {
+      "question": "What is Nate's favorite dish from the cooking show he hosted?",
+      "answer": "Coconut milk ice cream",
+      "evidence": [
+        "D21:6"
+      ],
+      "category": 4
+    }
+  },
+  {
+    "question": "What is one of Nate's favorite dairy-free treats besides coconut milk ice cream?",
+    "response": "One of Nate's favorite dairy-free treats besides coconut milk ice cream is a dairy-free chocolate mousse.",
+    "answer": "dairy-free chocolate mousse",
+    "metadata": {
+      "question": "What is one of Nate's favorite dairy-free treats besides coconut milk ice cream?",
+      "answer": "dairy-free chocolate mousse",
+      "evidence": [
+        "D21:10"
+      ],
+      "category": 4
+    }
+  },
+  {
+    "question": "What dessert did Joanna share a photo of that has an almond flour crust, chocolate ganache, and fresh raspberries?",
+    "response": "The dessert is Joanna's Dairy-Free Chocolate Raspberry Tart.",
+    "answer": "chocolate raspberry tart",
+    "metadata": {
+      "question": "What dessert did Joanna share a photo of that has an almond flour crust, chocolate ganache, and fresh raspberries?",
+      "answer": "chocolate raspberry tart",
+      "evidence": [
+        "D21:11"
+      ],
+      "category": 4
+    }
+  },
+  {
+    "question": "What kind of cake did Joanna share a photo of that she likes making for birthdays and special days?",
+    "response": "Joanna likes making and shared a photo of a moist and delicious dairy-free chocolate cake with raspberries for birthdays and special days. It is made with almond flour, coconut oil, chocolate, and raspberries.",
+    "answer": "chocolate cake with raspberries",
+    "metadata": {
+      "question": "What kind of cake did Joanna share a photo of that she likes making for birthdays and special days?",
+      "answer": "chocolate cake with raspberries",
+      "evidence": [
+        "D21:13"
+      ],
+      "category": 4
+    }
+  },
+  {
+    "question": "What two main ingredients are part of the dessert Joanna shared a photo of with blueberries, coconut milk, and a gluten-free crust?",
+    "response": "The two main ingredients are blueberries and coconut milk.",
+    "answer": "blueberries and coconut milk",
+    "metadata": {
+      "question": "What two main ingredients are part of the dessert Joanna shared a photo of with blueberries, coconut milk, and a gluten-free crust?",
+      "answer": "blueberries and coconut milk",
+      "evidence": [
+        "D21:17"
+      ],
+      "category": 4
+    }
+  },
+  {
+    "question": "What movie did Nate recently watch and enjoy on October 6, 2022?",
+    "response": "There is no recorded information in the memories about the specific movie Nate watched and enjoyed on October 6, 2022.",
+    "answer": "Little Women",
+    "metadata": {
+      "question": "What movie did Nate recently watch and enjoy on October 6, 2022?",
+      "answer": "Little Women",
+      "evidence": [
+        "D22:8"
+      ],
+      "category": 4
+    }
+  },
+  {
+    "question": "What did Joanna make for one of the ladies at her writing club?",
+    "response": "Joanna made a handmade bookmark as a gift for one of the ladies at her writing club around early October 2022.",
+    "answer": "a bookmark",
+    "metadata": {
+      "question": "What did Joanna make for one of the ladies at her writing club?",
+      "answer": "a bookmark",
+      "evidence": [
+        "D22:19"
+      ],
+      "category": 4
+    }
+  },
+  {
+    "question": "What game did Nate play at the game convention he attended on 9 October, 2022?",
+    "response": "Nate played the board game Catan at the game convention he attended on October 7, 2022.",
+    "answer": "Catan",
+    "metadata": {
+      "question": "What game did Nate play at the game convention he attended on 9 October, 2022?",
+      "answer": "Catan",
+      "evidence": [
+        "D23:7"
+      ],
+      "category": 4
+    }
+  },
+  {
+    "question": "What movie has Nate recently seen that blew his mind?",
+    "response": "There is no information in the memories about a recent movie that Nate has seen which blew his mind.",
+    "answer": "\"Inception\"",
+    "metadata": {
+      "question": "What movie has Nate recently seen that blew his mind?",
+      "answer": "\"Inception\"",
+      "evidence": [
+        "D23:17"
+      ],
+      "category": 4
+    }
+  },
+  {
+    "question": "What game has Nate been playing nonstop with a futuristic setting and gameplay on October 9, 2022?",
+    "response": "Nate was playing the Japanese fantasy RPG game \"Xeonoblade Chronicles\" around early November 2022. There is no explicit mention of a futuristic game played nonstop exactly on October 9, 2022 in the memories.",
+    "answer": "Cyberpunk 2077",
+    "metadata": {
+      "question": "What game has Nate been playing nonstop with a futuristic setting and gameplay on October 9, 2022?",
+      "answer": "Cyberpunk 2077",
+      "evidence": [
+        "D23:17"
+      ],
+      "category": 4
+    }
+  },
+  {
+    "question": "What did Nate share a photo of when mentioning unwinding at home?",
+    "response": "Nate shared a photo related to unwinding at home featuring his pet turtles, which bring him calm and joy.",
+    "answer": "a bookcase filled with dvds and movies",
+    "metadata": {
+      "question": "What did Nate share a photo of when mentioning unwinding at home?",
+      "answer": "a bookcase filled with dvds and movies",
+      "evidence": [
+        "D23:15"
+      ],
+      "category": 4
+    }
+  },
+  {
+    "question": "How did Joanna describe the classic movie he watched?",
+    "response": "Joanna described the classic movie she watched as a romantic drama about memory and relationships, which she liked for its idea and acting. She first watched it around 2019 and owns a physical copy, having watched it multiple times.",
+    "answer": "gripping with great actors",
+    "metadata": {
+      "question": "How did Joanna describe the classic movie he watched?",
+      "answer": "gripping with great actors",
+      "evidence": [
+        "D23:18"
+      ],
+      "category": 4
+    }
+  },
+  {
+    "question": "What does Joanna recommend to make a living room comfy like hers?",
+    "response": "Joanna recommends making a living room comfortable by having a multi-person fluffy couch, a weighted blanket, and dimmable lights for a cozy movie-watching environment.",
+    "answer": "couch for multiple people, fluffy blanket, lights that can be dimmed",
+    "metadata": {
+      "question": "What does Joanna recommend to make a living room comfy like hers?",
+      "answer": "couch for multiple people, fluffy blanket, lights that can be dimmed",
+      "evidence": [
+        "D23:26"
+      ],
+      "category": 4
+    }
+  },
+  {
+    "question": "What helps Joanna stay focused and brings her joy?",
+    "response": "Joanna stays focused and finds joy through writing as an emotional outlet and creative escape. She also draws motivation and daily encouragement from her cork board with inspiring quotes, photos, and keepsakes. Being part of a writers group and working on scripts further supports her focus and joy.",
+    "answer": "stuffed animal dog named Tilly",
+    "metadata": {
+      "question": "What helps Joanna stay focused and brings her joy?",
+      "answer": "stuffed animal dog named Tilly",
+      "evidence": [
+        "D24:8"
+      ],
+      "category": 4
+    }
+  },
+  {
+    "question": "What does Joanna do while she writes?",
+    "response": "Joanna uses writing as an emotional outlet and creative escape, expressing feelings and healing emotionally. She draws inspiration from personal memories, motivational quotes, and keepsakes while writing.",
+    "answer": "have a stuffed animal dog named Tilly with her",
+    "metadata": {
+      "question": "What does Joanna do while she writes?",
+      "answer": "have a stuffed animal dog named Tilly with her",
+      "evidence": [
+        "D24:4"
+      ],
+      "category": 4
+    }
+  },
+  {
+    "question": "Why did Joanna name the stuffed animal dog Tilly?",
+    "response": "Joanna named the stuffed animal dog Tilly after her real dog from Michigan, which she had to give up due to allergies. The stuffed animal helps her focus and brings her joy while writing.",
+    "answer": "after a dog she had in Michigan",
+    "metadata": {
+      "question": "Why did Joanna name the stuffed animal dog Tilly?",
+      "answer": "after a dog she had in Michigan",
+      "evidence": [
+        "D24:6"
+      ],
+      "category": 4
+    }
+  },
+  {
+    "question": "What does Joanna do after receiving a rejection from a production company?",
+    "response": "After receiving a rejection from a production company by early June 2022, Joanna remained determined and continued her writing career by submitting more scripts in late October and early November 2022. She also presented her work to producers, pitched new scripts with positive feedback, and began filming a movie based on her script by November 2022.",
+    "answer": "keep grinding and moving ahead",
+    "metadata": {
+      "question": "What does Joanna do after receiving a rejection from a production company?",
+      "answer": "keep grinding and moving ahead",
+      "evidence": [
+        "D24:14"
+      ],
+      "category": 4
+    }
+  },
+  {
+    "question": "How does Nate feel about Joanna's ability to bounce back from setbacks?",
+    "response": "Nate feels very supportive and encouraging about Joanna's ability to bounce back from setbacks. He believes in her talent, motivates her to keep going, and is confident that her hard work will pay off.",
+    "answer": "respect Joanna for being able to bounce back",
+    "metadata": {
+      "question": "How does Nate feel about Joanna's ability to bounce back from setbacks?",
+      "answer": "respect Joanna for being able to bounce back",
+      "evidence": [
+        "D24:15"
+      ],
+      "category": 4
+    }
+  },
+  {
+    "question": "What encouragement does Nate give to Joanna after her setback?",
+    "response": "Nate encouraged Joanna after her setback by creating an inspirational gift for her around early October 2022 to support her during her life journey. He also gave her a stuffed animal symbolizing good vibes and joy as a source of comfort and positivity.",
+    "answer": "rejections don't define her, keep grinding and she'll find the perfect opportunity",
+    "metadata": {
+      "question": "What encouragement does Nate give to Joanna after her setback?",
+      "answer": "rejections don't define her, keep grinding and she'll find the perfect opportunity",
+      "evidence": [
+        "D24:13"
+      ],
+      "category": 4
+    }
+  },
+  {
+    "question": "What does Nate rely on for cheer and joy?",
+    "response": "Nate relies on his video game tournament wins, the calming presence of his pet turtles, his energetic dog Max, experimenting with dairy-free coconut milk ice cream, and sharing meaningful gifts with Joanna for cheer and joy.",
+    "answer": "his turtles",
+    "metadata": {
+      "question": "What does Nate rely on for cheer and joy?",
+      "answer": "his turtles",
+      "evidence": [
+        "D24:3"
+      ],
+      "category": 4
+    }
+  },
+  {
+    "question": "What does Joanna use to remember her dog from Michigan?",
+    "response": "Joanna uses a stuffed animal dog named Tilly to remember her real dog from Michigan.",
+    "answer": "naming a stuffed animal dog Tilly",
+    "metadata": {
+      "question": "What does Joanna use to remember her dog from Michigan?",
+      "answer": "naming a stuffed animal dog Tilly",
+      "evidence": [
+        "D24:6"
+      ],
+      "category": 4
+    }
+  },
+  {
+    "question": "What did Joanna contribute to that was shown on the big screen on the Sunday before October 25, 2022?",
+    "response": "Joanna contributed to a movie script that was shown on the big screen on October 23, 2022.",
+    "answer": "movie script",
+    "metadata": {
+      "question": "What did Joanna contribute to that was shown on the big screen on the Sunday before October 25, 2022?",
+      "answer": "movie script",
+      "evidence": [
+        "D25:2"
+      ],
+      "category": 4
+    }
+  },
+  {
+    "question": "What inspires Joanna to create drawings of her characters?",
+    "response": "Joanna is inspired to create drawings of her characters by her cork board filled with inspiring quotes, photos, keepsakes, and nostalgic childhood memories, including notes from her brother. These items motivate her creativity and provide daily encouragement.",
+    "answer": "visuals to help bring the characters alive in her head so she can write better",
+    "metadata": {
+      "question": "What inspires Joanna to create drawings of her characters?",
+      "answer": "visuals to help bring the characters alive in her head so she can write better",
+      "evidence": [
+        "D25:8"
+      ],
+      "category": 4
+    }
+  },
+  {
+    "question": "Where does Joanna get her ideas for the characters from?",
+    "response": "Joanna draws inspiration for her characters from early childhood stories about courage and exploration, nostalgic notes from her brother, and a cork board filled with inspiring quotes, photos, and keepsakes that motivate her creativity.",
+    "answer": "people she knows, things she saw, her imagination",
+    "metadata": {
+      "question": "Where does Joanna get her ideas for the characters from?",
+      "answer": "people she knows, things she saw, her imagination",
+      "evidence": [
+        "D25:10"
+      ],
+      "category": 4
+    }
+  },
+  {
+    "question": "How did Joanna feel on October 25, 2022 about seeing her characters come alive on the big screen?",
+    "response": "On October 25, 2022, Joanna felt a mix of satisfaction, surrealism, and emotional reward seeing her characters come alive on the big screen.",
+    "answer": "surreal and cool",
+    "metadata": {
+      "question": "How did Joanna feel on October 25, 2022 about seeing her characters come alive on the big screen?",
+      "answer": "surreal and cool",
+      "evidence": [
+        "D25:6"
+      ],
+      "category": 4
+    }
+  },
+  {
+    "question": "What type of diet do Nate's turtles have?",
+    "response": "Nate's turtles have a varied diet including vegetables, fruits, and insects.",
+    "answer": "combination of vegetables, fruits, and insects",
+    "metadata": {
+      "question": "What type of diet do Nate's turtles have?",
+      "answer": "combination of vegetables, fruits, and insects",
+      "evidence": [
+        "D25:19"
+      ],
+      "category": 4
+    }
+  },
+  {
+    "question": "What ingredient did Nate use to make the ice cream lactose-free?",
+    "response": "Nate used coconut milk as the ingredient to make his ice cream lactose-free.",
+    "answer": "coconut milk",
+    "metadata": {
+      "question": "What ingredient did Nate use to make the ice cream lactose-free?",
+      "answer": "coconut milk",
+      "evidence": [
+        "D26:18"
+      ],
+      "category": 4
+    }
+  },
+  {
+    "question": "What did Joanna find in old notebooks last week that prompted her to reflect on her progress as a writer?",
+    "response": "Last week, Joanna found in old notebooks a story about a brave little turtle exploring the world despite fear, which inspired her reflection on her progress as a writer.",
+    "answer": "early writings",
+    "metadata": {
+      "question": "What did Joanna find in old notebooks last week that prompted her to reflect on her progress as a writer?",
+      "answer": "early writings",
+      "evidence": [
+        "D26:5"
+      ],
+      "category": 4
+    }
+  },
+  {
+    "question": "What game is Nate currently playing and recommends to others on November 7, 2022?",
+    "response": "Nate is currently playing and enjoying the Japanese fantasy RPG game \"Xeonoblade Chronicles\" as of November 7, 2022.",
+    "answer": "\"Xenoblade Chronicles\"",
+    "metadata": {
+      "question": "What game is Nate currently playing and recommends to others on November 7, 2022?",
+      "answer": "\"Xenoblade Chronicles\"",
+      "evidence": [
+        "D27:23"
+      ],
+      "category": 4
+    }
+  },
+  {
+    "question": "What did Joanna receive from her brother that brought back childhood memories?",
+    "response": "Joanna received cute notes from her brother during childhood that remind her of sweet memories and inspired her writing. She included one of these childhood notes in the introduction of her new movie script.",
+    "answer": "a handwritten letter",
+    "metadata": {
+      "question": "What did Joanna receive from her brother that brought back childhood memories?",
+      "answer": "a handwritten letter",
+      "evidence": [
+        "D27:29"
+      ],
+      "category": 4
+    }
+  },
+  {
+    "question": "What is the type of game \"Xenoblade Chronicles\" that Nate is playing?",
+    "response": "Xenoblade Chronicles is a Japanese fantasy RPG game.",
+    "answer": "fantasy RPG",
+    "metadata": {
+      "question": "What is the type of game \"Xenoblade Chronicles\" that Nate is playing?",
+      "answer": "fantasy RPG",
+      "evidence": [
+        "D27:23"
+      ],
+      "category": 4
+    }
+  },
+  {
+    "question": "What dish did Nate make on 9 November, 2022?",
+    "response": "Nate made homemade coconut milk ice cream with colorful mix-ins on 9 November 2022.",
+    "answer": "Homemade coconut ice cream",
+    "metadata": {
+      "question": "What dish did Nate make on 9 November, 2022?",
+      "answer": "Homemade coconut ice cream",
+      "evidence": [
+        "D28:1"
+      ],
+      "category": 4
+    }
+  },
+  {
+    "question": "What project is Joanna working on in her notebook on November 9, 2022?",
+    "response": "Joanna was working on a new screenplay intended to be made into a movie.",
+    "answer": "A suspenseful thriller set in a small Midwestern town",
+    "metadata": {
+      "question": "What project is Joanna working on in her notebook on November 9, 2022?",
+      "answer": "A suspenseful thriller set in a small Midwestern town",
+      "evidence": [
+        "D28:12"
+      ],
+      "category": 4
+    }
+  },
+  {
+    "question": "What is Nate creating for YouTube on 9 November, 2022?",
+    "response": "Nate is creating gaming content for YouTube.",
+    "answer": "gaming content",
+    "metadata": {
+      "question": "What is Nate creating for YouTube on 9 November, 2022?",
+      "answer": "gaming content",
+      "evidence": [
+        "D28:13"
+      ],
+      "category": 4
+    }
+  },
+  {
+    "question": "What inspired Nate to start making gaming videos?",
+    "response": "Nate started making gaming videos on YouTube to share his passion for video games and connect with a wider gaming audience, complementing his participation in gaming tournaments.",
+    "answer": "Love of gaming and connecting with others who enjoy it too",
+    "metadata": {
+      "question": "What inspired Nate to start making gaming videos?",
+      "answer": "Love of gaming and connecting with others who enjoy it too",
+      "evidence": [
+        "D28:15"
+      ],
+      "category": 4
+    }
+  },
+  {
+    "question": "What new content is Nate creating for YouTube?",
+    "response": "Nate is creating gaming content for YouTube to share his love of gaming and connect with others.",
+    "answer": "Gaming videos",
+    "metadata": {
+      "question": "What new content is Nate creating for YouTube?",
+      "answer": "Gaming videos",
+      "evidence": [
+        "D28:13"
+      ],
+      "category": 4
+    }
+  },
+  {
+    "question": "What advice does Joanna give to Nate about making YouTube videos?",
+    "response": "There is no specific recorded advice from Joanna to Nate about making YouTube videos in the memories available. However, Joanna supports and encourages Nate's creative endeavors including his gaming content creation on YouTube.",
+    "answer": "Watch other people's videos to understand what the audience likes",
+    "metadata": {
+      "question": "What advice does Joanna give to Nate about making YouTube videos?",
+      "answer": "Watch other people's videos to understand what the audience likes",
+      "evidence": [
+        "D28:18"
+      ],
+      "category": 4
+    }
+  },
+  {
+    "question": "What did Joanna take a picture of near Fort Wayne last summer?",
+    "response": "Joanna took a sunset photo on a hike near Fort Wayne in summer 2022, capturing nature's beauty.",
+    "answer": "Sunset",
+    "metadata": {
+      "question": "What did Joanna take a picture of near Fort Wayne last summer?",
+      "answer": "Sunset",
+      "evidence": [
+        "D28:22"
+      ],
+      "category": 4
+    }
+  },
+  {
+    "question": "What inspired Joanna to take a picture of the sunset in the field near Fort Wayne?",
+    "response": "Joanna was inspired to take the sunset photo in the field near Fort Wayne during a summer 2022 hike by the beauty of nature and the positive feelings it evoked.",
+    "answer": "The incredible sunset and surrounding beauty",
+    "metadata": {
+      "question": "What inspired Joanna to take a picture of the sunset in the field near Fort Wayne?",
+      "answer": "The incredible sunset and surrounding beauty",
+      "evidence": [
+        "D28:22"
+      ],
+      "category": 4
+    }
+  },
+  {
+    "question": "Why did Nate get a third turtle?",
+    "response": "Nate got a third turtle because his tank could accommodate three turtles, and he finds turtles bring him joy and peace.",
+    "answer": "He saw another one at a pet store and wanted to get it",
+    "metadata": {
+      "question": "Why did Nate get a third turtle?",
+      "answer": "He saw another one at a pet store and wanted to get it",
+      "evidence": [
+        "D28:25"
+      ],
+      "category": 4
+    }
+  },
+  {
+    "question": "What does Nate want to do when he goes over to Joanna's place?",
+    "response": "When Nate goes over to Joanna's place, he wants to share lactose-free coconut milk desserts with her and spend time together watching movies or going to the park, while keeping her safe from his turtles due to her allergy.",
+    "answer": "Watch one of Joanna's movies together or go to the park",
+    "metadata": {
+      "question": "What does Nate want to do when he goes over to Joanna's place?",
+      "answer": "Watch one of Joanna's movies together or go to the park",
+      "evidence": [
+        "D28:29"
+      ],
+      "category": 4
+    }
+  },
+  {
+    "question": "What did Nate take to the beach in Tampa?",
+    "response": "Nate took his pet turtles to the beach in Tampa on November 10, 2022.",
+    "answer": "turtles",
+    "metadata": {
+      "question": "What did Nate take to the beach in Tampa?",
+      "answer": "turtles",
+      "evidence": [
+        "D29:6"
+      ],
+      "category": 4
+    }
+  },
+  {
+    "question": "What does Nate love most about having turtles?",
+    "response": "Nate loves the calm, joy, and peace his turtles bring him, enjoying their companionship, distinct personalities, and their calming, low-maintenance presence.",
+    "answer": "They make him feel calm and don't require much looking after",
+    "metadata": {
+      "question": "What does Nate love most about having turtles?",
+      "answer": "They make him feel calm and don't require much looking after",
+      "evidence": [
+        "D29:8"
+      ],
+      "category": 4
+    }
+  },
+  {
+    "question": "What did Nate share a photo of as a part of his experimentation in November 2022?",
+    "response": "Nate shared a photo of his homemade coconut ice cream with sprinkles that changed the color as part of his experimentation in November 2022.",
+    "answer": "colorful bowls of coconut milk ice cream",
+    "metadata": {
+      "question": "What did Nate share a photo of as a part of his experimentation in November 2022?",
+      "answer": "colorful bowls of coconut milk ice cream",
+      "evidence": [
+        "D29:10"
+      ],
+      "category": 4
+    }
+  }
+]

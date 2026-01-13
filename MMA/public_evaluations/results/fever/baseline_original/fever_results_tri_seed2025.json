@@ -1,0 +1,4002 @@
+[
+  {
+    "id": 41975,
+    "claim": "Kellogg's is a manufacturer.",
+    "ground_truth": "SUPPORTS",
+    "predicted_label": "NOT ENOUGH INFO",
+    "raw_response": "Based on the information available in memory, the claim \"Kellogg's is a manufacturer\" is classified as: NOT ENOUGH INFO.",
+    "is_correct": false
+  },
+  {
+    "id": 183634,
+    "claim": "Finding Dory was directed by someone who is based in Beijing.",
+    "ground_truth": "NOT ENOUGH INFO",
+    "predicted_label": "NOT ENOUGH INFO",
+    "raw_response": "Based on the information available in memory, the claim \"Finding Dory was directed by someone who is based in Beijing\" is classified as: NOT ENOUGH INFO.",
+    "is_correct": true
+  },
+  {
+    "id": 184049,
+    "claim": "Kenneth Lonergan is a songwriter.",
+    "ground_truth": "REFUTES",
+    "predicted_label": "NOT ENOUGH INFO",
+    "raw_response": "Based on the information available in memory, the claim \"Kenneth Lonergan is a songwriter\" is classified as: NOT ENOUGH INFO.",
+    "is_correct": false
+  },
+  {
+    "id": 52830,
+    "claim": "Penguin Books is a publishing company.",
+    "ground_truth": "SUPPORTS",
+    "predicted_label": "SUPPORTS",
+    "raw_response": "Based on the information available in memory, the claim \"Penguin Books is a publishing company\" is classified as: SUPPORTS.",
+    "is_correct": true
+  },
+  {
+    "id": 36371,
+    "claim": "Uranium-235 was discovered by a Canadian-American physicist in 2005.",
+    "ground_truth": "REFUTES",
+    "predicted_label": "NOT ENOUGH INFO",
+    "raw_response": "Based on the information available in memory, the claim \"Uranium-235 was discovered by a Canadian-American physicist in 2005\" is classified as: NOT ENOUGH INFO.",
+    "is_correct": false
+  },
+  {
+    "id": 107977,
+    "claim": "Harris Jayaraj is a television composer.",
+    "ground_truth": "REFUTES",
+    "predicted_label": "NOT ENOUGH INFO",
+    "raw_response": "Based on the information available in memory, the claim \"Harris Jayaraj is a television composer\" is classified as: NOT ENOUGH INFO.",
+    "is_correct": false
+  },
+  {
+    "id": 35237,
+    "claim": "Philomena is a film nominated for seven awards.",
+    "ground_truth": "SUPPORTS",
+    "predicted_label": "NOT ENOUGH INFO",
+    "raw_response": "Based on the information available in memory, the claim \"Philomena is a film nominated for seven awards\" is classified as: NOT ENOUGH INFO.",
+    "is_correct": false
+  },
+  {
+    "id": 216356,
+    "claim": "The Chagatai language was a Cyrillic language.",
+    "ground_truth": "REFUTES",
+    "predicted_label": "NOT ENOUGH INFO",
+    "raw_response": "Based on the information available in memory, the claim \"The Chagatai language was a Cyrillic language\" is classified as: NOT ENOUGH INFO.",
+    "is_correct": false
+  },
+  {
+    "id": 12829,
+    "claim": "Pirates of the Caribbean is in Disneyland Paris since 1992.",
+    "ground_truth": "SUPPORTS",
+    "predicted_label": "NOT ENOUGH INFO",
+    "raw_response": "Based on the information available in memory, the claim \"Pirates of the Caribbean is in Disneyland Paris since 1992\" is classified as: NOT ENOUGH INFO.",
+    "is_correct": false
+  },
+  {
+    "id": 147427,
+    "claim": "The Battle of France is known by another name.",
+    "ground_truth": "SUPPORTS",
+    "predicted_label": "SUPPORTS",
+    "raw_response": "Based on the information available in memory, the claim \"The Battle of France is known by another name\" is classified as: SUPPORTS.",
+    "is_correct": true
+  },
+  {
+    "id": 134349,
+    "claim": "Sam Claflin is a person.",
+    "ground_truth": "SUPPORTS",
+    "predicted_label": "NOT ENOUGH INFO",
+    "raw_response": "Based on the information available in memory, the claim \"Sam Claflin is a person\" is classified as: NOT ENOUGH INFO.",
+    "is_correct": false
+  },
+  {
+    "id": 181188,
+    "claim": "Southpaw is only a Canadian film.",
+    "ground_truth": "REFUTES",
+    "predicted_label": "NOT ENOUGH INFO",
+    "raw_response": "Based on the information available in memory, the claim \"Southpaw is only a Canadian film\" is classified as: NOT ENOUGH INFO.",
+    "is_correct": false
+  },
+  {
+    "id": 111721,
+    "claim": "Danny Brown released two music studio albums.",
+    "ground_truth": "REFUTES",
+    "predicted_label": "NOT ENOUGH INFO",
+    "raw_response": "Based on the information available in memory, the claim \"Danny Brown released two music studio albums\" is classified as: NOT ENOUGH INFO.",
+    "is_correct": false
+  },
+  {
+    "id": 54540,
+    "claim": "Marco Polo was a dancer.",
+    "ground_truth": "NOT ENOUGH INFO",
+    "predicted_label": "NOT ENOUGH INFO",
+    "raw_response": "Based on the information available in memory, the claim \"Marco Polo was a dancer\" is classified as: NOT ENOUGH INFO.",
+    "is_correct": true
+  },
+  {
+    "id": 136918,
+    "claim": "The Prowler made his first appearance in red.",
+    "ground_truth": "REFUTES",
+    "predicted_label": "NOT ENOUGH INFO",
+    "raw_response": "Based on the information available in memory, the claim \"The Prowler made his first appearance in red\" is classified as: NOT ENOUGH INFO.",
+    "is_correct": false
+  },
+  {
+    "id": 84516,
+    "claim": "Chaka Khan had a crossover hit without any features.",
+    "ground_truth": "REFUTES",
+    "predicted_label": "NOT ENOUGH INFO",
+    "raw_response": "Based on the information available in memory, the claim \"Chaka Khan had a crossover hit without any features\" is classified as: NOT ENOUGH INFO.",
+    "is_correct": false
+  },
+  {
+    "id": 17320,
+    "claim": "David Spade starred in Grown Ups 2.",
+    "ground_truth": "SUPPORTS",
+    "predicted_label": "NOT ENOUGH INFO",
+    "raw_response": "Based on the information available in memory, the claim \"David Spade starred in Grown Ups 2\" is classified as: NOT ENOUGH INFO.",
+    "is_correct": false
+  },
+  {
+    "id": 181845,
+    "claim": "Don Hall is a film critic.",
+    "ground_truth": "NOT ENOUGH INFO",
+    "predicted_label": "NOT ENOUGH INFO",
+    "raw_response": "Based on the information available in memory, the claim \"Don Hall is a film critic\" is classified as: NOT ENOUGH INFO.",
+    "is_correct": true
+  },
+  {
+    "id": 124355,
+    "claim": "Alexandra Daddario was not born on March 16, 1986.",
+    "ground_truth": "REFUTES",
+    "predicted_label": "NOT ENOUGH INFO",
+    "raw_response": "Based on the information available in memory, the claim \"Alexandra Daddario was not born on March 16, 1986\" is classified as: NOT ENOUGH INFO.",
+    "is_correct": false
+  },
+  {
+    "id": 173125,
+    "claim": "Anne Sullivan was an American teacher in the twentieth century.",
+    "ground_truth": "NOT ENOUGH INFO",
+    "predicted_label": "NOT ENOUGH INFO",
+    "raw_response": "Based on the information available in memory, the claim \"Anne Sullivan was an American teacher in the twentieth century\" is classified as: NOT ENOUGH INFO.",
+    "is_correct": true
+  },
+  {
+    "id": 183134,
+    "claim": "Tata Motors is a constituent of the BSE SENSEX index.",
+    "ground_truth": "SUPPORTS",
+    "predicted_label": "NOT ENOUGH INFO",
+    "raw_response": "Based on the information available in memory, the claim \"Tata Motors is a constituent of the BSE SENSEX index\" is classified as: NOT ENOUGH INFO.",
+    "is_correct": false
+  },
+  {
+    "id": 165121,
+    "claim": "Mickey Rourke appeared in a superhero film based on a Marvel Comics character.",
+    "ground_truth": "SUPPORTS",
+    "predicted_label": "NOT ENOUGH INFO",
+    "raw_response": "Based on the information available in memory, the claim \"Mickey Rourke appeared in a superhero film based on a Marvel Comics character\" is classified as: NOT ENOUGH INFO.",
+    "is_correct": false
+  },
+  {
+    "id": 192857,
+    "claim": "Ian Brennan has only ever worked in finance.",
+    "ground_truth": "REFUTES",
+    "predicted_label": "NOT ENOUGH INFO",
+    "raw_response": "Based on the information available in memory, the claim \"Ian Brennan has only ever worked in finance\" is classified as: NOT ENOUGH INFO.",
+    "is_correct": false
+  },
+  {
+    "id": 99336,
+    "claim": "Mick Thomson was unable to join any bands.",
+    "ground_truth": "REFUTES",
+    "predicted_label": "NOT ENOUGH INFO",
+    "raw_response": "Based on the information available in memory, the claim \"Mick Thomson was unable to join any bands\" is classified as: NOT ENOUGH INFO.",
+    "is_correct": false
+  },
+  {
+    "id": 92889,
+    "claim": "The Republic of Macedonia is in Southeast Europe and is very cultured.",
+    "ground_truth": "SUPPORTS",
+    "predicted_label": "NOT ENOUGH INFO",
+    "raw_response": "Based on the information available in memory, the claim \"The Republic of Macedonia is in Southeast Europe and is very cultured\" is classified as: NOT ENOUGH INFO.",
+    "is_correct": false
+  },
+  {
+    "id": 19739,
+    "claim": "NPR played a song by Jewell.",
+    "ground_truth": "NOT ENOUGH INFO",
+    "predicted_label": "NOT ENOUGH INFO",
+    "raw_response": "Based on the information available in memory, the claim \"NPR played a song by Jewell\" is classified as: NOT ENOUGH INFO.",
+    "is_correct": true
+  },
+  {
+    "id": 48016,
+    "claim": "The Mod Squad ran on ABC from 1968 to 1973.",
+    "ground_truth": "SUPPORTS",
+    "predicted_label": "NOT ENOUGH INFO",
+    "raw_response": "Based on the information available in memory, the claim \"The Mod Squad ran on ABC from 1968 to 1973\" is classified as: NOT ENOUGH INFO.",
+    "is_correct": false
+  },
+  {
+    "id": 181620,
+    "claim": "WGBH-TV is an American television station.",
+    "ground_truth": "SUPPORTS",
+    "predicted_label": "SUPPORTS",
+    "raw_response": "Based on the information available in memory, the claim \"WGBH-TV is an American television station\" is classified as: SUPPORTS.",
+    "is_correct": true
+  },
+  {
+    "id": 129570,
+    "claim": "The Washington Wizards have won four conference titles beginning in 1971.",
+    "ground_truth": "SUPPORTS",
+    "predicted_label": "NOT ENOUGH INFO",
+    "raw_response": "Based on the information available in memory, the claim \"The Washington Wizards have won four conference titles beginning in 1971\" is classified as: NOT ENOUGH INFO.",
+    "is_correct": false
+  },
+  {
+    "id": 181890,
+    "claim": "Princess Mononoke only has a pacifistic tone.",
+    "ground_truth": "NOT ENOUGH INFO",
+    "predicted_label": "NOT ENOUGH INFO",
+    "raw_response": "Based on the information available in memory, the claim \"Princess Mononoke only has a pacifistic tone\" is classified as: NOT ENOUGH INFO.",
+    "is_correct": true
+  },
+  {
+    "id": 211772,
+    "claim": "Brick (film) is an American film.",
+    "ground_truth": "SUPPORTS",
+    "predicted_label": "NOT ENOUGH INFO",
+    "raw_response": "Based on the information available in memory, the claim \"Brick (film) is an American film\" is classified as: NOT ENOUGH INFO.",
+    "is_correct": false
+  },
+  {
+    "id": 80722,
+    "claim": "Highway to Heaven started in 1996.",
+    "ground_truth": "NOT ENOUGH INFO",
+    "predicted_label": "NOT ENOUGH INFO",
+    "raw_response": "Based on the information available in memory, the claim \"Highway to Heaven started in 1996\" is classified as: NOT ENOUGH INFO.",
+    "is_correct": true
+  },
+  {
+    "id": 167970,
+    "claim": "Don Bradman's status was recognized only 50 years before his retirement.",
+    "ground_truth": "REFUTES",
+    "predicted_label": "NOT ENOUGH INFO",
+    "raw_response": "Based on the information available in memory, the claim \"Don Bradman's status was recognized only 50 years before his retirement\" is classified as: NOT ENOUGH INFO.",
+    "is_correct": false
+  },
+  {
+    "id": 75153,
+    "claim": "Chris Kyle was not born on April 8, 1974.",
+    "ground_truth": "REFUTES",
+    "predicted_label": "NOT ENOUGH INFO",
+    "raw_response": "Based on the information available in memory, the claim \"Chris Kyle was not born on April 8, 1974\" is classified as: NOT ENOUGH INFO.",
+    "is_correct": false
+  },
+  {
+    "id": 194347,
+    "claim": "Happiness in Slavery is a musical.",
+    "ground_truth": "NOT ENOUGH INFO",
+    "predicted_label": "NOT ENOUGH INFO",
+    "raw_response": "Based on the information available in memory, the claim \"Happiness in Slavery is a musical\" is classified as: NOT ENOUGH INFO.",
+    "is_correct": true
+  },
+  {
+    "id": 59689,
+    "claim": "Numb (Linkin Park song) was in the game Rock Band 2.",
+    "ground_truth": "REFUTES",
+    "predicted_label": "NOT ENOUGH INFO",
+    "raw_response": "Based on the information available in memory, the claim \"Numb (Linkin Park song) was in the game Rock Band 2\" is classified as: NOT ENOUGH INFO.",
+    "is_correct": false
+  },
+  {
+    "id": 226136,
+    "claim": "Richard Dawkins makes regular radio appearances.",
+    "ground_truth": "SUPPORTS",
+    "predicted_label": "NOT ENOUGH INFO",
+    "raw_response": "Based on the information available in memory, the claim \"Richard Dawkins makes regular radio appearances\" is classified as: NOT ENOUGH INFO.",
+    "is_correct": false
+  },
+  {
+    "id": 120364,
+    "claim": "L.A. Reid has been the CEO of Arista Records.",
+    "ground_truth": "SUPPORTS",
+    "predicted_label": "NOT ENOUGH INFO",
+    "raw_response": "Based on the information available in memory, the claim \"L.A. Reid has been the CEO of Arista Records\" is classified as: NOT ENOUGH INFO.",
+    "is_correct": false
+  },
+  {
+    "id": 130638,
+    "claim": "Harvard University is a liberal arts university.",
+    "ground_truth": "NOT ENOUGH INFO",
+    "predicted_label": "NOT ENOUGH INFO",
+    "raw_response": "Based on the information available in memory, the claim \"Harvard University is a liberal arts university\" is classified as: NOT ENOUGH INFO.",
+    "is_correct": true
+  },
+  {
+    "id": 189445,
+    "claim": "Yandex operates in Luxembourg.",
+    "ground_truth": "NOT ENOUGH INFO",
+    "predicted_label": "NOT ENOUGH INFO",
+    "raw_response": "Based on the information available in memory, the claim \"Yandex operates in Luxembourg\" is classified as: NOT ENOUGH INFO.",
+    "is_correct": true
+  },
+  {
+    "id": 130406,
+    "claim": "Kerplunk was released through a company other than Lookout Records.",
+    "ground_truth": "REFUTES",
+    "predicted_label": "NOT ENOUGH INFO",
+    "raw_response": "Based on the information available in memory, the claim \"Kerplunk was released through a company other than Lookout Records\" is classified as: NOT ENOUGH INFO.",
+    "is_correct": false
+  },
+  {
+    "id": 172092,
+    "claim": "Selena Gomez & the Scene's debut album has a name.",
+    "ground_truth": "NOT ENOUGH INFO",
+    "predicted_label": "SUPPORTS",
+    "raw_response": "Based on the information available in memory, the claim \"Selena Gomez & the Scene's debut album has a name\" is classified as: SUPPORTS.",
+    "is_correct": false
+  },
+  {
+    "id": 27278,
+    "claim": "The Cincinnati Kid stars Steve McQueen.",
+    "ground_truth": "SUPPORTS",
+    "predicted_label": "SUPPORTS",
+    "raw_response": "Based on the information available in memory, the claim \"The Cincinnati Kid stars Steve McQueen\" is classified as: SUPPORTS.",
+    "is_correct": true
+  },
+  {
+    "id": 201826,
+    "claim": "Dakota Fanning is incapable of being involved with a film called Coraline.",
+    "ground_truth": "REFUTES",
+    "predicted_label": "NOT ENOUGH INFO",
+    "raw_response": "Based on the information available in memory, the claim \"Dakota Fanning is incapable of being involved with a film called Coraline\" is classified as: NOT ENOUGH INFO.",
+    "is_correct": false
+  },
+  {
+    "id": 129729,
+    "claim": "Meteora is an album by an American carpenter.",
+    "ground_truth": "REFUTES",
+    "predicted_label": "REFUTES",
+    "raw_response": "Based on the information available in memory, the claim \"Meteora is an album by an American carpenter\" is classified as: REFUTES.",
+    "is_correct": true
+  },
+  {
+    "id": 133407,
+    "claim": "Michigan is a U.S. state and a leading destination for recreational boating.",
+    "ground_truth": "SUPPORTS",
+    "predicted_label": "SUPPORTS",
+    "raw_response": "Based on the information available in memory, the claim \"Michigan is a U.S. state and a leading destination for recreational boating\" is classified as: SUPPORTS.",
+    "is_correct": true
+  },
+  {
+    "id": 68610,
+    "claim": "Yara Shahidi is a person from America.",
+    "ground_truth": "SUPPORTS",
+    "predicted_label": "NOT ENOUGH INFO",
+    "raw_response": "Based on the information available in memory, the claim \"Yara Shahidi is a person from America\" is classified as: NOT ENOUGH INFO.",
+    "is_correct": false
+  },
+  {
+    "id": 215198,
+    "claim": "Dreamer (2005 film) was filmed in an American drama studio.",
+    "ground_truth": "NOT ENOUGH INFO",
+    "predicted_label": "NOT ENOUGH INFO",
+    "raw_response": "Based on the information available in memory, the claim \"Dreamer (2005 film) was filmed in an American drama studio\" is classified as: NOT ENOUGH INFO.",
+    "is_correct": true
+  },
+  {
+    "id": 132151,
+    "claim": "Marjorie Gross wrote for a television show.",
+    "ground_truth": "SUPPORTS",
+    "predicted_label": "SUPPORTS",
+    "raw_response": "Based on the information available in memory, the claim \"Marjorie Gross wrote for a television show\" is classified as: SUPPORTS.",
+    "is_correct": true
+  },
+  {
+    "id": 98848,
+    "claim": "In the End was Linkin Park's eleventh single.",
+    "ground_truth": "REFUTES",
+    "predicted_label": "NOT ENOUGH INFO",
+    "raw_response": "Based on the information available in memory, the claim \"In the End was Linkin Park's eleventh single\" is classified as: NOT ENOUGH INFO.",
+    "is_correct": false
+  },
+  {
+    "id": 212193,
+    "claim": "Miracle at St. Anna mainly takes place in Italy.",
+    "ground_truth": "SUPPORTS",
+    "predicted_label": "NOT ENOUGH INFO",
+    "raw_response": "Based on the information available in memory, the claim \"Miracle at St. Anna mainly takes place in Italy\" is classified as: NOT ENOUGH INFO.",
+    "is_correct": false
+  },
+  {
+    "id": 87770,
+    "claim": "\"I Feel for You\" by Chaka Khan was released in 1984 during the Depression.",
+    "ground_truth": "NOT ENOUGH INFO",
+    "predicted_label": "REFUTES",
+    "raw_response": "Based on the information available in memory, the claim \"I Feel for You by Chaka Khan was released in 1984 during the Depression\" is classified as: REFUTES.",
+    "is_correct": false
+  },
+  {
+    "id": 121645,
+    "claim": "Billboard Dad stars Ashley and Mary-Kate Olsen.",
+    "ground_truth": "SUPPORTS",
+    "predicted_label": "SUPPORTS",
+    "raw_response": "Based on the information available in memory, the claim \"Billboard Dad stars Ashley and Mary-Kate Olsen\" is classified as: SUPPORTS.",
+    "is_correct": true
+  },
+  {
+    "id": 144570,
+    "claim": "Sophia Bush only acted on stage.",
+    "ground_truth": "REFUTES",
+    "predicted_label": "NOT ENOUGH INFO",
+    "raw_response": "Based on the information available in memory, the claim \"Sophia Bush only acted on stage\" is classified as: NOT ENOUGH INFO.",
+    "is_correct": false
+  },
+  {
+    "id": 44099,
+    "claim": "The Concert for Bangladesh generated awareness and considerable balloons.",
+    "ground_truth": "NOT ENOUGH INFO",
+    "predicted_label": "SUPPORTS",
+    "raw_response": "Based on the information available in memory, the claim \"The Concert for Bangladesh generated awareness and considerable balloons\" is classified as: SUPPORTS.",
+    "is_correct": false
+  },
+  {
+    "id": 127540,
+    "claim": "Guillermo del Toro was born.",
+    "ground_truth": "SUPPORTS",
+    "predicted_label": "SUPPORTS",
+    "raw_response": "Based on the information available in memory, the claim \"Guillermo del Toro was born\" is classified as: SUPPORTS.",
+    "is_correct": true
+  },
+  {
+    "id": 202794,
+    "claim": "Despicable Me 2 was produced exclusively by Yahoo.",
+    "ground_truth": "REFUTES",
+    "predicted_label": "NOT ENOUGH INFO",
+    "raw_response": "Based on the information available in memory, the claim \"Despicable Me 2 was produced exclusively by Yahoo\" is classified as: NOT ENOUGH INFO.",
+    "is_correct": false
+  },
+  {
+    "id": 115760,
+    "claim": "Beaverton, Oregon's city center is in decline.",
+    "ground_truth": "REFUTES",
+    "predicted_label": "NOT ENOUGH INFO",
+    "raw_response": "Based on the information available in memory, the claim \"Beaverton, Oregon's city center is in decline\" is classified as: NOT ENOUGH INFO.",
+    "is_correct": false
+  },
+  {
+    "id": 59147,
+    "claim": "Hush (2016 film) had Trevor Macy as a producer.",
+    "ground_truth": "SUPPORTS",
+    "predicted_label": "SUPPORTS",
+    "raw_response": "Based on the information available in memory, the claim \"Hush (2016 film) had Trevor Macy as a producer\" is classified as: SUPPORTS.",
+    "is_correct": true
+  },
+  {
+    "id": 5109,
+    "claim": "Leslie is the name of Neil Diamond's mother.",
+    "ground_truth": "NOT ENOUGH INFO",
+    "predicted_label": "NOT ENOUGH INFO",
+    "raw_response": "Based on the information available in memory, the claim \"Leslie is the name of Neil Diamond's mother\" is classified as: NOT ENOUGH INFO.",
+    "is_correct": true
+  },
+  {
+    "id": 166475,
+    "claim": "Roswell was by Jason Katims.",
+    "ground_truth": "SUPPORTS",
+    "predicted_label": "NOT ENOUGH INFO",
+    "raw_response": "Based on the information available in memory, the claim \"Roswell was by Jason Katims\" is classified as: NOT ENOUGH INFO.",
+    "is_correct": false
+  },
+  {
+    "id": 174599,
+    "claim": "Artpop had first-week sales of about 258,000 copies in 1999.",
+    "ground_truth": "REFUTES",
+    "predicted_label": "REFUTES",
+    "raw_response": "Based on the information available in memory, the claim \"Artpop had first-week sales of about 258,000 copies in 1999\" is classified as: REFUTES.",
+    "is_correct": true
+  },
+  {
+    "id": 113770,
+    "claim": "Yale University has had many Chinese alumni.",
+    "ground_truth": "NOT ENOUGH INFO",
+    "predicted_label": "NOT ENOUGH INFO",
+    "raw_response": "Based on the information available in memory, the claim \"Yale University has had many Chinese alumni\" is classified as: NOT ENOUGH INFO.",
+    "is_correct": true
+  },
+  {
+    "id": 138118,
+    "claim": "The retreat of sea ice is one of the expected outcomes of global warming.",
+    "ground_truth": "SUPPORTS",
+    "predicted_label": "SUPPORTS",
+    "raw_response": "Based on the information available in memory, the claim \"The retreat of sea ice is one of the expected outcomes of global warming\" is classified as: SUPPORTS.",
+    "is_correct": true
+  },
+  {
+    "id": 112889,
+    "claim": "Angelsberg is the largest city in Luxembourg.",
+    "ground_truth": "NOT ENOUGH INFO",
+    "predicted_label": "NOT ENOUGH INFO",
+    "raw_response": "Based on the information available in memory, the claim \"Angelsberg is the largest city in Luxembourg\" is classified as: NOT ENOUGH INFO.",
+    "is_correct": true
+  },
+  {
+    "id": 17131,
+    "claim": "The Hindu Kush is entirely in Africa.",
+    "ground_truth": "REFUTES",
+    "predicted_label": "REFUTES",
+    "raw_response": "Based on the information available in memory, the claim \"The Hindu Kush is entirely in Africa\" is classified as: REFUTES.",
+    "is_correct": true
+  },
+  {
+    "id": 172772,
+    "claim": "The Beach was released in 2000 across theaters in America.",
+    "ground_truth": "NOT ENOUGH INFO",
+    "predicted_label": "NOT ENOUGH INFO",
+    "raw_response": "Based on the information available in memory, the claim \"The Beach was released in 2000 across theaters in America\" is classified as: NOT ENOUGH INFO.",
+    "is_correct": true
+  },
+  {
+    "id": 227348,
+    "claim": "Giada at Home began airing in 2003.",
+    "ground_truth": "REFUTES",
+    "predicted_label": "NOT ENOUGH INFO",
+    "raw_response": "Based on the information available in memory, the claim \"Giada at Home began airing in 2003\" is classified as: NOT ENOUGH INFO.",
+    "is_correct": false
+  },
+  {
+    "id": 133707,
+    "claim": "Cheese in the Trap (TV series) only stars animals.",
+    "ground_truth": "REFUTES",
+    "predicted_label": "NOT ENOUGH INFO",
+    "raw_response": "Based on the information available in memory, the claim \"Cheese in the Trap (TV series) only stars animals\" is classified as: NOT ENOUGH INFO.",
+    "is_correct": false
+  },
+  {
+    "id": 224370,
+    "claim": "Southampton F.C. has won zero FA Cups.",
+    "ground_truth": "REFUTES",
+    "predicted_label": "NOT ENOUGH INFO",
+    "raw_response": "Based on the information available in memory, the claim \"Southampton F.C. has won zero FA Cups\" is classified as: NOT ENOUGH INFO.",
+    "is_correct": false
+  },
+  {
+    "id": 175484,
+    "claim": "Christian Gottlob Neefe was an opera extinguisher.",
+    "ground_truth": "NOT ENOUGH INFO",
+    "predicted_label": "NOT ENOUGH INFO",
+    "raw_response": "Based on the information available in memory, the claim \"Christian Gottlob Neefe was an opera extinguisher\" is classified as: NOT ENOUGH INFO.",
+    "is_correct": true
+  },
+  {
+    "id": 212188,
+    "claim": "Miracle at St. Anna tells the story of four soldiers in a Tuscan village.",
+    "ground_truth": "SUPPORTS",
+    "predicted_label": "SUPPORTS",
+    "raw_response": "Based on the information available in memory, the claim \"Miracle at St. Anna tells the story of four soldiers in a Tuscan village\" is classified as: SUPPORTS.",
+    "is_correct": true
+  },
+  {
+    "id": 84223,
+    "claim": "Jens Stoltenberg served as Prime Minister of Norway twice.",
+    "ground_truth": "SUPPORTS",
+    "predicted_label": "SUPPORTS",
+    "raw_response": "Based on the information available in memory, the claim \"Jens Stoltenberg served as Prime Minister of Norway twice\" is classified as: SUPPORTS.",
+    "is_correct": true
+  },
+  {
+    "id": 195058,
+    "claim": "In 1930, Albert S. Ruddy is born.",
+    "ground_truth": "SUPPORTS",
+    "predicted_label": "NOT ENOUGH INFO",
+    "raw_response": "Based on the information available in memory, the claim \"In 1930, Albert S. Ruddy is born\" is classified as: NOT ENOUGH INFO.",
+    "is_correct": false
+  },
+  {
+    "id": 125287,
+    "claim": "Halsey signed her first recording contract with Dreamworks.",
+    "ground_truth": "REFUTES",
+    "predicted_label": "NOT ENOUGH INFO",
+    "raw_response": "Based on the information available in memory, the claim \"Halsey signed her first recording contract with Dreamworks\" is classified as: NOT ENOUGH INFO.",
+    "is_correct": false
+  },
+  {
+    "id": 29993,
+    "claim": "The Mirny (sloop-of-war) was a ship without allegiance.",
+    "ground_truth": "REFUTES",
+    "predicted_label": "REFUTES",
+    "raw_response": "Based on the information available in memory, the claim \"The Mirny (sloop-of-war) was a ship without allegiance\" is classified as: REFUTES.",
+    "is_correct": true
+  },
+  {
+    "id": 128754,
+    "claim": "Black Canary is a character in Venice.",
+    "ground_truth": "NOT ENOUGH INFO",
+    "predicted_label": "NOT ENOUGH INFO",
+    "raw_response": "Based on the information available in memory, the claim \"Black Canary is a character in Venice\" is classified as: NOT ENOUGH INFO.",
+    "is_correct": true
+  },
+  {
+    "id": 164636,
+    "claim": "To Pimp a Butterfly refused to sell any copies in America until 2017.",
+    "ground_truth": "REFUTES",
+    "predicted_label": "NOT ENOUGH INFO",
+    "raw_response": "Based on the information available in memory, the claim \"To Pimp a Butterfly refused to sell any copies in America until 2017\" is classified as: NOT ENOUGH INFO.",
+    "is_correct": false
+  },
+  {
+    "id": 135368,
+    "claim": "Shawn Carlson was born in Spain.",
+    "ground_truth": "NOT ENOUGH INFO",
+    "predicted_label": "NOT ENOUGH INFO",
+    "raw_response": "Based on the information available in memory, the claim \"Shawn Carlson was born in Spain\" is classified as: NOT ENOUGH INFO.",
+    "is_correct": true
+  },
+  {
+    "id": 192838,
+    "claim": "Ian Brennan was born in Detroit.",
+    "ground_truth": "NOT ENOUGH INFO",
+    "predicted_label": "NOT ENOUGH INFO",
+    "raw_response": "Based on the information available in memory, the claim \"Ian Brennan was born in Detroit\" is classified as: NOT ENOUGH INFO.",
+    "is_correct": true
+  },
+  {
+    "id": 70982,
+    "claim": "Alexandra Daddario is a ballerina.",
+    "ground_truth": "NOT ENOUGH INFO",
+    "predicted_label": "NOT ENOUGH INFO",
+    "raw_response": "Based on the information available in memory, the claim \"Alexandra Daddario is a ballerina\" is classified as: NOT ENOUGH INFO.",
+    "is_correct": true
+  },
+  {
+    "id": 130666,
+    "claim": "Ed Wood featured the performance of Tom Hanks.",
+    "ground_truth": "NOT ENOUGH INFO",
+    "predicted_label": "NOT ENOUGH INFO",
+    "raw_response": "Based on the information available in memory, the claim \"Ed Wood featured the performance of Tom Hanks\" is classified as: NOT ENOUGH INFO.",
+    "is_correct": true
+  },
+  {
+    "id": 21027,
+    "claim": "Annette Badland was in Wizards vs Aliens.",
+    "ground_truth": "SUPPORTS",
+    "predicted_label": "SUPPORTS",
+    "raw_response": "Based on the information available in memory, the claim \"Annette Badland was in Wizards vs Aliens\" is classified as: SUPPORTS.",
+    "is_correct": true
+  },
+  {
+    "id": 130963,
+    "claim": "Awkward Black Girl stars Issa Rae as Amber.",
+    "ground_truth": "SUPPORTS",
+    "predicted_label": "SUPPORTS",
+    "raw_response": "Based on the information available in memory, the claim \"Awkward Black Girl stars Issa Rae as Amber\" is classified as: SUPPORTS.",
+    "is_correct": true
+  },
+  {
+    "id": 47091,
+    "claim": "The Dark Tower was released in China.",
+    "ground_truth": "NOT ENOUGH INFO",
+    "predicted_label": "NOT ENOUGH INFO",
+    "raw_response": "Based on the information available in memory, the claim \"The Dark Tower was released in China\" is classified as: NOT ENOUGH INFO.",
+    "is_correct": true
+  },
+  {
+    "id": 212331,
+    "claim": "Mary-Kate Olsen and Ashley Olsen are incapable of being fashion designers.",
+    "ground_truth": "REFUTES",
+    "predicted_label": "REFUTES",
+    "raw_response": "Based on the information available in memory, the claim \"Mary-Kate Olsen and Ashley Olsen are incapable of being fashion designers\" is classified as: REFUTES.",
+    "is_correct": true
+  },
+  {
+    "id": 103773,
+    "claim": "History of Earth rules out Sandstone ever being part of it.",
+    "ground_truth": "REFUTES",
+    "predicted_label": "NOT ENOUGH INFO",
+    "raw_response": "Based on the information available in memory, the claim \"History of Earth rules out Sandstone ever being part of it\" is classified as: NOT ENOUGH INFO.",
+    "is_correct": false
+  },
+  {
+    "id": 44347,
+    "claim": "Duff McKagan was born in May of 1964.",
+    "ground_truth": "REFUTES",
+    "predicted_label": "SUPPORTS",
+    "raw_response": "Based on the information available in memory, the claim \"Duff McKagan was born in May of 1964\" is classified as: SUPPORTS.",
+    "is_correct": false
+  },
+  {
+    "id": 119281,
+    "claim": "Joe Walsh was inducted in a speedy manner.",
+    "ground_truth": "NOT ENOUGH INFO",
+    "predicted_label": "NOT ENOUGH INFO",
+    "raw_response": "Based on the information available in memory, the claim \"Joe Walsh was inducted in a speedy manner\" is classified as: NOT ENOUGH INFO.",
+    "is_correct": true
+  },
+  {
+    "id": 166640,
+    "claim": "Anne Rice spent her entire life in Brooklyn.",
+    "ground_truth": "REFUTES",
+    "predicted_label": "NOT ENOUGH INFO",
+    "raw_response": "Based on the information available in memory, the claim \"Anne Rice spent her entire life in Brooklyn\" is classified as: NOT ENOUGH INFO.",
+    "is_correct": false
+  },
+  {
+    "id": 218362,
+    "claim": "The French Resistance executed acts of sabotage on electric power grids.",
+    "ground_truth": "SUPPORTS",
+    "predicted_label": "SUPPORTS",
+    "raw_response": "Based on the information available in memory, the claim \"The French Resistance executed acts of sabotage on electric power grids\" is classified as: SUPPORTS.",
+    "is_correct": true
+  },
+  {
+    "id": 5574,
+    "claim": "Michael B. Jordan is American.",
+    "ground_truth": "SUPPORTS",
+    "predicted_label": "SUPPORTS",
+    "raw_response": "Based on the information available in memory, the claim \"Michael B. Jordan is American\" is classified as: SUPPORTS.",
+    "is_correct": true
+  },
+  {
+    "id": 34228,
+    "claim": "Eric Church is unable to write songs.",
+    "ground_truth": "REFUTES",
+    "predicted_label": "REFUTES",
+    "raw_response": "Based on the information available in memory, the claim \"Eric Church is unable to write songs\" is classified as: REFUTES.",
+    "is_correct": true
+  },
+  {
+    "id": 64519,
+    "claim": "Due Date was shot in southern Tuscaloosa, Alabama.",
+    "ground_truth": "NOT ENOUGH INFO",
+    "predicted_label": "NOT ENOUGH INFO",
+    "raw_response": "Based on the information available in memory, the claim \"Due Date was shot in southern Tuscaloosa, Alabama\" is classified as: NOT ENOUGH INFO.",
+    "is_correct": true
+  },
+  {
+    "id": 128176,
+    "claim": "Rob Sheridan is from Alaska.",
+    "ground_truth": "NOT ENOUGH INFO",
+    "predicted_label": "NOT ENOUGH INFO",
+    "raw_response": "Based on the information available in memory, the claim \"Rob Sheridan is from Alaska\" is classified as: NOT ENOUGH INFO.",
+    "is_correct": true
+  },
+  {
+    "id": 146456,
+    "claim": "Girls' Generation was incapable of covering the song Rhythm Nation.",
+    "ground_truth": "REFUTES",
+    "predicted_label": "NOT ENOUGH INFO",
+    "raw_response": "Based on the information available in memory, the claim \"Girls' Generation was incapable of covering the song Rhythm Nation\" is classified as: NOT ENOUGH INFO.",
+    "is_correct": false
+  },
+  {
+    "id": 87483,
+    "claim": "Dakota Fanning is a dancer.",
+    "ground_truth": "REFUTES",
+    "predicted_label": "NOT ENOUGH INFO",
+    "raw_response": "Based on the information available in memory, the claim \"Dakota Fanning is a dancer\" is classified as: NOT ENOUGH INFO.",
+    "is_correct": false
+  },
+  {
+    "id": 226144,
+    "claim": "Richard Dawkins makes regular film cameos.",
+    "ground_truth": "NOT ENOUGH INFO",
+    "predicted_label": "NOT ENOUGH INFO",
+    "raw_response": "Based on the information available in memory, the claim \"Richard Dawkins makes regular film cameos\" is classified as: NOT ENOUGH INFO.",
+    "is_correct": true
+  },
+  {
+    "id": 21875,
+    "claim": "Prescott, Arizona is a town.",
+    "ground_truth": "REFUTES",
+    "predicted_label": "NOT ENOUGH INFO",
+    "raw_response": "Based on the information available in memory, the claim \"Prescott, Arizona is a town\" is classified as: NOT ENOUGH INFO.",
+    "is_correct": false
+  },
+  {
+    "id": 196964,
+    "claim": "Diwali is incapable of being a festival.",
+    "ground_truth": "REFUTES",
+    "predicted_label": "REFUTES",
+    "raw_response": "Based on the information available in memory, the claim \"Diwali is incapable of being a festival\" is classified as: REFUTES.",
+    "is_correct": true
+  },
+  {
+    "id": 156106,
+    "claim": "Magic Johnson played basketball.",
+    "ground_truth": "SUPPORTS",
+    "predicted_label": "SUPPORTS",
+    "raw_response": "Based on the information available in memory, the claim \"Magic Johnson played basketball\" is classified as: SUPPORTS.",
+    "is_correct": true
+  },
+  {
+    "id": 47357,
+    "claim": "Margaret Thatcher implemented policies.",
+    "ground_truth": "SUPPORTS",
+    "predicted_label": "SUPPORTS",
+    "raw_response": "Based on the information available in memory, the claim \"Margaret Thatcher implemented policies\" is classified as: SUPPORTS.",
+    "is_correct": true
+  },
+  {
+    "id": 19417,
+    "claim": "Walt Disney inspired Osamu Tezuka.",
+    "ground_truth": "SUPPORTS",
+    "predicted_label": "NOT ENOUGH INFO",
+    "raw_response": "Based on the information available in memory, the claim \"Walt Disney inspired Osamu Tezuka\" is classified as: NOT ENOUGH INFO.",
+    "is_correct": false
+  },
+  {
+    "id": 203012,
+    "claim": "The chairwoman of Lockheed Martin and the President are currently the same person.",
+    "ground_truth": "NOT ENOUGH INFO",
+    "predicted_label": "NOT ENOUGH INFO",
+    "raw_response": "Based on the information available in memory, the claim \"The chairwoman of Lockheed Martin and the President are currently the same person\" is classified as: NOT ENOUGH INFO.",
+    "is_correct": true
+  },
+  {
+    "id": 194466,
+    "claim": "Tilda Swinton is not an artist.",
+    "ground_truth": "REFUTES",
+    "predicted_label": "REFUTES",
+    "raw_response": "Based on the information available in memory, the claim \"Tilda Swinton is not an artist\" is classified as: REFUTES.",
+    "is_correct": true
+  },
+  {
+    "id": 216378,
+    "claim": "The Chagatai language was spoken in Turkey and Kazakhstan.",
+    "ground_truth": "NOT ENOUGH INFO",
+    "predicted_label": "NOT ENOUGH INFO",
+    "raw_response": "Based on the information available in memory, the claim \"The Chagatai language was spoken in Turkey and Kazakhstan\" is classified as: NOT ENOUGH INFO.",
+    "is_correct": true
+  },
+  {
+    "id": 173712,
+    "claim": "Earl Scruggs was involved in bluegrass music.",
+    "ground_truth": "SUPPORTS",
+    "predicted_label": "SUPPORTS",
+    "raw_response": "Based on the information available in memory, the claim \"Earl Scruggs was involved in bluegrass music\" is classified as: SUPPORTS.",
+    "is_correct": true
+  },
+  {
+    "id": 15674,
+    "claim": "Soul Food was produced by Tracey Edmonds.",
+    "ground_truth": "SUPPORTS",
+    "predicted_label": "NOT ENOUGH INFO",
+    "raw_response": "Based on the information available in memory, the claim \"Soul Food was produced by Tracey Edmonds\" is classified as: NOT ENOUGH INFO.",
+    "is_correct": false
+  },
+  {
+    "id": 93082,
+    "claim": "Edmund H. North was an American citizen.",
+    "ground_truth": "SUPPORTS",
+    "predicted_label": "NOT ENOUGH INFO",
+    "raw_response": "Based on the information available in memory, the claim \"Edmund H. North was an American citizen\" is classified as: NOT ENOUGH INFO.",
+    "is_correct": false
+  },
+  {
+    "id": 9944,
+    "claim": "The Armenian Genocide took place in the Ottoman Empire and the Republic of Turkey.",
+    "ground_truth": "NOT ENOUGH INFO",
+    "predicted_label": "SUPPORTS",
+    "raw_response": "Based on the information available in memory, the claim \"The Armenian Genocide took place in the Ottoman Empire and the Republic of Turkey\" is classified as: SUPPORTS.",
+    "is_correct": false
+  },
+  {
+    "id": 153440,
+    "claim": "TakePart is the digital division of a university.",
+    "ground_truth": "REFUTES",
+    "predicted_label": "NOT ENOUGH INFO",
+    "raw_response": "Based on the information available in memory, the claim \"TakePart is the digital division of a university\" is classified as: NOT ENOUGH INFO.",
+    "is_correct": false
+  },
+  {
+    "id": 181621,
+    "claim": "WGBH-TV is a station on TV.",
+    "ground_truth": "SUPPORTS",
+    "predicted_label": "SUPPORTS",
+    "raw_response": "Based on the information available in memory, the claim \"WGBH-TV is a station on TV\" is classified as: SUPPORTS.",
+    "is_correct": true
+  },
+  {
+    "id": 137987,
+    "claim": "Lost won numerous awards and was lauded in the press.",
+    "ground_truth": "NOT ENOUGH INFO",
+    "predicted_label": "SUPPORTS",
+    "raw_response": "Based on the information available in memory, the claim \"Lost won numerous awards and was lauded in the press\" is classified as: SUPPORTS.",
+    "is_correct": false
+  },
+  {
+    "id": 181638,
+    "claim": "Mogadishu is only a business.",
+    "ground_truth": "REFUTES",
+    "predicted_label": "REFUTES",
+    "raw_response": "Based on the information available in memory, the claim \"Mogadishu is only a business\" is classified as: REFUTES.",
+    "is_correct": true
+  },
+  {
+    "id": 148605,
+    "claim": "Matthew Gray Gubler is an oil painter.",
+    "ground_truth": "NOT ENOUGH INFO",
+    "predicted_label": "NOT ENOUGH INFO",
+    "raw_response": "Based on the information available in memory, the claim \"Matthew Gray Gubler is an oil painter\" is classified as: NOT ENOUGH INFO.",
+    "is_correct": true
+  },
+  {
+    "id": 20986,
+    "claim": "The 100 also follows the teens parents.",
+    "ground_truth": "NOT ENOUGH INFO",
+    "predicted_label": "SUPPORTS",
+    "raw_response": "Based on the information available in memory, the claim \"The 100 also follows the teens parents\" is classified as: SUPPORTS.",
+    "is_correct": false
+  },
+  {
+    "id": 119575,
+    "claim": "International students come to the University of Mississippi from 90 nations including Britain.",
+    "ground_truth": "NOT ENOUGH INFO",
+    "predicted_label": "NOT ENOUGH INFO",
+    "raw_response": "Based on the information available in memory, the claim \"International students come to the University of Mississippi from 90 nations including Britain\" is classified as: NOT ENOUGH INFO.",
+    "is_correct": true
+  },
+  {
+    "id": 199742,
+    "claim": "Tijuana is smaller than 3 other cities in Baja California.",
+    "ground_truth": "REFUTES",
+    "predicted_label": "NOT ENOUGH INFO",
+    "raw_response": "Based on the information available in memory, the claim \"Tijuana is smaller than 3 other cities in Baja California\" is classified as: NOT ENOUGH INFO.",
+    "is_correct": false
+  },
+  {
+    "id": 60458,
+    "claim": "Aristotle tutored Alexander the Great.",
+    "ground_truth": "SUPPORTS",
+    "predicted_label": "SUPPORTS",
+    "raw_response": "Based on the information available in memory, the claim \"Aristotle tutored Alexander the Great\" is classified as: SUPPORTS.",
+    "is_correct": true
+  },
+  {
+    "id": 125622,
+    "claim": "The CONCACAF Champions League is organized for the top football clubs and it has many people.",
+    "ground_truth": "NOT ENOUGH INFO",
+    "predicted_label": "SUPPORTS",
+    "raw_response": "Based on the information available in memory, the claim \"The CONCACAF Champions League is organized for the top football clubs and it has many people\" is classified as: SUPPORTS.",
+    "is_correct": false
+  },
+  {
+    "id": 145120,
+    "claim": "Paramore is not a rock band.",
+    "ground_truth": "REFUTES",
+    "predicted_label": "REFUTES",
+    "raw_response": "Based on the information available in memory, the claim \"Paramore is not a rock band\" is classified as: REFUTES.",
+    "is_correct": true
+  },
+  {
+    "id": 112416,
+    "claim": "Bad Romance sold 12 million copies.",
+    "ground_truth": "SUPPORTS",
+    "predicted_label": "NOT ENOUGH INFO",
+    "raw_response": "Based on the information available in memory, the claim \"Bad Romance sold 12 million copies\" is classified as: NOT ENOUGH INFO.",
+    "is_correct": false
+  },
+  {
+    "id": 64812,
+    "claim": "Noel Fisher starred in Shameless and gained acclaim.",
+    "ground_truth": "SUPPORTS",
+    "predicted_label": "SUPPORTS",
+    "raw_response": "Based on the information available in memory, the claim \"Noel Fisher starred in Shameless and gained acclaim\" is classified as: SUPPORTS.",
+    "is_correct": true
+  },
+  {
+    "id": 223351,
+    "claim": "The principal photography of The Disaster Artist (film) started on September.",
+    "ground_truth": "REFUTES",
+    "predicted_label": "NOT ENOUGH INFO",
+    "raw_response": "Based on the information available in memory, the claim \"The principal photography of The Disaster Artist (film) started on September\" is classified as: NOT ENOUGH INFO.",
+    "is_correct": false
+  },
+  {
+    "id": 212779,
+    "claim": "In 1977, the undergraduate college of Harvard University became coeducational.",
+    "ground_truth": "SUPPORTS",
+    "predicted_label": "SUPPORTS",
+    "raw_response": "Based on the information available in memory, the claim \"In 1977, the undergraduate college of Harvard University became coeducational\" is classified as: SUPPORTS.",
+    "is_correct": true
+  },
+  {
+    "id": 201388,
+    "claim": "Varsity Blues (film) had zero reviews.",
+    "ground_truth": "REFUTES",
+    "predicted_label": "REFUTES",
+    "raw_response": "Based on the information available in memory, the claim \"Varsity Blues (film) had zero reviews\" is classified as: REFUTES.",
+    "is_correct": true
+  },
+  {
+    "id": 192961,
+    "claim": "Roland Emmerich is a campaigner.",
+    "ground_truth": "SUPPORTS",
+    "predicted_label": "NOT ENOUGH INFO",
+    "raw_response": "Based on the information available in memory, the claim \"Roland Emmerich is a campaigner\" is classified as: NOT ENOUGH INFO.",
+    "is_correct": false
+  },
+  {
+    "id": 499,
+    "claim": "Paul Nicholls is a singer.",
+    "ground_truth": "REFUTES",
+    "predicted_label": "NOT ENOUGH INFO",
+    "raw_response": "Based on the information available in memory, the claim \"Paul Nicholls is a singer\" is classified as: NOT ENOUGH INFO.",
+    "is_correct": false
+  },
+  {
+    "id": 105123,
+    "claim": "Connie Nielsen played the role of Meredith Kane in Boss.",
+    "ground_truth": "SUPPORTS",
+    "predicted_label": "SUPPORTS",
+    "raw_response": "Based on the information available in memory, the claim \"Connie Nielsen played the role of Meredith Kane in Boss\" is classified as: SUPPORTS.",
+    "is_correct": true
+  },
+  {
+    "id": 209849,
+    "claim": "Tie Your Mother Down was released.",
+    "ground_truth": "SUPPORTS",
+    "predicted_label": "SUPPORTS",
+    "raw_response": "Based on the information available in memory, the claim \"Tie Your Mother Down was released\" is classified as: SUPPORTS.",
+    "is_correct": true
+  },
+  {
+    "id": 62358,
+    "claim": "Gin is a spirit which derives its predominant flavour from steeping juniper berries.",
+    "ground_truth": "NOT ENOUGH INFO",
+    "predicted_label": "SUPPORTS",
+    "raw_response": "SUPPORTS",
+    "is_correct": false
+  },
+  {
+    "id": 8246,
+    "claim": "Moonlight's filming began in 2015.",
+    "ground_truth": "SUPPORTS",
+    "predicted_label": "NOT ENOUGH INFO",
+    "raw_response": "Based on the information available in memory, the claim \"Moonlight's filming began in 2015\" is classified as: NOT ENOUGH INFO.",
+    "is_correct": false
+  },
+  {
+    "id": 120630,
+    "claim": "The retreat of permafrost is an expected outcome of global warming.",
+    "ground_truth": "SUPPORTS",
+    "predicted_label": "SUPPORTS",
+    "raw_response": "SUPPORTS",
+    "is_correct": true
+  },
+  {
+    "id": 131928,
+    "claim": "The heart beats at a resting rate close to 72 licks per minute.",
+    "ground_truth": "NOT ENOUGH INFO",
+    "predicted_label": "REFUTES",
+    "raw_response": "REFUTES",
+    "is_correct": false
+  },
+  {
+    "id": 186988,
+    "claim": "The Bermuda Triangle is known by no other name.",
+    "ground_truth": "REFUTES",
+    "predicted_label": "REFUTES",
+    "raw_response": "Based on the information available in memory, the claim \"The Bermuda Triangle is known by no other name\" is classified as: REFUTES.",
+    "is_correct": true
+  },
+  {
+    "id": 193889,
+    "claim": "Bea Arthur was an animal right activist for three decades.",
+    "ground_truth": "NOT ENOUGH INFO",
+    "predicted_label": "NOT ENOUGH INFO",
+    "raw_response": "Based on the information available in memory, the claim \"Bea Arthur was an animal right activist for three decades\" is classified as: NOT ENOUGH INFO.",
+    "is_correct": true
+  },
+  {
+    "id": 187208,
+    "claim": "The Hurt Locker is a 2008 American science fiction thriller film.",
+    "ground_truth": "REFUTES",
+    "predicted_label": "REFUTES",
+    "raw_response": "Based on the information available in memory, the claim \"The Hurt Locker is a 2008 American science fiction thriller film\" is classified as: REFUTES.",
+    "is_correct": true
+  },
+  {
+    "id": 200386,
+    "claim": "Tom DeLonge formed a band in San Bernardino, California.",
+    "ground_truth": "NOT ENOUGH INFO",
+    "predicted_label": "NOT ENOUGH INFO",
+    "raw_response": "Based on the information available in memory, the claim \"Tom DeLonge formed a band in San Bernardino, California\" is classified as: NOT ENOUGH INFO.",
+    "is_correct": true
+  },
+  {
+    "id": 70100,
+    "claim": "Kuching is in the east of Sarawak.",
+    "ground_truth": "REFUTES",
+    "predicted_label": "REFUTES",
+    "raw_response": "REFUTES",
+    "is_correct": true
+  },
+  {
+    "id": 175740,
+    "claim": "The Cry of the Owl is based on Patricia Highsmith's eighth novel \"Push\".",
+    "ground_truth": "SUPPORTS",
+    "predicted_label": "NOT ENOUGH INFO",
+    "raw_response": "Based on the information available in memory, the claim \"The Cry of the Owl is based on Patricia Highsmith's eighth novel 'Push'\" is classified as: NOT ENOUGH INFO.",
+    "is_correct": false
+  },
+  {
+    "id": 101746,
+    "claim": "Reign Over Me was withheld in 2007.",
+    "ground_truth": "NOT ENOUGH INFO",
+    "predicted_label": "NOT ENOUGH INFO",
+    "raw_response": "Based on the information available in memory, the claim \"Reign Over Me was withheld in 2007\" is classified as: NOT ENOUGH INFO.",
+    "is_correct": true
+  },
+  {
+    "id": 91315,
+    "claim": "Sayyeshaa has yet to appear in a Bollywood film.",
+    "ground_truth": "REFUTES",
+    "predicted_label": "REFUTES",
+    "raw_response": "Based on the information available in memory, the claim \"Sayyeshaa has yet to appear in a Bollywood film\" is classified as: REFUTES.",
+    "is_correct": true
+  },
+  {
+    "id": 128068,
+    "claim": "Sayyeshaa starred on Broadway.",
+    "ground_truth": "NOT ENOUGH INFO",
+    "predicted_label": "NOT ENOUGH INFO",
+    "raw_response": "Based on the information available in memory, the claim \"Sayyeshaa starred on Broadway\" is classified as: NOT ENOUGH INFO.",
+    "is_correct": true
+  },
+  {
+    "id": 127870,
+    "claim": "Wales has a large region.",
+    "ground_truth": "SUPPORTS",
+    "predicted_label": "NOT ENOUGH INFO",
+    "raw_response": "NOT ENOUGH INFO",
+    "is_correct": false
+  },
+  {
+    "id": 50964,
+    "claim": "Vietnam is the 14th most famous country in the world.",
+    "ground_truth": "NOT ENOUGH INFO",
+    "predicted_label": "NOT ENOUGH INFO",
+    "raw_response": "Based on the information available in memory, the claim \"Vietnam is the 14th most famous country in the world\" is classified as: NOT ENOUGH INFO.",
+    "is_correct": true
+  },
+  {
+    "id": 112608,
+    "claim": "Edmund H. North was born in New York.",
+    "ground_truth": "NOT ENOUGH INFO",
+    "predicted_label": "NOT ENOUGH INFO",
+    "raw_response": "Based on the information available in memory, the claim \"Edmund H. North was born in New York\" is classified as: NOT ENOUGH INFO.",
+    "is_correct": true
+  },
+  {
+    "id": 185411,
+    "claim": "CHiPs was written by a person.",
+    "ground_truth": "SUPPORTS",
+    "predicted_label": "SUPPORTS",
+    "raw_response": "Based on the information available in memory, the claim \"CHiPs was written by a person\" is classified as: SUPPORTS.",
+    "is_correct": true
+  },
+  {
+    "id": 228338,
+    "claim": "Island Records was named in Jamaica.",
+    "ground_truth": "NOT ENOUGH INFO",
+    "predicted_label": "NOT ENOUGH INFO",
+    "raw_response": "Based on the information available in memory, the claim \"Island Records was named in Jamaica\" is classified as: NOT ENOUGH INFO.",
+    "is_correct": true
+  },
+  {
+    "id": 97890,
+    "claim": "Peking University was founded as the first school.",
+    "ground_truth": "REFUTES",
+    "predicted_label": "NOT ENOUGH INFO",
+    "raw_response": "Based on the information available in memory, the claim \"Peking University was founded as the first school\" is classified as: NOT ENOUGH INFO.",
+    "is_correct": false
+  },
+  {
+    "id": 51107,
+    "claim": "The Indian Army is a military force.",
+    "ground_truth": "SUPPORTS",
+    "predicted_label": "SUPPORTS",
+    "raw_response": "SUPPORTS",
+    "is_correct": true
+  },
+  {
+    "id": 53796,
+    "claim": "A version of Despacito features Victor Manuelle.",
+    "ground_truth": "SUPPORTS",
+    "predicted_label": "NOT ENOUGH INFO",
+    "raw_response": "Based on the information available in memory, the claim \"A version of Despacito features Victor Manuelle\" is classified as: NOT ENOUGH INFO.",
+    "is_correct": false
+  },
+  {
+    "id": 27753,
+    "claim": "Stephen Hillenburg was born in Oklahoma.",
+    "ground_truth": "SUPPORTS",
+    "predicted_label": "NOT ENOUGH INFO",
+    "raw_response": "Based on the information available in memory, the claim \"Stephen Hillenburg was born in Oklahoma\" is classified as: NOT ENOUGH INFO.",
+    "is_correct": false
+  },
+  {
+    "id": 10496,
+    "claim": "Rachel Green is one of the six main characters in the sitcom Friends.",
+    "ground_truth": "SUPPORTS",
+    "predicted_label": "SUPPORTS",
+    "raw_response": "SUPPORTS",
+    "is_correct": true
+  },
+  {
+    "id": 125437,
+    "claim": "Dakota Fanning is not a model.",
+    "ground_truth": "REFUTES",
+    "predicted_label": "REFUTES",
+    "raw_response": "Based on the information available in memory, the claim \"Dakota Fanning is not a model\" is classified as: REFUTES.",
+    "is_correct": true
+  },
+  {
+    "id": 96671,
+    "claim": "Chile is flourishing financially.",
+    "ground_truth": "NOT ENOUGH INFO",
+    "predicted_label": "NOT ENOUGH INFO",
+    "raw_response": "Based on the information available in memory, the claim \"Chile is flourishing financially\" is classified as: NOT ENOUGH INFO.",
+    "is_correct": true
+  },
+  {
+    "id": 185228,
+    "claim": "Home for the Holidays stars a producer.",
+    "ground_truth": "SUPPORTS",
+    "predicted_label": "NOT ENOUGH INFO",
+    "raw_response": "Based on the information available in memory, the claim \"Home for the Holidays stars a producer\" is classified as: NOT ENOUGH INFO.",
+    "is_correct": false
+  },
+  {
+    "id": 12828,
+    "claim": "Justin Chatwin performed in England.",
+    "ground_truth": "NOT ENOUGH INFO",
+    "predicted_label": "NOT ENOUGH INFO",
+    "raw_response": "Based on the information available in memory, the claim \"Justin Chatwin performed in England\" is classified as: NOT ENOUGH INFO.",
+    "is_correct": true
+  },
+  {
+    "id": 11441,
+    "claim": "The Bassoon King's working title was My Life in Art, Faith, and Idiocy.",
+    "ground_truth": "REFUTES",
+    "predicted_label": "NOT ENOUGH INFO",
+    "raw_response": "Based on the information available in memory, the claim \"The Bassoon King's working title was My Life in Art, Faith, and Idiocy\" is classified as: NOT ENOUGH INFO.",
+    "is_correct": false
+  },
+  {
+    "id": 38587,
+    "claim": "The Concert for Bangladesh raised almost $250,000 for Bangladesh relief.",
+    "ground_truth": "SUPPORTS",
+    "predicted_label": "NOT ENOUGH INFO",
+    "raw_response": "Based on the information available in memory, the claim \"The Concert for Bangladesh raised almost $250,000 for Bangladesh relief\" is classified as: NOT ENOUGH INFO.",
+    "is_correct": false
+  },
+  {
+    "id": 192921,
+    "claim": "\"Love the Way You Lie\" failed to receive any Grammy nominations.",
+    "ground_truth": "REFUTES",
+    "predicted_label": "REFUTES",
+    "raw_response": "Based on the information available in memory, the claim \"Love the Way You Lie failed to receive any Grammy nominations\" is classified as: REFUTES.",
+    "is_correct": true
+  },
+  {
+    "id": 193419,
+    "claim": "The Eighth Doctor has only ever aired on FX.",
+    "ground_truth": "REFUTES",
+    "predicted_label": "NOT ENOUGH INFO",
+    "raw_response": "Based on the information available in memory, the claim \"The Eighth Doctor has only ever aired on FX\" is classified as: NOT ENOUGH INFO.",
+    "is_correct": false
+  },
+  {
+    "id": 171621,
+    "claim": "Dave Gibbons is an English letterer.",
+    "ground_truth": "SUPPORTS",
+    "predicted_label": "SUPPORTS",
+    "raw_response": "Based on the information available in memory, the claim \"Dave Gibbons is an English letterer\" is classified as: SUPPORTS.",
+    "is_correct": true
+  },
+  {
+    "id": 9292,
+    "claim": "The Mirny (sloop-of-war) circumnavigated the globe.",
+    "ground_truth": "SUPPORTS",
+    "predicted_label": "SUPPORTS",
+    "raw_response": "Based on the information available in memory, the claim \"The Mirny (sloop-of-war) circumnavigated the globe\" is classified as: SUPPORTS.",
+    "is_correct": true
+  },
+  {
+    "id": 104617,
+    "claim": "Jack Falahee was born in 1989 and he is unknown.",
+    "ground_truth": "REFUTES",
+    "predicted_label": "REFUTES",
+    "raw_response": "Based on the information available in memory, the claim \"Jack Falahee was born in 1989 and he is unknown\" is classified as: REFUTES.",
+    "is_correct": true
+  },
+  {
+    "id": 76551,
+    "claim": "Ashley Graham has appeared in Vogue magazine.",
+    "ground_truth": "SUPPORTS",
+    "predicted_label": "SUPPORTS",
+    "raw_response": "Based on the information available in memory, the claim \"Ashley Graham has appeared in Vogue magazine\" is classified as: SUPPORTS.",
+    "is_correct": true
+  },
+  {
+    "id": 206734,
+    "claim": "Samwell Tarly is an archetypal character.",
+    "ground_truth": "NOT ENOUGH INFO",
+    "predicted_label": "NOT ENOUGH INFO",
+    "raw_response": "Based on the information available in memory, the claim \"Samwell Tarly is an archetypal character\" is classified as: NOT ENOUGH INFO.",
+    "is_correct": true
+  },
+  {
+    "id": 3492,
+    "claim": "Soyuz was part of the Soviet space program.",
+    "ground_truth": "SUPPORTS",
+    "predicted_label": "SUPPORTS",
+    "raw_response": "SUPPORTS",
+    "is_correct": true
+  },
+  {
+    "id": 172767,
+    "claim": "The Beach was only directed by John Daly.",
+    "ground_truth": "REFUTES",
+    "predicted_label": "NOT ENOUGH INFO",
+    "raw_response": "Based on the information available in memory, the claim \"The Beach was only directed by John Daly\" is classified as: NOT ENOUGH INFO.",
+    "is_correct": false
+  },
+  {
+    "id": 13312,
+    "claim": "Sean Penn was in crime drama films.",
+    "ground_truth": "SUPPORTS",
+    "predicted_label": "SUPPORTS",
+    "raw_response": "Based on the information available in memory, the claim \"Sean Penn was in crime drama films\" is classified as: SUPPORTS.",
+    "is_correct": true
+  },
+  {
+    "id": 143029,
+    "claim": "Tottenham Hotspur F.C. was founded in 1965.",
+    "ground_truth": "REFUTES",
+    "predicted_label": "REFUTES",
+    "raw_response": "Based on the information available in memory, the claim \"Tottenham Hotspur F.C. was founded in 1965\" is classified as: REFUTES.",
+    "is_correct": true
+  },
+  {
+    "id": 20711,
+    "claim": "The Crips did not have members in 2008.",
+    "ground_truth": "REFUTES",
+    "predicted_label": "REFUTES",
+    "raw_response": "REFUTES",
+    "is_correct": true
+  },
+  {
+    "id": 16519,
+    "claim": "Stan Beeman is a historical figure.",
+    "ground_truth": "REFUTES",
+    "predicted_label": "REFUTES",
+    "raw_response": "REFUTES",
+    "is_correct": true
+  },
+  {
+    "id": 228339,
+    "claim": "Island Records is a film school.",
+    "ground_truth": "NOT ENOUGH INFO",
+    "predicted_label": "REFUTES",
+    "raw_response": "REFUTES",
+    "is_correct": false
+  },
+  {
+    "id": 8830,
+    "claim": "Helmand Province is far away from Lashkargah.",
+    "ground_truth": "REFUTES",
+    "predicted_label": "REFUTES",
+    "raw_response": "REFUTES",
+    "is_correct": true
+  },
+  {
+    "id": 196989,
+    "claim": "Diwali is one of the most unpopular festivals of Hinduism.",
+    "ground_truth": "NOT ENOUGH INFO",
+    "predicted_label": "REFUTES",
+    "raw_response": "REFUTES",
+    "is_correct": false
+  },
+  {
+    "id": 107039,
+    "claim": "In the End has baseball in it.",
+    "ground_truth": "NOT ENOUGH INFO",
+    "predicted_label": "NOT ENOUGH INFO",
+    "raw_response": "Based on the information available in memory, the claim \"In the End has baseball in it\" is classified as: NOT ENOUGH INFO.",
+    "is_correct": true
+  },
+  {
+    "id": 83684,
+    "claim": "Knocked Up was released nationwide.",
+    "ground_truth": "NOT ENOUGH INFO",
+    "predicted_label": "SUPPORTS",
+    "raw_response": "Based on the information available in memory, the claim \"Knocked Up was released nationwide\" is classified as: SUPPORTS.",
+    "is_correct": false
+  },
+  {
+    "id": 121345,
+    "claim": "Miranda Otto began her career at age 18.",
+    "ground_truth": "NOT ENOUGH INFO",
+    "predicted_label": "NOT ENOUGH INFO",
+    "raw_response": "Based on the information available in memory, the claim \"Miranda Otto began her career at age 18\" is classified as: NOT ENOUGH INFO.",
+    "is_correct": true
+  },
+  {
+    "id": 98305,
+    "claim": "Recovery features Rihanna.",
+    "ground_truth": "SUPPORTS",
+    "predicted_label": "NOT ENOUGH INFO",
+    "raw_response": "Based on the information available in memory, the claim \"Recovery features Rihanna\" is classified as: NOT ENOUGH INFO.",
+    "is_correct": false
+  },
+  {
+    "id": 157492,
+    "claim": "Arizona is not a state.",
+    "ground_truth": "REFUTES",
+    "predicted_label": "REFUTES",
+    "raw_response": "Based on the information available in memory, the claim \"Arizona is not a state\" is classified as: REFUTES.",
+    "is_correct": true
+  },
+  {
+    "id": 94624,
+    "claim": "Angela Bassett started her film career in 1954.",
+    "ground_truth": "REFUTES",
+    "predicted_label": "REFUTES",
+    "raw_response": "Based on the information available in memory, the claim \"Angela Bassett started her film career in 1954\" is classified as: REFUTES.",
+    "is_correct": true
+  },
+  {
+    "id": 69584,
+    "claim": "Rhythm Nation was named by Pink.",
+    "ground_truth": "NOT ENOUGH INFO",
+    "predicted_label": "NOT ENOUGH INFO",
+    "raw_response": "Based on the information available in memory, the claim \"Rhythm Nation was named by Pink\" is classified as: NOT ENOUGH INFO.",
+    "is_correct": true
+  },
+  {
+    "id": 53675,
+    "claim": "Birthday Song (2 Chainz song) was produced by Sonny Digital.",
+    "ground_truth": "SUPPORTS",
+    "predicted_label": "SUPPORTS",
+    "raw_response": "Based on the information available in memory, the claim \"Birthday Song (2 Chainz song) was produced by Sonny Digital\" is classified as: SUPPORTS.",
+    "is_correct": true
+  },
+  {
+    "id": 76594,
+    "claim": "Marjorie Gross is illiterate.",
+    "ground_truth": "REFUTES",
+    "predicted_label": "NOT ENOUGH INFO",
+    "raw_response": "Based on the information available in memory, the claim \"Marjorie Gross is illiterate\" is classified as: NOT ENOUGH INFO.",
+    "is_correct": false
+  },
+  {
+    "id": 113235,
+    "claim": "2005 was the year Stanley Williams was executed.",
+    "ground_truth": "SUPPORTS",
+    "predicted_label": "SUPPORTS",
+    "raw_response": "Based on the information available in memory, the claim \"2005 was the year Stanley Williams was executed\" is classified as: SUPPORTS.",
+    "is_correct": true
+  },
+  {
+    "id": 173130,
+    "claim": "Anne Sullivan died in December of 1936.",
+    "ground_truth": "REFUTES",
+    "predicted_label": "SUPPORTS",
+    "raw_response": "Based on the information available in memory, the claim \"Anne Sullivan died in December of 1936\" is classified as: SUPPORTS.",
+    "is_correct": false
+  },
+  {
+    "id": 87008,
+    "claim": "Morse Code is a method of transportation.",
+    "ground_truth": "REFUTES",
+    "predicted_label": "REFUTES",
+    "raw_response": "REFUTES",
+    "is_correct": true
+  },
+  {
+    "id": 115020,
+    "claim": "Fantastic Four (2005 film) was released on July 8th, 2005.",
+    "ground_truth": "SUPPORTS",
+    "predicted_label": "SUPPORTS",
+    "raw_response": "Based on the information available in memory, the claim \"Fantastic Four (2005 film) was released on July 8th, 2005\" is classified as: SUPPORTS.",
+    "is_correct": true
+  },
+  {
+    "id": 36499,
+    "claim": "Despacito has a version which features a lengthier bridge.",
+    "ground_truth": "NOT ENOUGH INFO",
+    "predicted_label": "SUPPORTS",
+    "raw_response": "Based on the information available in memory, the claim \"Despacito has a version which features a lengthier bridge\" is classified as: SUPPORTS.",
+    "is_correct": false
+  },
+  {
+    "id": 172763,
+    "claim": "The Beach exclusively falls under the comedy genre.",
+    "ground_truth": "REFUTES",
+    "predicted_label": "REFUTES",
+    "raw_response": "Based on the information available in memory, the claim \"The Beach exclusively falls under the comedy genre\" is classified as: REFUTES.",
+    "is_correct": true
+  },
+  {
+    "id": 204627,
+    "claim": "Rio's sequel was released on April 11, 2014.",
+    "ground_truth": "SUPPORTS",
+    "predicted_label": "SUPPORTS",
+    "raw_response": "Based on the information available in memory, the claim \"Rio's sequel was released on April 11, 2014\" is classified as: SUPPORTS.",
+    "is_correct": true
+  },
+  {
+    "id": 127403,
+    "claim": "Starrcade was regarded by the NWA and WCW as their least important event of the year.",
+    "ground_truth": "REFUTES",
+    "predicted_label": "NOT ENOUGH INFO",
+    "raw_response": "Based on the information available in memory, the claim \"Starrcade was regarded by the NWA and WCW as their least important event of the year\" is classified as: NOT ENOUGH INFO.",
+    "is_correct": false
+  },
+  {
+    "id": 163991,
+    "claim": "Veeram was in competition with Vijaya Productions.",
+    "ground_truth": "REFUTES",
+    "predicted_label": "NOT ENOUGH INFO",
+    "raw_response": "Based on the information available in memory, the claim \"Veeram was in competition with Vijaya Productions\" is classified as: NOT ENOUGH INFO.",
+    "is_correct": false
+  },
+  {
+    "id": 32474,
+    "claim": "West Virginia borders Maryland to the northeast.",
+    "ground_truth": "SUPPORTS",
+    "predicted_label": "SUPPORTS",
+    "raw_response": "SUPPORTS",
+    "is_correct": true
+  },
+  {
+    "id": 170415,
+    "claim": "Michael Vick is a Canadian.",
+    "ground_truth": "NOT ENOUGH INFO",
+    "predicted_label": "REFUTES",
+    "raw_response": "Based on the information available in memory, the claim \"Michael Vick is a Canadian\" is classified as: REFUTES.",
+    "is_correct": false
+  },
+  {
+    "id": 57138,
+    "claim": "John Krasinski is a thespian.",
+    "ground_truth": "REFUTES",
+    "predicted_label": "SUPPORTS",
+    "raw_response": "Based on the information available in memory, the claim \"John Krasinski is a thespian\" is classified as: SUPPORTS.",
+    "is_correct": false
+  },
+  {
+    "id": 493,
+    "claim": "Nuuk is a seat of government.",
+    "ground_truth": "SUPPORTS",
+    "predicted_label": "SUPPORTS",
+    "raw_response": "SUPPORTS",
+    "is_correct": true
+  },
+  {
+    "id": 3546,
+    "claim": "Villa Park hosted a tennis match on August 12, 2012.",
+    "ground_truth": "REFUTES",
+    "predicted_label": "NOT ENOUGH INFO",
+    "raw_response": "Based on the information available in memory, the claim \"Villa Park hosted a tennis match on August 12, 2012\" is classified as: NOT ENOUGH INFO.",
+    "is_correct": false
+  },
+  {
+    "id": 178148,
+    "claim": "The World Trade Center was destroyed as the result of a series of TV shows.",
+    "ground_truth": "NOT ENOUGH INFO",
+    "predicted_label": "REFUTES",
+    "raw_response": "REFUTES",
+    "is_correct": false
+  },
+  {
+    "id": 145967,
+    "claim": "The Columbia River has channels.",
+    "ground_truth": "SUPPORTS",
+    "predicted_label": "SUPPORTS",
+    "raw_response": "SUPPORTS",
+    "is_correct": true
+  },
+  {
+    "id": 124033,
+    "claim": "Noel Fisher portrayed Mickey Milkovich and gained acclaim.",
+    "ground_truth": "NOT ENOUGH INFO",
+    "predicted_label": "SUPPORTS",
+    "raw_response": "Based on the information available in memory, the claim \"Noel Fisher portrayed Mickey Milkovich and gained acclaim\" is classified as: SUPPORTS.",
+    "is_correct": false
+  },
+  {
+    "id": 151307,
+    "claim": "Aristotle spent time in Sparta.",
+    "ground_truth": "NOT ENOUGH INFO",
+    "predicted_label": "NOT ENOUGH INFO",
+    "raw_response": "Based on the information available in memory, the claim \"Aristotle spent time in Sparta\" is classified as: NOT ENOUGH INFO.",
+    "is_correct": true
+  },
+  {
+    "id": 105176,
+    "claim": "The Washington Wizards were the winners of four conference titles.",
+    "ground_truth": "SUPPORTS",
+    "predicted_label": "NOT ENOUGH INFO",
+    "raw_response": "Based on the information available in memory, the claim \"The Washington Wizards were the winners of four conference titles\" is classified as: NOT ENOUGH INFO.",
+    "is_correct": false
+  },
+  {
+    "id": 192835,
+    "claim": "There is a person who acts named Ian Brennan.",
+    "ground_truth": "SUPPORTS",
+    "predicted_label": "NOT ENOUGH INFO",
+    "raw_response": "Based on the information available in memory, the claim \"There is a person who acts named Ian Brennan\" is classified as: NOT ENOUGH INFO.",
+    "is_correct": false
+  },
+  {
+    "id": 202785,
+    "claim": "Despicable Me 2 was written by Quentin Tarantino.",
+    "ground_truth": "NOT ENOUGH INFO",
+    "predicted_label": "REFUTES",
+    "raw_response": "Based on the information available in memory, the claim \"Despicable Me 2 was written by Quentin Tarantino\" is classified as: REFUTES.",
+    "is_correct": false
+  },
+  {
+    "id": 159713,
+    "claim": "Edgar Wright is the screenwriter of Twilight.",
+    "ground_truth": "NOT ENOUGH INFO",
+    "predicted_label": "REFUTES",
+    "raw_response": "Based on the information available in memory, the claim \"Edgar Wright is the screenwriter of Twilight\" is classified as: REFUTES.",
+    "is_correct": false
+  },
+  {
+    "id": 120442,
+    "claim": "Daggering is a form of music.",
+    "ground_truth": "REFUTES",
+    "predicted_label": "NOT ENOUGH INFO",
+    "raw_response": "Based on the information available in memory, the claim \"Daggering is a form of music\" is classified as: NOT ENOUGH INFO.",
+    "is_correct": false
+  },
+  {
+    "id": 151247,
+    "claim": "The Adventures of Pluto Nash was released in 2005.",
+    "ground_truth": "REFUTES",
+    "predicted_label": "REFUTES",
+    "raw_response": "Based on the information available in memory, the claim \"The Adventures of Pluto Nash was released in 2005\" is classified as: REFUTES.",
+    "is_correct": true
+  },
+  {
+    "id": 79017,
+    "claim": "Mohra got zero Filmfare nominations.",
+    "ground_truth": "REFUTES",
+    "predicted_label": "NOT ENOUGH INFO",
+    "raw_response": "Based on the information available in memory, the claim \"Mohra got zero Filmfare nominations\" is classified as: NOT ENOUGH INFO.",
+    "is_correct": false
+  },
+  {
+    "id": 100938,
+    "claim": "Margaret Thatcher was active in politics.",
+    "ground_truth": "SUPPORTS",
+    "predicted_label": "SUPPORTS",
+    "raw_response": "Based on the information available in memory, the claim \"Margaret Thatcher was active in politics\" is classified as: SUPPORTS.",
+    "is_correct": true
+  },
+  {
+    "id": 148799,
+    "claim": "Off the Wall won its singer a house.",
+    "ground_truth": "NOT ENOUGH INFO",
+    "predicted_label": "NOT ENOUGH INFO",
+    "raw_response": "Based on the information available in memory, the claim \"Off the Wall won its singer a house\" is classified as: NOT ENOUGH INFO.",
+    "is_correct": true
+  },
+  {
+    "id": 111121,
+    "claim": "Akkineni Nageswara Rao stars in Daag.",
+    "ground_truth": "SUPPORTS",
+    "predicted_label": "NOT ENOUGH INFO",
+    "raw_response": "Based on the information available in memory, the claim \"Akkineni Nageswara Rao stars in Daag\" is classified as: NOT ENOUGH INFO.",
+    "is_correct": false
+  },
+  {
+    "id": 96135,
+    "claim": "The Gifted failed to be created for Fox.",
+    "ground_truth": "REFUTES",
+    "predicted_label": "REFUTES",
+    "raw_response": "Based on the information available in memory, the claim \"The Gifted failed to be created for Fox\" is classified as: REFUTES.",
+    "is_correct": true
+  },
+  {
+    "id": 40226,
+    "claim": "Heavy Metal music is a genre of swing music.",
+    "ground_truth": "NOT ENOUGH INFO",
+    "predicted_label": "REFUTES",
+    "raw_response": "Based on the information available in memory, the claim \"Heavy Metal music is a genre of swing music\" is classified as: REFUTES.",
+    "is_correct": false
+  },
+  {
+    "id": 174587,
+    "claim": "Artpop was reviewed by music critics in 1999.",
+    "ground_truth": "NOT ENOUGH INFO",
+    "predicted_label": "REFUTES",
+    "raw_response": "Based on the information available in memory, the claim \"Artpop was reviewed by music critics in 1999\" is classified as: REFUTES.",
+    "is_correct": false
+  },
+  {
+    "id": 105719,
+    "claim": "Game of Thrones (season 7) is incapable of being involved with Jim Broadbent.",
+    "ground_truth": "REFUTES",
+    "predicted_label": "SUPPORTS",
+    "raw_response": "Based on the information available in memory, the claim \"Game of Thrones (season 7) is incapable of being involved with Jim Broadbent\" is classified as: SUPPORTS.",
+    "is_correct": false
+  },
+  {
+    "id": 82317,
+    "claim": "Matthew Gray Gubler is the leader of a political party.",
+    "ground_truth": "NOT ENOUGH INFO",
+    "predicted_label": "REFUTES",
+    "raw_response": "Based on the information available in memory, the claim \"Matthew Gray Gubler is the leader of a political party\" is classified as: REFUTES.",
+    "is_correct": false
+  },
+  {
+    "id": 215484,
+    "claim": "Only dramatic performers host Weekly Idol.",
+    "ground_truth": "REFUTES",
+    "predicted_label": "NOT ENOUGH INFO",
+    "raw_response": "Based on the information available in memory, the claim \"Only dramatic performers host Weekly Idol\" is classified as: NOT ENOUGH INFO.",
+    "is_correct": false
+  },
+  {
+    "id": 212780,
+    "claim": "Harvard University is the first University in the U.S.",
+    "ground_truth": "SUPPORTS",
+    "predicted_label": "SUPPORTS",
+    "raw_response": "Based on the information available in memory, the claim \"Harvard University is the first University in the U.S.\" is classified as: SUPPORTS.",
+    "is_correct": true
+  },
+  {
+    "id": 138593,
+    "claim": "Psych's protagonist is not Shawn Spencer.",
+    "ground_truth": "REFUTES",
+    "predicted_label": "REFUTES",
+    "raw_response": "Based on the information available in memory, the claim \"Psych's protagonist is not Shawn Spencer\" is classified as: REFUTES.",
+    "is_correct": true
+  },
+  {
+    "id": 183626,
+    "claim": "Finding Dory was directed by an American and it is a film.",
+    "ground_truth": "NOT ENOUGH INFO",
+    "predicted_label": "SUPPORTS",
+    "raw_response": "Based on the information available in memory, the claim \"Finding Dory was directed by an American and it is a film\" is classified as: SUPPORTS.",
+    "is_correct": false
+  },
+  {
+    "id": 37773,
+    "claim": "Daag stars in Jayasudha.",
+    "ground_truth": "SUPPORTS",
+    "predicted_label": "NOT ENOUGH INFO",
+    "raw_response": "Based on the information available in memory, the claim \"Daag stars in Jayasudha\" is classified as: NOT ENOUGH INFO.",
+    "is_correct": false
+  },
+  {
+    "id": 135813,
+    "claim": "Brazzers is based in Italy.",
+    "ground_truth": "REFUTES",
+    "predicted_label": "NOT ENOUGH INFO",
+    "raw_response": "Based on the information available in memory, the claim \"Brazzers is based in Italy\" is classified as: NOT ENOUGH INFO.",
+    "is_correct": false
+  },
+  {
+    "id": 189463,
+    "claim": "Yandex operates in Croatia.",
+    "ground_truth": "NOT ENOUGH INFO",
+    "predicted_label": "NOT ENOUGH INFO",
+    "raw_response": "Based on the information available in memory, the claim \"Yandex operates in Croatia\" is classified as: NOT ENOUGH INFO.",
+    "is_correct": true
+  },
+  {
+    "id": 149577,
+    "claim": "Starrcade was eventually broadcast via pay-per-view television in 2002.",
+    "ground_truth": "REFUTES",
+    "predicted_label": "SUPPORTS",
+    "raw_response": "Based on the information available in memory, the claim \"Starrcade was eventually broadcast via pay-per-view television in 2002\" is classified as: SUPPORTS.",
+    "is_correct": false
+  },
+  {
+    "id": 114735,
+    "claim": "Lockhead Martin F-35 Lightning II was incapable of flying.",
+    "ground_truth": "REFUTES",
+    "predicted_label": "REFUTES",
+    "raw_response": "Based on the information available in memory, the claim \"Lockheed Martin F-35 Lightning II was incapable of flying\" is classified as: REFUTES.",
+    "is_correct": true
+  },
+  {
+    "id": 139370,
+    "claim": "Stanley Williams was a police officer in California.",
+    "ground_truth": "NOT ENOUGH INFO",
+    "predicted_label": "NOT ENOUGH INFO",
+    "raw_response": "Based on the information available in memory, the claim \"Stanley Williams was a police officer in California\" is classified as: NOT ENOUGH INFO.",
+    "is_correct": true
+  },
+  {
+    "id": 92524,
+    "claim": "Vanisri stars in Daag the movie.",
+    "ground_truth": "SUPPORTS",
+    "predicted_label": "NOT ENOUGH INFO",
+    "raw_response": "Based on the information available in memory, the claim \"Vanisri stars in Daag the movie\" is classified as: NOT ENOUGH INFO.",
+    "is_correct": false
+  },
+  {
+    "id": 53330,
+    "claim": "Trollhunters is computer-animated.",
+    "ground_truth": "SUPPORTS",
+    "predicted_label": "SUPPORTS",
+    "raw_response": "Based on the information available in memory, the claim \"Trollhunters is computer-animated\" is classified as: SUPPORTS.",
+    "is_correct": true
+  },
+  {
+    "id": 59242,
+    "claim": "The Wallace is a work of poetry.",
+    "ground_truth": "SUPPORTS",
+    "predicted_label": "SUPPORTS",
+    "raw_response": "Based on the information available in memory, the claim \"The Wallace is a work of poetry\" is classified as: SUPPORTS.",
+    "is_correct": true
+  },
+  {
+    "id": 142638,
+    "claim": "Scotty Moore was born on May 27, 1931.",
+    "ground_truth": "REFUTES",
+    "predicted_label": "SUPPORTS",
+    "raw_response": "Based on the information available in memory, the claim \"Scotty Moore was born on May 27, 1931\" is classified as: SUPPORTS.",
+    "is_correct": false
+  },
+  {
+    "id": 198027,
+    "claim": "The New York City Landmarks Preservation Commission includes a priest.",
+    "ground_truth": "NOT ENOUGH INFO",
+    "predicted_label": "NOT ENOUGH INFO",
+    "raw_response": "Based on the information available in memory, the claim \"The New York City Landmarks Preservation Commission includes a priest\" is classified as: NOT ENOUGH INFO.",
+    "is_correct": true
+  },
+  {
+    "id": 12264,
+    "claim": "Folklore includes proverbs.",
+    "ground_truth": "SUPPORTS",
+    "predicted_label": "SUPPORTS",
+    "raw_response": "Based on the information available in memory, the claim \"Folklore includes proverbs\" is classified as: SUPPORTS.",
+    "is_correct": true
+  },
+  {
+    "id": 73471,
+    "claim": "Uranium-235 was discovered by a person who was born in August of 2014.",
+    "ground_truth": "REFUTES",
+    "predicted_label": "REFUTES",
+    "raw_response": "Based on the information available in memory, the claim \"Uranium-235 was discovered by a person who was born in August of 2014\" is classified as: REFUTES.",
+    "is_correct": true
+  },
+  {
+    "id": 42189,
+    "claim": "Damon Albarn collaborated with Michael Jackson.",
+    "ground_truth": "NOT ENOUGH INFO",
+    "predicted_label": "NOT ENOUGH INFO",
+    "raw_response": "Based on the information available in memory, the claim \"Damon Albarn collaborated with Michael Jackson\" is classified as: NOT ENOUGH INFO.",
+    "is_correct": true
+  },
+  {
+    "id": 15452,
+    "claim": "During 1927 - 1941 Mount Rushmore was created.",
+    "ground_truth": "SUPPORTS",
+    "predicted_label": "SUPPORTS",
+    "raw_response": "Based on the information available in memory, the claim \"During 1927 - 1941 Mount Rushmore was created\" is classified as: SUPPORTS.",
+    "is_correct": true
+  },
+  {
+    "id": 172298,
+    "claim": "The King and I is based on a novel by an American writer born in Washington.",
+    "ground_truth": "NOT ENOUGH INFO",
+    "predicted_label": "NOT ENOUGH INFO",
+    "raw_response": "Based on the information available in memory, the claim \"The King and I is based on a novel by an American writer born in Washington\" is classified as: NOT ENOUGH INFO.",
+    "is_correct": true
+  },
+  {
+    "id": 165241,
+    "claim": "Phillip Glass has listened to numerous operas.",
+    "ground_truth": "NOT ENOUGH INFO",
+    "predicted_label": "NOT ENOUGH INFO",
+    "raw_response": "Based on the information available in memory, the claim \"Phillip Glass has listened to numerous operas\" is classified as: NOT ENOUGH INFO.",
+    "is_correct": true
+  },
+  {
+    "id": 107285,
+    "claim": "Kellogg's is a manufacture of cookie and cracker products.",
+    "ground_truth": "SUPPORTS",
+    "predicted_label": "SUPPORTS",
+    "raw_response": "Based on the information available in memory, the claim \"Kellogg's is a manufacture of cookie and cracker products\" is classified as: SUPPORTS.",
+    "is_correct": true
+  },
+  {
+    "id": 89096,
+    "claim": "Luis Fonsi's given name is George.",
+    "ground_truth": "REFUTES",
+    "predicted_label": "REFUTES",
+    "raw_response": "Based on the information available in memory, the claim \"Luis Fonsi's given name is George\" is classified as: REFUTES.",
+    "is_correct": true
+  },
+  {
+    "id": 183130,
+    "claim": "Tata Motors is a constituent of the Public Opinion Magazine.",
+    "ground_truth": "NOT ENOUGH INFO",
+    "predicted_label": "NOT ENOUGH INFO",
+    "raw_response": "Based on the information available in memory, the claim \"Tata Motors is a constituent of the Public Opinion Magazine\" is classified as: NOT ENOUGH INFO.",
+    "is_correct": true
+  },
+  {
+    "id": 24767,
+    "claim": "Pearl Jam is a rock band.",
+    "ground_truth": "SUPPORTS",
+    "predicted_label": "SUPPORTS",
+    "raw_response": "Based on the information available in memory, the claim \"Pearl Jam is a rock band\" is classified as: SUPPORTS.",
+    "is_correct": true
+  },
+  {
+    "id": 10452,
+    "claim": "San Diego Comic-Con was founded as the Golden State Comic Book Convention.",
+    "ground_truth": "SUPPORTS",
+    "predicted_label": "NOT ENOUGH INFO",
+    "raw_response": "Based on the information available in memory, the claim \"San Diego Comic-Con was founded as the Golden State Comic Book Convention\" is classified as: NOT ENOUGH INFO.",
+    "is_correct": false
+  },
+  {
+    "id": 75877,
+    "claim": "Jamie Murray is not a three-time Grand Slam doubles winner.",
+    "ground_truth": "REFUTES",
+    "predicted_label": "REFUTES",
+    "raw_response": "Based on the information available in memory, the claim \"Jamie Murray is not a three-time Grand Slam doubles winner\" is classified as: REFUTES.",
+    "is_correct": true
+  },
+  {
+    "id": 204631,
+    "claim": "Rio's sequel is an American musical comedy film.",
+    "ground_truth": "SUPPORTS",
+    "predicted_label": "SUPPORTS",
+    "raw_response": "Based on the information available in memory, the claim \"Rio's sequel is an American musical comedy film\" is classified as: SUPPORTS.",
+    "is_correct": true
+  },
+  {
+    "id": 122887,
+    "claim": "Tenacious D is made up of zero Americans.",
+    "ground_truth": "REFUTES",
+    "predicted_label": "REFUTES",
+    "raw_response": "Based on the information available in memory, the claim \"Tenacious D is made up of zero Americans\" is classified as: REFUTES.",
+    "is_correct": true
+  },
+  {
+    "id": 192831,
+    "claim": "Ian Brennan was married in 1978.",
+    "ground_truth": "NOT ENOUGH INFO",
+    "predicted_label": "NOT ENOUGH INFO",
+    "raw_response": "Based on the information available in memory, the claim \"Ian Brennan was married in 1978\" is classified as: NOT ENOUGH INFO.",
+    "is_correct": true
+  },
+  {
+    "id": 100461,
+    "claim": "The human brain is set apart from mammalian brains by the size of the cerebral cortex.",
+    "ground_truth": "NOT ENOUGH INFO",
+    "predicted_label": "SUPPORTS",
+    "raw_response": "Based on the information available in memory, the claim \"The human brain is set apart from mammalian brains by the size of the cerebral cortex\" is classified as: SUPPORTS.",
+    "is_correct": false
+  },
+  {
+    "id": 15006,
+    "claim": "Wildfang was founded in 2010.",
+    "ground_truth": "SUPPORTS",
+    "predicted_label": "NOT ENOUGH INFO",
+    "raw_response": "Based on the information available in memory, the claim \"Wildfang was founded in 2010\" is classified as: NOT ENOUGH INFO.",
+    "is_correct": false
+  },
+  {
+    "id": 144327,
+    "claim": "Aleister Crowley taught occultism to students.",
+    "ground_truth": "NOT ENOUGH INFO",
+    "predicted_label": "SUPPORTS",
+    "raw_response": "Based on the information available in memory, the claim \"Aleister Crowley taught occultism to students\" is classified as: SUPPORTS.",
+    "is_correct": false
+  },
+  {
+    "id": 52801,
+    "claim": "Mud refused to hire Reese Witherspoon.",
+    "ground_truth": "REFUTES",
+    "predicted_label": "NOT ENOUGH INFO",
+    "raw_response": "Based on the information available in memory, the claim \"Mud refused to hire Reese Witherspoon\" is classified as: NOT ENOUGH INFO.",
+    "is_correct": false
+  },
+  {
+    "id": 139280,
+    "claim": "James Earl Jones was a member of the team.",
+    "ground_truth": "NOT ENOUGH INFO",
+    "predicted_label": "NOT ENOUGH INFO",
+    "raw_response": "Based on the information available in memory, the claim \"James Earl Jones was a member of the team\" is classified as: NOT ENOUGH INFO.",
+    "is_correct": true
+  },
+  {
+    "id": 159715,
+    "claim": "Edgar Wright is from England.",
+    "ground_truth": "SUPPORTS",
+    "predicted_label": "SUPPORTS",
+    "raw_response": "Based on the information available in memory, the claim \"Edgar Wright is from England\" is classified as: SUPPORTS.",
+    "is_correct": true
+  },
+  {
+    "id": 166860,
+    "claim": "Drake Bell is a brother.",
+    "ground_truth": "NOT ENOUGH INFO",
+    "predicted_label": "NOT ENOUGH INFO",
+    "raw_response": "Based on the information available in memory, the claim \"Drake Bell is a brother\" is classified as: NOT ENOUGH INFO.",
+    "is_correct": true
+  },
+  {
+    "id": 37995,
+    "claim": "Victoria Palace Theatre is in a place named after Queen Victoria.",
+    "ground_truth": "SUPPORTS",
+    "predicted_label": "SUPPORTS",
+    "raw_response": "Based on the information available in memory, the claim \"Victoria Palace Theatre is in a place named after Queen Victoria\" is classified as: SUPPORTS.",
+    "is_correct": true
+  },
+  {
+    "id": 144649,
+    "claim": "Lizzy Caplan is incapable of starring in television show like Party Down.",
+    "ground_truth": "REFUTES",
+    "predicted_label": "REFUTES",
+    "raw_response": "Based on the information available in memory, the claim \"Lizzy Caplan is incapable of starring in television show like Party Down\" is classified as: REFUTES.",
+    "is_correct": true
+  },
+  {
+    "id": 217218,
+    "claim": "A monk lives alone or with other cats.",
+    "ground_truth": "NOT ENOUGH INFO",
+    "predicted_label": "NOT ENOUGH INFO",
+    "raw_response": "Based on the information available in memory, the claim \"A monk lives alone or with other cats\" is classified as: NOT ENOUGH INFO.",
+    "is_correct": true
+  },
+  {
+    "id": 227370,
+    "claim": "Giada at Home aired on the Home & Garden Channel.",
+    "ground_truth": "NOT ENOUGH INFO",
+    "predicted_label": "REFUTES",
+    "raw_response": "Based on the information available in memory, the claim \"Giada at Home aired on the Home & Garden Channel\" is classified as: REFUTES.",
+    "is_correct": false
+  },
+  {
+    "id": 212772,
+    "claim": "Harvard University is the first university in 1977.",
+    "ground_truth": "NOT ENOUGH INFO",
+    "predicted_label": "REFUTES",
+    "raw_response": "Based on the information available in memory, the claim \"Harvard University is the first university in 1977\" is classified as: REFUTES.",
+    "is_correct": false
+  },
+  {
+    "id": 108003,
+    "claim": "Make It or Break It is a movie.",
+    "ground_truth": "REFUTES",
+    "predicted_label": "REFUTES",
+    "raw_response": "Based on the information available in memory, the claim \"Make It or Break It is a movie\" is classified as: REFUTES.",
+    "is_correct": true
+  },
+  {
+    "id": 40307,
+    "claim": "Veeru Devgan works in Bollywood.",
+    "ground_truth": "SUPPORTS",
+    "predicted_label": "SUPPORTS",
+    "raw_response": "Based on the information available in memory, the claim \"Veeru Devgan works in Bollywood\" is classified as: SUPPORTS.",
+    "is_correct": true
+  },
+  {
+    "id": 158208,
+    "claim": "Stephen Colbert is a talk show host currently hosting The Late Show.",
+    "ground_truth": "SUPPORTS",
+    "predicted_label": "SUPPORTS",
+    "raw_response": "Based on the information available in memory, the claim \"Stephen Colbert is a talk show host currently hosting The Late Show\" is classified as: SUPPORTS.",
+    "is_correct": true
+  },
+  {
+    "id": 76121,
+    "claim": "Vedam stars Indian film actors and actresses as animated penguins.",
+    "ground_truth": "NOT ENOUGH INFO",
+    "predicted_label": "REFUTES",
+    "raw_response": "Based on the information available in memory, the claim \"Vedam stars Indian film actors and actresses as animated penguins\" is classified as: REFUTES.",
+    "is_correct": false
+  },
+  {
+    "id": 112651,
+    "claim": "The NAACP Image Award for Outstanding Supporting Actor in a Drama Series has been received by New York.",
+    "ground_truth": "NOT ENOUGH INFO",
+    "predicted_label": "NOT ENOUGH INFO",
+    "raw_response": "Based on the information available in memory, the claim \"The NAACP Image Award for Outstanding Supporting Actor in a Drama Series has been received by New York\" is classified as: NOT ENOUGH INFO.",
+    "is_correct": true
+  },
+  {
+    "id": 137706,
+    "claim": "Himalaya has Sikkim as part of it.",
+    "ground_truth": "SUPPORTS",
+    "predicted_label": "SUPPORTS",
+    "raw_response": "SUPPORTS",
+    "is_correct": true
+  },
+  {
+    "id": 132159,
+    "claim": "Qui-Gon Jinn is a fictional apricot.",
+    "ground_truth": "REFUTES",
+    "predicted_label": "REFUTES",
+    "raw_response": "Based on the information available in memory, the claim \"Qui-Gon Jinn is a fictional apricot\" is classified as: REFUTES.",
+    "is_correct": true
+  },
+  {
+    "id": 10635,
+    "claim": "Unforced labor is a reason for human trafficking.",
+    "ground_truth": "REFUTES",
+    "predicted_label": "NOT ENOUGH INFO",
+    "raw_response": "Based on the information available in memory, the claim \"Unforced labor is a reason for human trafficking\" is classified as: NOT ENOUGH INFO.",
+    "is_correct": false
+  },
+  {
+    "id": 4728,
+    "claim": "James VI and I was a major adversary of a single parliament for Scotland.",
+    "ground_truth": "REFUTES",
+    "predicted_label": "NOT ENOUGH INFO",
+    "raw_response": "Based on the information available in memory, the claim \"James VI and I was a major adversary of a single parliament for Scotland\" is classified as: NOT ENOUGH INFO.",
+    "is_correct": false
+  },
+  {
+    "id": 112622,
+    "claim": "Shane McMahon won the Hardcore Championship once in 1998.",
+    "ground_truth": "NOT ENOUGH INFO",
+    "predicted_label": "SUPPORTS",
+    "raw_response": "Based on the information available in memory, the claim \"Shane McMahon won the Hardcore Championship once in 1998\" is classified as: SUPPORTS.",
+    "is_correct": false
+  },
+  {
+    "id": 101555,
+    "claim": "XHamster's The Sex Factor forces eight men and eight women to battle to become a porn star.",
+    "ground_truth": "NOT ENOUGH INFO",
+    "predicted_label": "NOT ENOUGH INFO",
+    "raw_response": "ERROR",
+    "is_correct": true
+  },
+  {
+    "id": 136958,
+    "claim": "Sam Claflin is in The Hobbit film series.",
+    "ground_truth": "NOT ENOUGH INFO",
+    "predicted_label": "NOT ENOUGH INFO",
+    "raw_response": "Based on the information available in memory, the claim \"Sam Claflin is in The Hobbit film series\" is classified as: NOT ENOUGH INFO.",
+    "is_correct": true
+  },
+  {
+    "id": 26818,
+    "claim": "Craig David was nominated for a judiciary position.",
+    "ground_truth": "NOT ENOUGH INFO",
+    "predicted_label": "NOT ENOUGH INFO",
+    "raw_response": "Based on the information available in memory, the claim \"Craig David was nominated for a judiciary position\" is classified as: NOT ENOUGH INFO.",
+    "is_correct": true
+  },
+  {
+    "id": 22687,
+    "claim": "Miranda Otto is the aunt of Lindsay Otto.",
+    "ground_truth": "REFUTES",
+    "predicted_label": "NOT ENOUGH INFO",
+    "raw_response": "Based on the information available in memory, the claim \"Miranda Otto is the aunt of Lindsay Otto\" is classified as: NOT ENOUGH INFO.",
+    "is_correct": false
+  },
+  {
+    "id": 167447,
+    "claim": "Cadet Kelly was released in 2002.",
+    "ground_truth": "SUPPORTS",
+    "predicted_label": "SUPPORTS",
+    "raw_response": "Based on the information available in memory, the claim \"Cadet Kelly was released in 2002\" is classified as: SUPPORTS.",
+    "is_correct": true
+  },
+  {
+    "id": 172490,
+    "claim": "Matteo Renzi is a lawyer.",
+    "ground_truth": "NOT ENOUGH INFO",
+    "predicted_label": "NOT ENOUGH INFO",
+    "raw_response": "Based on the information available in memory, the claim \"Matteo Renzi is a lawyer\" is classified as: NOT ENOUGH INFO.",
+    "is_correct": true
+  },
+  {
+    "id": 206737,
+    "claim": "Samwell Tarly is a nonfictional character.",
+    "ground_truth": "REFUTES",
+    "predicted_label": "REFUTES",
+    "raw_response": "Based on the information available in memory, the claim \"Samwell Tarly is a nonfictional character\" is classified as: REFUTES.",
+    "is_correct": true
+  },
+  {
+    "id": 169009,
+    "claim": "Manmohan Singh was only the second Sikh in office.",
+    "ground_truth": "REFUTES",
+    "predicted_label": "NOT ENOUGH INFO",
+    "raw_response": "Based on the information available in memory, the claim \"Manmohan Singh was only the second Sikh in office\" is classified as: NOT ENOUGH INFO.",
+    "is_correct": false
+  },
+  {
+    "id": 175487,
+    "claim": "One opera composer was Christian Gottlob Neefe.",
+    "ground_truth": "NOT ENOUGH INFO",
+    "predicted_label": "SUPPORTS",
+    "raw_response": "Based on the information available in memory, the claim \"One opera composer was Christian Gottlob Neefe\" is classified as: SUPPORTS.",
+    "is_correct": false
+  },
+  {
+    "id": 144823,
+    "claim": "Stan Beeman is in The Americans.",
+    "ground_truth": "SUPPORTS",
+    "predicted_label": "SUPPORTS",
+    "raw_response": "Based on the information available in memory, the claim \"Stan Beeman is in The Americans\" is classified as: SUPPORTS.",
+    "is_correct": true
+  },
+  {
+    "id": 23741,
+    "claim": "I Kissed a Girl is part of Katy Perry's second studio album.",
+    "ground_truth": "SUPPORTS",
+    "predicted_label": "SUPPORTS",
+    "raw_response": "Based on the information available in memory, the claim \"I Kissed a Girl is part of Katy Perry's second studio album\" is classified as: SUPPORTS.",
+    "is_correct": true
+  },
+  {
+    "id": 163967,
+    "claim": "Veeram is a film from the fall season of 2014.",
+    "ground_truth": "REFUTES",
+    "predicted_label": "REFUTES",
+    "raw_response": "Based on the information available in memory, the claim \"Veeram is a film from the fall season of 2014\" is classified as: REFUTES.",
+    "is_correct": true
+  },
+  {
+    "id": 134353,
+    "claim": "The Bee Gees wrote their own autobiographies.",
+    "ground_truth": "NOT ENOUGH INFO",
+    "predicted_label": "NOT ENOUGH INFO",
+    "raw_response": "Based on the information available in memory, the claim \"The Bee Gees wrote their own autobiographies\" is classified as: NOT ENOUGH INFO.",
+    "is_correct": true
+  },
+  {
+    "id": 50426,
+    "claim": "Chaka Khan is a musician with more than 400 singles.",
+    "ground_truth": "NOT ENOUGH INFO",
+    "predicted_label": "NOT ENOUGH INFO",
+    "raw_response": "Based on the information available in memory, the claim \"Chaka Khan is a musician with more than 400 singles\" is classified as: NOT ENOUGH INFO.",
+    "is_correct": true
+  },
+  {
+    "id": 179272,
+    "claim": "Tylenol is advertised for dealing with fever.",
+    "ground_truth": "NOT ENOUGH INFO",
+    "predicted_label": "SUPPORTS",
+    "raw_response": "Based on the information available in memory, the claim \"Tylenol is advertised for dealing with fever\" is classified as: SUPPORTS.",
+    "is_correct": false
+  },
+  {
+    "id": 211789,
+    "claim": "Joseph Gordon-Levitt directed Brick (film).",
+    "ground_truth": "REFUTES",
+    "predicted_label": "SUPPORTS",
+    "raw_response": "Based on the information available in memory, the claim \"Joseph Gordon-Levitt directed Brick (film)\" is classified as: SUPPORTS.",
+    "is_correct": false
+  },
+  {
+    "id": 94759,
+    "claim": "Lou Gehrig was voted the greatest third baseman of all time.",
+    "ground_truth": "REFUTES",
+    "predicted_label": "NOT ENOUGH INFO",
+    "raw_response": "Based on the information available in memory, the claim \"Lou Gehrig was voted the greatest third baseman of all time\" is classified as: NOT ENOUGH INFO.",
+    "is_correct": false
+  },
+  {
+    "id": 223767,
+    "claim": "Ralph Fults was born January 23 1911 and died in 1999.",
+    "ground_truth": "REFUTES",
+    "predicted_label": "NOT ENOUGH INFO",
+    "raw_response": "Based on the information available in memory, the claim \"Ralph Fults was born January 23 1911 and died in 1999\" is classified as: NOT ENOUGH INFO.",
+    "is_correct": false
+  },
+  {
+    "id": 68706,
+    "claim": "The heart beats at a rate close to 72 beats per minute.",
+    "ground_truth": "SUPPORTS",
+    "predicted_label": "SUPPORTS",
+    "raw_response": "Based on the information available in memory, the claim \"The heart beats at a rate close to 72 beats per minute\" is classified as: SUPPORTS.",
+    "is_correct": true
+  },
+  {
+    "id": 111113,
+    "claim": "Nestor Carbonell rejected all offers to star in any television show.",
+    "ground_truth": "REFUTES",
+    "predicted_label": "NOT ENOUGH INFO",
+    "raw_response": "Based on the information available in memory, the claim \"Nestor Carbonell rejected all offers to star in any television show\" is classified as: NOT ENOUGH INFO.",
+    "is_correct": false
+  },
+  {
+    "id": 159701,
+    "claim": "Edgar Wright is a director.",
+    "ground_truth": "SUPPORTS",
+    "predicted_label": "SUPPORTS",
+    "raw_response": "Based on the information available in memory, the claim \"Edgar Wright is a director\" is classified as: SUPPORTS.",
+    "is_correct": true
+  },
+  {
+    "id": 185288,
+    "claim": "Bradley Fuller is the sole owner of Platinum Dunes.",
+    "ground_truth": "REFUTES",
+    "predicted_label": "NOT ENOUGH INFO",
+    "raw_response": "Based on the information available in memory, the claim \"Bradley Fuller is the sole owner of Platinum Dunes\" is classified as: NOT ENOUGH INFO.",
+    "is_correct": false
+  },
+  {
+    "id": 52572,
+    "claim": "Bad Romance was one of the best-selling stocks of all time.",
+    "ground_truth": "REFUTES",
+    "predicted_label": "NOT ENOUGH INFO",
+    "raw_response": "Based on the information available in memory, the claim \"Bad Romance was one of the best-selling stocks of all time\" is classified as: NOT ENOUGH INFO.",
+    "is_correct": false
+  },
+  {
+    "id": 134585,
+    "claim": "NRG Recording Studios is a podcast recording facility.",
+    "ground_truth": "NOT ENOUGH INFO",
+    "predicted_label": "NOT ENOUGH INFO",
+    "raw_response": "Based on the information available in memory, the claim \"NRG Recording Studios is a podcast recording facility\" is classified as: NOT ENOUGH INFO.",
+    "is_correct": true
+  },
+  {
+    "id": 114920,
+    "claim": "Kellyanne Conway referenced the \"Skiing Green massacre\" which never occurred.",
+    "ground_truth": "NOT ENOUGH INFO",
+    "predicted_label": "NOT ENOUGH INFO",
+    "raw_response": "Based on the information available in memory, the claim \"Kellyanne Conway referenced the 'Skiing Green massacre' which never occurred\" is classified as: NOT ENOUGH INFO.",
+    "is_correct": true
+  },
+  {
+    "id": 106092,
+    "claim": "PacSun sells outdoor clothing.",
+    "ground_truth": "NOT ENOUGH INFO",
+    "predicted_label": "NOT ENOUGH INFO",
+    "raw_response": "Based on the information available in memory, the claim \"PacSun sells outdoor clothing\" is classified as: NOT ENOUGH INFO.",
+    "is_correct": true
+  },
+  {
+    "id": 124805,
+    "claim": "X-Men: Apocalypse was cancelled in 2013.",
+    "ground_truth": "REFUTES",
+    "predicted_label": "NOT ENOUGH INFO",
+    "raw_response": "Based on the information available in memory, the claim \"X-Men: Apocalypse was cancelled in 2013\" is classified as: NOT ENOUGH INFO.",
+    "is_correct": false
+  },
+  {
+    "id": 53021,
+    "claim": "Sebastian Stan was nominated for an award.",
+    "ground_truth": "SUPPORTS",
+    "predicted_label": "NOT ENOUGH INFO",
+    "raw_response": "Based on the information available in memory, the claim \"Sebastian Stan was nominated for an award\" is classified as: NOT ENOUGH INFO.",
+    "is_correct": false
+  },
+  {
+    "id": 140254,
+    "claim": "Fred Armisen is uncreative.",
+    "ground_truth": "REFUTES",
+    "predicted_label": "NOT ENOUGH INFO",
+    "raw_response": "Based on the information available in memory, the claim \"Fred Armisen is uncreative\" is classified as: NOT ENOUGH INFO.",
+    "is_correct": false
+  },
+  {
+    "id": 160345,
+    "claim": "Juventus F.C. adopted its characteristic black-and-white-striped home uniform in 1903.",
+    "ground_truth": "SUPPORTS",
+    "predicted_label": "NOT ENOUGH INFO",
+    "raw_response": "Based on the information available in memory, the claim \"Juventus F.C. adopted its characteristic black-and-white-striped home uniform in 1903\" is classified as: NOT ENOUGH INFO.",
+    "is_correct": false
+  },
+  {
+    "id": 65268,
+    "claim": "The Bloods is commonly known for its rivalry with the Crips.",
+    "ground_truth": "SUPPORTS",
+    "predicted_label": "SUPPORTS",
+    "raw_response": "Based on the information available in memory, the claim \"The Bloods is commonly known for its rivalry with the Crips\" is classified as: SUPPORTS.",
+    "is_correct": true
+  },
+  {
+    "id": 30258,
+    "claim": "Life is inapplicable to inanimate objects.",
+    "ground_truth": "SUPPORTS",
+    "predicted_label": "SUPPORTS",
+    "raw_response": "Based on the information available in memory, the claim \"Life is inapplicable to inanimate objects\" is classified as: SUPPORTS.",
+    "is_correct": true
+  },
+  {
+    "id": 16528,
+    "claim": "Soyuz was planned in the 1960s.",
+    "ground_truth": "NOT ENOUGH INFO",
+    "predicted_label": "SUPPORTS",
+    "raw_response": "Based on the information available in memory, the claim \"Soyuz was planned in the 1960s\" is classified as: SUPPORTS.",
+    "is_correct": false
+  },
+  {
+    "id": 106162,
+    "claim": "A Canadian film director rejected all offers to direct The Cincinnati Kid.",
+    "ground_truth": "REFUTES",
+    "predicted_label": "NOT ENOUGH INFO",
+    "raw_response": "Based on the information available in memory, the claim \"A Canadian film director rejected all offers to direct The Cincinnati Kid\" is classified as: NOT ENOUGH INFO.",
+    "is_correct": false
+  },
+  {
+    "id": 58707,
+    "claim": "Trollhunters was only created by Adam Sandler.",
+    "ground_truth": "REFUTES",
+    "predicted_label": "NOT ENOUGH INFO",
+    "raw_response": "Based on the information available in memory, the claim \"Trollhunters was only created by Adam Sandler\" is classified as: NOT ENOUGH INFO.",
+    "is_correct": false
+  },
+  {
+    "id": 52175,
+    "claim": "Magic Johnson did not play for the Lakers.",
+    "ground_truth": "REFUTES",
+    "predicted_label": "REFUTES",
+    "raw_response": "Based on the information available in memory, the claim \"Magic Johnson did not play for the Lakers\" is classified as: REFUTES.",
+    "is_correct": true
+  },
+  {
+    "id": 149754,
+    "claim": "Jackpot had 1150 screens released in China.",
+    "ground_truth": "NOT ENOUGH INFO",
+    "predicted_label": "NOT ENOUGH INFO",
+    "raw_response": "Based on the information available in memory, the claim \"Jackpot had 1150 screens released in China\" is classified as: NOT ENOUGH INFO.",
+    "is_correct": true
+  },
+  {
+    "id": 140233,
+    "claim": "DNA features songs.",
+    "ground_truth": "SUPPORTS",
+    "predicted_label": "NOT ENOUGH INFO",
+    "raw_response": "Based on the information available in memory, the claim \"DNA features songs\" is classified as: NOT ENOUGH INFO.",
+    "is_correct": false
+  },
+  {
+    "id": 99904,
+    "claim": "Ashley Cole was born December 10, 1977.",
+    "ground_truth": "REFUTES",
+    "predicted_label": "NOT ENOUGH INFO",
+    "raw_response": "Based on the information available in memory, the claim \"Ashley Cole was born December 10, 1977\" is classified as: NOT ENOUGH INFO.",
+    "is_correct": false
+  },
+  {
+    "id": 167468,
+    "claim": "Cadet Kelly is only a painting.",
+    "ground_truth": "REFUTES",
+    "predicted_label": "NOT ENOUGH INFO",
+    "raw_response": "Based on the information available in memory, the claim \"Cadet Kelly is only a painting\" is classified as: NOT ENOUGH INFO.",
+    "is_correct": false
+  },
+  {
+    "id": 121541,
+    "claim": "Billboard Dad stars Mary-Kate and Ashley Olsen.",
+    "ground_truth": "SUPPORTS",
+    "predicted_label": "SUPPORTS",
+    "raw_response": "Based on the information available in memory, the claim \"Billboard Dad stars Mary-Kate and Ashley Olsen\" is classified as: SUPPORTS.",
+    "is_correct": true
+  },
+  {
+    "id": 145130,
+    "claim": "Rage Against the Machine broke up in 1999.",
+    "ground_truth": "REFUTES",
+    "predicted_label": "NOT ENOUGH INFO",
+    "raw_response": "Based on the information available in memory, the claim \"Rage Against the Machine broke up in 1999\" is classified as: NOT ENOUGH INFO.",
+    "is_correct": false
+  },
+  {
+    "id": 216577,
+    "claim": "Calcaneal spurs are detected by using 5 types of x-rays.",
+    "ground_truth": "NOT ENOUGH INFO",
+    "predicted_label": "NOT ENOUGH INFO",
+    "raw_response": "Based on the information available in memory, the claim \"Calcaneal spurs are detected by using 5 types of x-rays\" is classified as: NOT ENOUGH INFO.",
+    "is_correct": true
+  },
+  {
+    "id": 226122,
+    "claim": "Richard Dawkins makes regular television appearances.",
+    "ground_truth": "SUPPORTS",
+    "predicted_label": "SUPPORTS",
+    "raw_response": "Based on the information available in memory, the claim \"Richard Dawkins makes regular television appearances\" is classified as: SUPPORTS.",
+    "is_correct": true
+  },
+  {
+    "id": 213943,
+    "claim": "Gray Matter Interactive Studios, Inc. was founded in 1995.",
+    "ground_truth": "REFUTES",
+    "predicted_label": "NOT ENOUGH INFO",
+    "raw_response": "Based on the information available in memory, the claim \"Gray Matter Interactive Studios, Inc. was founded in 1995\" is classified as: NOT ENOUGH INFO.",
+    "is_correct": false
+  },
+  {
+    "id": 203388,
+    "claim": "Goosebumps (film) was directed by Rob Letterman in 2002.",
+    "ground_truth": "NOT ENOUGH INFO",
+    "predicted_label": "REFUTES",
+    "raw_response": "Based on the information available in memory, the claim \"Goosebumps (film) was directed by Rob Letterman in 2002\" is classified as: REFUTES.",
+    "is_correct": false
+  },
+  {
+    "id": 56776,
+    "claim": "Creedence Clearwater Revival was a rattlesnake.",
+    "ground_truth": "REFUTES",
+    "predicted_label": "REFUTES",
+    "raw_response": "Based on the information available in memory, the claim \"Creedence Clearwater Revival was a rattlesnake\" is classified as: REFUTES.",
+    "is_correct": true
+  },
+  {
+    "id": 168015,
+    "claim": "Don Bradman was a musician.",
+    "ground_truth": "REFUTES",
+    "predicted_label": "REFUTES",
+    "raw_response": "Based on the information available in memory, the claim \"Don Bradman was a musician\" is classified as: REFUTES.",
+    "is_correct": true
+  },
+  {
+    "id": 216358,
+    "claim": "The Chagatai language has no speakers.",
+    "ground_truth": "REFUTES",
+    "predicted_label": "SUPPORTS",
+    "raw_response": "Based on the information available in memory, the claim \"The Chagatai language has no speakers\" is classified as: SUPPORTS.",
+    "is_correct": false
+  },
+  {
+    "id": 34545,
+    "claim": "Gin is a spirit which derives its predominant flavour from motor oil.",
+    "ground_truth": "REFUTES",
+    "predicted_label": "REFUTES",
+    "raw_response": "Based on the information available in memory, the claim \"Gin is a spirit which derives its predominant flavour from motor oil\" is classified as: REFUTES.",
+    "is_correct": true
+  },
+  {
+    "id": 170409,
+    "claim": "Michael Vick played with The Beatles and The Killers.",
+    "ground_truth": "NOT ENOUGH INFO",
+    "predicted_label": "REFUTES",
+    "raw_response": "Based on the information available in memory, the claim \"Michael Vick played with The Beatles and The Killers\" is classified as: REFUTES.",
+    "is_correct": false
+  },
+  {
+    "id": 103552,
+    "claim": "Ann Richards was a Catholic.",
+    "ground_truth": "NOT ENOUGH INFO",
+    "predicted_label": "NOT ENOUGH INFO",
+    "raw_response": "Based on the information available in memory, the claim \"Ann Richards was a Catholic\" is classified as: NOT ENOUGH INFO.",
+    "is_correct": true
+  },
+  {
+    "id": 91321,
+    "claim": "Daag was released.",
+    "ground_truth": "SUPPORTS",
+    "predicted_label": "NOT ENOUGH INFO",
+    "raw_response": "Based on the information available in memory, the claim \"Daag was released\" is classified as: NOT ENOUGH INFO.",
+    "is_correct": false
+  },
+  {
+    "id": 123685,
+    "claim": "Kuching is the most productive city in Sarawak.",
+    "ground_truth": "NOT ENOUGH INFO",
+    "predicted_label": "NOT ENOUGH INFO",
+    "raw_response": "Based on the information available in memory, the claim \"Kuching is the most productive city in Sarawak\" is classified as: NOT ENOUGH INFO.",
+    "is_correct": true
+  },
+  {
+    "id": 191424,
+    "claim": "Keith Urban is an artist's second studio album.",
+    "ground_truth": "NOT ENOUGH INFO",
+    "predicted_label": "SUPPORTS",
+    "raw_response": "Based on the information available in memory, the claim \"Keith Urban is an artist's second studio album\" is classified as: SUPPORTS.",
+    "is_correct": false
+  },
+  {
+    "id": 99732,
+    "claim": "Margaret Thatcher was a spokesperson for Doritos.",
+    "ground_truth": "NOT ENOUGH INFO",
+    "predicted_label": "NOT ENOUGH INFO",
+    "raw_response": "Based on the information available in memory, the claim \"Margaret Thatcher was a spokesperson for Doritos\" is classified as: NOT ENOUGH INFO.",
+    "is_correct": true
+  },
+  {
+    "id": 198013,
+    "claim": "The New York City Landmarks Preservation Commission includes three architects.",
+    "ground_truth": "SUPPORTS",
+    "predicted_label": "NOT ENOUGH INFO",
+    "raw_response": "Based on the information available in memory, the claim \"The New York City Landmarks Preservation Commission includes three architects\" is classified as: NOT ENOUGH INFO.",
+    "is_correct": false
+  },
+  {
+    "id": 9945,
+    "claim": "The Armenian Genocide took place outside the Ottoman Empire and the Republic of Turkey.",
+    "ground_truth": "REFUTES",
+    "predicted_label": "REFUTES",
+    "raw_response": "Based on the information available in memory, the claim \"The Armenian Genocide took place outside the Ottoman Empire and the Republic of Turkey\" is classified as: REFUTES.",
+    "is_correct": true
+  },
+  {
+    "id": 98693,
+    "claim": "Kesha was born on March 1st, 1987.",
+    "ground_truth": "SUPPORTS",
+    "predicted_label": "NOT ENOUGH INFO",
+    "raw_response": "Based on the information available in memory, the claim \"Kesha was born on March 1st, 1987\" is classified as: NOT ENOUGH INFO.",
+    "is_correct": false
+  },
+  {
+    "id": 43041,
+    "claim": "Ingushetia was established on June.",
+    "ground_truth": "SUPPORTS",
+    "predicted_label": "NOT ENOUGH INFO",
+    "raw_response": "Based on the information available in memory, the claim \"Ingushetia was established on June\" is classified as: NOT ENOUGH INFO.",
+    "is_correct": false
+  },
+  {
+    "id": 18823,
+    "claim": "The Quran is a WWE wrestler..",
+    "ground_truth": "REFUTES",
+    "predicted_label": "REFUTES",
+    "raw_response": "Based on the information available in memory, the claim \"The Quran is a WWE wrestler\" is classified as: REFUTES.",
+    "is_correct": true
+  },
+  {
+    "id": 166650,
+    "claim": "Anne Rice was born in Birmingham.",
+    "ground_truth": "REFUTES",
+    "predicted_label": "NOT ENOUGH INFO",
+    "raw_response": "Based on the information available in memory, the claim \"Anne Rice was born in Birmingham\" is classified as: NOT ENOUGH INFO.",
+    "is_correct": false
+  },
+  {
+    "id": 104324,
+    "claim": "Rage Against the Machine performed at concert halls and arenas.",
+    "ground_truth": "NOT ENOUGH INFO",
+    "predicted_label": "SUPPORTS",
+    "raw_response": "Based on the information available in memory, the claim \"Rage Against the Machine performed at concert halls and arenas\" is classified as: SUPPORTS.",
+    "is_correct": false
+  },
+  {
+    "id": 65917,
+    "claim": "Tremont Street Subway is incapable of being part of the MBTA.",
+    "ground_truth": "REFUTES",
+    "predicted_label": "REFUTES",
+    "raw_response": "Based on the information available in memory, the claim \"Tremont Street Subway is incapable of being part of the MBTA\" is classified as: REFUTES.",
+    "is_correct": true
+  },
+  {
+    "id": 178332,
+    "claim": "Al Jardine sang lead vocals on a song produced by C. E. Quick.",
+    "ground_truth": "NOT ENOUGH INFO",
+    "predicted_label": "NOT ENOUGH INFO",
+    "raw_response": "Based on the information available in memory, the claim \"Al Jardine sang lead vocals on a song produced by C. E. Quick\" is classified as: NOT ENOUGH INFO.",
+    "is_correct": true
+  },
+  {
+    "id": 75638,
+    "claim": "The Others (2001 film) won eight Academy Awards.",
+    "ground_truth": "NOT ENOUGH INFO",
+    "predicted_label": "NOT ENOUGH INFO",
+    "raw_response": "Based on the information available in memory, the claim \"The Others (2001 film) won eight Academy Awards\" is classified as: NOT ENOUGH INFO.",
+    "is_correct": true
+  },
+  {
+    "id": 129171,
+    "claim": "Tremont Street Subway started in New York.",
+    "ground_truth": "REFUTES",
+    "predicted_label": "REFUTES",
+    "raw_response": "Based on the information available in memory, the claim \"Tremont Street Subway started in New York\" is classified as: REFUTES.",
+    "is_correct": true
+  },
+  {
+    "id": 144978,
+    "claim": "Bad Romance was released as a single.",
+    "ground_truth": "SUPPORTS",
+    "predicted_label": "SUPPORTS",
+    "raw_response": "Based on the information available in memory, the claim \"Bad Romance was released as a single\" is classified as: SUPPORTS.",
+    "is_correct": true
+  },
+  {
+    "id": 37533,
+    "claim": "Robert Palmer (writer) has produced blues recordings for ten years.",
+    "ground_truth": "NOT ENOUGH INFO",
+    "predicted_label": "NOT ENOUGH INFO",
+    "raw_response": "Based on the information available in memory, the claim \"Robert Palmer (writer) has produced blues recordings for ten years\" is classified as: NOT ENOUGH INFO.",
+    "is_correct": true
+  },
+  {
+    "id": 34205,
+    "claim": "A person who was known for his work in mass spectrometry discovered Uranium-235.",
+    "ground_truth": "SUPPORTS",
+    "predicted_label": "SUPPORTS",
+    "raw_response": "Based on the information available in memory, the claim \"A person who was known for his work in mass spectrometry discovered Uranium-235\" is classified as: SUPPORTS.",
+    "is_correct": true
+  },
+  {
+    "id": 59722,
+    "claim": "Green Day's final album with Lookout Records was Kerplunk.",
+    "ground_truth": "NOT ENOUGH INFO",
+    "predicted_label": "SUPPORTS",
+    "raw_response": "Based on the information available in memory, the claim \"Green Day's final album with Lookout Records was Kerplunk\" is classified as: SUPPORTS.",
+    "is_correct": false
+  },
+  {
+    "id": 225287,
+    "claim": "Michaela Watkins is a singer.",
+    "ground_truth": "NOT ENOUGH INFO",
+    "predicted_label": "REFUTES",
+    "raw_response": "Based on the information available in memory, the claim \"Michaela Watkins is a singer\" is classified as: REFUTES.",
+    "is_correct": false
+  },
+  {
+    "id": 185305,
+    "claim": "Bradley Fuller was arrested with Andrew Form.",
+    "ground_truth": "NOT ENOUGH INFO",
+    "predicted_label": "NOT ENOUGH INFO",
+    "raw_response": "Based on the information available in memory, the claim \"Bradley Fuller was arrested with Andrew Form\" is classified as: NOT ENOUGH INFO.",
+    "is_correct": true
+  },
+  {
+    "id": 94500,
+    "claim": "Multiple American actors starred in Underdog.",
+    "ground_truth": "SUPPORTS",
+    "predicted_label": "SUPPORTS",
+    "raw_response": "Based on the information available in memory, the claim \"Multiple American actors starred in Underdog\" is classified as: SUPPORTS.",
+    "is_correct": true
+  },
+  {
+    "id": 57030,
+    "claim": "Mick Thomson was in a group.",
+    "ground_truth": "SUPPORTS",
+    "predicted_label": "SUPPORTS",
+    "raw_response": "Based on the information available in memory, the claim \"Mick Thomson was in a group\" is classified as: SUPPORTS.",
+    "is_correct": true
+  },
+  {
+    "id": 130932,
+    "claim": "The daughter of Lindsay Otto is Miranda Otto.",
+    "ground_truth": "SUPPORTS",
+    "predicted_label": "NOT ENOUGH INFO",
+    "raw_response": "Based on the information available in memory, the claim \"The daughter of Lindsay Otto is Miranda Otto\" is classified as: NOT ENOUGH INFO.",
+    "is_correct": false
+  },
+  {
+    "id": 15982,
+    "claim": "Uranium-235 was discovered by a person who died in March.",
+    "ground_truth": "SUPPORTS",
+    "predicted_label": "SUPPORTS",
+    "raw_response": "Based on the information available in memory, the claim \"Uranium-235 was discovered by a person who died in March\" is classified as: SUPPORTS.",
+    "is_correct": true
+  },
+  {
+    "id": 181210,
+    "claim": "Southpaw's writer was Kurt Sutter.",
+    "ground_truth": "SUPPORTS",
+    "predicted_label": "NOT ENOUGH INFO",
+    "raw_response": "Based on the information available in memory, the claim \"Southpaw's writer was Kurt Sutter\" is classified as: NOT ENOUGH INFO.",
+    "is_correct": false
+  },
+  {
+    "id": 67162,
+    "claim": "The New York Knicks compete in the National League.",
+    "ground_truth": "NOT ENOUGH INFO",
+    "predicted_label": "REFUTES",
+    "raw_response": "Based on the information available in memory, the claim \"The New York Knicks compete in the National League\" is classified as: REFUTES.",
+    "is_correct": false
+  },
+  {
+    "id": 121454,
+    "claim": "Bessie Smith lived out her days, from birth to death, on the fields of rural Germany.",
+    "ground_truth": "REFUTES",
+    "predicted_label": "REFUTES",
+    "raw_response": "Based on the information available in memory, the claim \"Bessie Smith lived out her days, from birth to death, on the fields of rural Germany\" is classified as: REFUTES.",
+    "is_correct": true
+  },
+  {
+    "id": 96213,
+    "claim": "Croatia has a wide sector.",
+    "ground_truth": "NOT ENOUGH INFO",
+    "predicted_label": "NOT ENOUGH INFO",
+    "raw_response": "Based on the information available in memory, the claim \"Croatia has a wide sector\" is classified as: NOT ENOUGH INFO.",
+    "is_correct": true
+  },
+  {
+    "id": 41634,
+    "claim": "Andrew Kevin Walker was nominated by the BAFTA for his screenwriting.",
+    "ground_truth": "SUPPORTS",
+    "predicted_label": "SUPPORTS",
+    "raw_response": "Based on the information available in memory, the claim \"Andrew Kevin Walker was nominated by the BAFTA for his screenwriting\" is classified as: SUPPORTS.",
+    "is_correct": true
+  },
+  {
+    "id": 212196,
+    "claim": "Miracle at St. Anna is set primarily in the mountains.",
+    "ground_truth": "NOT ENOUGH INFO",
+    "predicted_label": "NOT ENOUGH INFO",
+    "raw_response": "Based on the information available in memory, the claim \"Miracle at St. Anna is set primarily in the mountains\" is classified as: NOT ENOUGH INFO.",
+    "is_correct": true
+  },
+  {
+    "id": 41833,
+    "claim": "Tim McGraw has yet to work with Reese Witherspoon.",
+    "ground_truth": "REFUTES",
+    "predicted_label": "NOT ENOUGH INFO",
+    "raw_response": "Based on the information available in memory, the claim \"Tim McGraw has yet to work with Reese Witherspoon\" is classified as: NOT ENOUGH INFO.",
+    "is_correct": false
+  },
+  {
+    "id": 137788,
+    "claim": "Luke Cage is not a superhero.",
+    "ground_truth": "REFUTES",
+    "predicted_label": "REFUTES",
+    "raw_response": "Based on the information available in memory, the claim \"Luke Cage is not a superhero\" is classified as: REFUTES.",
+    "is_correct": true
+  },
+  {
+    "id": 1667,
+    "claim": "Ed Wood is not about the eponymous filmmaker.",
+    "ground_truth": "SUPPORTS",
+    "predicted_label": "REFUTES",
+    "raw_response": "Based on the information available in memory, the claim \"Ed Wood is not about the eponymous filmmaker\" is classified as: REFUTES.",
+    "is_correct": false
+  },
+  {
+    "id": 185222,
+    "claim": "Home for the Holidays stars an American singer.",
+    "ground_truth": "NOT ENOUGH INFO",
+    "predicted_label": "SUPPORTS",
+    "raw_response": "Based on the information available in memory, the claim \"Home for the Holidays stars an American singer\" is classified as: SUPPORTS.",
+    "is_correct": false
+  },
+  {
+    "id": 89376,
+    "claim": "James Earl Jones is not known for his voice roles.",
+    "ground_truth": "REFUTES",
+    "predicted_label": "REFUTES",
+    "raw_response": "Based on the information available in memory, the claim \"James Earl Jones is not known for his voice roles\" is classified as: REFUTES.",
+    "is_correct": true
+  },
+  {
+    "id": 133963,
+    "claim": "French Indochina was only ever spelled in one way.",
+    "ground_truth": "REFUTES",
+    "predicted_label": "NOT ENOUGH INFO",
+    "raw_response": "Based on the information available in memory, the claim \"French Indochina was only ever spelled in one way\" is classified as: NOT ENOUGH INFO.",
+    "is_correct": false
+  },
+  {
+    "id": 184063,
+    "claim": "Kenneth Lonergan was born in New York.",
+    "ground_truth": "NOT ENOUGH INFO",
+    "predicted_label": "SUPPORTS",
+    "raw_response": "Based on the information available in memory, the claim \"Kenneth Lonergan was born in New York\" is classified as: SUPPORTS.",
+    "is_correct": false
+  },
+  {
+    "id": 36281,
+    "claim": "Miranda Otto is the sister of actress Gracie Otto.",
+    "ground_truth": "SUPPORTS",
+    "predicted_label": "NOT ENOUGH INFO",
+    "raw_response": "Based on the information available in memory, the claim \"Miranda Otto is the sister of actress Gracie Otto\" is classified as: NOT ENOUGH INFO.",
+    "is_correct": false
+  },
+  {
+    "id": 43522,
+    "claim": "Billboard Dad was released in 1998.",
+    "ground_truth": "SUPPORTS",
+    "predicted_label": "SUPPORTS",
+    "raw_response": "Based on the information available in memory, the claim \"Billboard Dad was released in 1998\" is classified as: SUPPORTS.",
+    "is_correct": true
+  },
+  {
+    "id": 11,
+    "claim": "Carlos Santana formed Santana in 1966.",
+    "ground_truth": "NOT ENOUGH INFO",
+    "predicted_label": "SUPPORTS",
+    "raw_response": "Based on the information available in memory, the claim \"Carlos Santana formed Santana in 1966\" is classified as: SUPPORTS.",
+    "is_correct": false
+  },
+  {
+    "id": 181978,
+    "claim": "Forceps are a hinged instrument.",
+    "ground_truth": "SUPPORTS",
+    "predicted_label": "SUPPORTS",
+    "raw_response": "Based on the information available in memory, the claim \"Forceps are a hinged instrument\" is classified as: SUPPORTS.",
+    "is_correct": true
+  },
+  {
+    "id": 111958,
+    "claim": "The Hundred Years' War includes the Lancastrian War which Joan of Arc fought in.",
+    "ground_truth": "NOT ENOUGH INFO",
+    "predicted_label": "NOT ENOUGH INFO",
+    "raw_response": "Based on the information available in memory, the claim \"The Hundred Years' War includes the Lancastrian War which Joan of Arc fought in\" is classified as: NOT ENOUGH INFO.",
+    "is_correct": true
+  },
+  {
+    "id": 185235,
+    "claim": "Home for the Holidays stars someone who died on a holiday.",
+    "ground_truth": "NOT ENOUGH INFO",
+    "predicted_label": "NOT ENOUGH INFO",
+    "raw_response": "Based on the information available in memory, the claim \"Home for the Holidays stars someone who died on a holiday\" is classified as: NOT ENOUGH INFO.",
+    "is_correct": true
+  },
+  {
+    "id": 73092,
+    "claim": "Aaron Burr was a department store that went out of business in the eighties.",
+    "ground_truth": "REFUTES",
+    "predicted_label": "NOT ENOUGH INFO",
+    "raw_response": "Based on the information available in memory, the claim \"Aaron Burr was a department store that went out of business in the eighties\" is classified as: NOT ENOUGH INFO.",
+    "is_correct": false
+  },
+  {
+    "id": 100919,
+    "claim": "Sidse Babett Knudsen works in radio.",
+    "ground_truth": "REFUTES",
+    "predicted_label": "NOT ENOUGH INFO",
+    "raw_response": "Based on the information available in memory, the claim \"Sidse Babett Knudsen works in radio\" is classified as: NOT ENOUGH INFO.",
+    "is_correct": false
+  },
+  {
+    "id": 121094,
+    "claim": "There was a grouping of French colonial territories called French Indochina.",
+    "ground_truth": "SUPPORTS",
+    "predicted_label": "SUPPORTS",
+    "raw_response": "Based on the information available in memory, the claim \"There was a grouping of French colonial territories called French Indochina\" is classified as: SUPPORTS.",
+    "is_correct": true
+  },
+  {
+    "id": 157179,
+    "claim": "Taran Killam writes professionally.",
+    "ground_truth": "NOT ENOUGH INFO",
+    "predicted_label": "NOT ENOUGH INFO",
+    "raw_response": "Based on the information available in memory, the claim \"Taran Killam writes professionally\" is classified as: NOT ENOUGH INFO.",
+    "is_correct": true
+  },
+  {
+    "id": 36988,
+    "claim": "Hot Right Now is off of a DJ Fresh album.",
+    "ground_truth": "SUPPORTS",
+    "predicted_label": "SUPPORTS",
+    "raw_response": "Based on the information available in memory, the claim \"Hot Right Now is off of a DJ Fresh album\" is classified as: SUPPORTS.",
+    "is_correct": true
+  },
+  {
+    "id": 226871,
+    "claim": "Jenna Jameson started acting in erotic videos in 1999.",
+    "ground_truth": "REFUTES",
+    "predicted_label": "SUPPORTS",
+    "raw_response": "Based on the information available in memory, the claim \"Jenna Jameson started acting in erotic videos in 1999\" is classified as: SUPPORTS.",
+    "is_correct": false
+  },
+  {
+    "id": 224968,
+    "claim": "Kentucky is known for bluegrass music.",
+    "ground_truth": "SUPPORTS",
+    "predicted_label": "SUPPORTS",
+    "raw_response": "Based on the information available in memory, the claim \"Kentucky is known for bluegrass music\" is classified as: SUPPORTS.",
+    "is_correct": true
+  },
+  {
+    "id": 174601,
+    "claim": "Artpop was reviewed by dog critics.",
+    "ground_truth": "REFUTES",
+    "predicted_label": "NOT ENOUGH INFO",
+    "raw_response": "Based on the information available in memory, the claim \"Artpop was reviewed by dog critics\" is classified as: NOT ENOUGH INFO.",
+    "is_correct": false
+  },
+  {
+    "id": 201757,
+    "claim": "North Vietnam was officially called the Democratic Republic of Congo.",
+    "ground_truth": "REFUTES",
+    "predicted_label": "REFUTES",
+    "raw_response": "Based on the information available in memory, the claim \"North Vietnam was officially called the Democratic Republic of Congo\" is classified as: REFUTES.",
+    "is_correct": true
+  },
+  {
+    "id": 64347,
+    "claim": "Wales' technology rapidly advanced.",
+    "ground_truth": "NOT ENOUGH INFO",
+    "predicted_label": "NOT ENOUGH INFO",
+    "raw_response": "Based on the information available in memory, the claim \"Wales' technology rapidly advanced\" is classified as: NOT ENOUGH INFO.",
+    "is_correct": true
+  },
+  {
+    "id": 107627,
+    "claim": "Sora (Kingdom Hearts) is the narrator in the world of Kingdom Hearts.",
+    "ground_truth": "NOT ENOUGH INFO",
+    "predicted_label": "NOT ENOUGH INFO",
+    "raw_response": "Based on the information available in memory, the claim \"Sora (Kingdom Hearts) is the narrator in the world of Kingdom Hearts\" is classified as: NOT ENOUGH INFO.",
+    "is_correct": true
+  },
+  {
+    "id": 215209,
+    "claim": "John Gatins starred in Dreamer (2005 film).",
+    "ground_truth": "NOT ENOUGH INFO",
+    "predicted_label": "NOT ENOUGH INFO",
+    "raw_response": "Based on the information available in memory, the claim \"John Gatins starred in Dreamer (2005 film)\" is classified as: NOT ENOUGH INFO.",
+    "is_correct": true
+  },
+  {
+    "id": 135836,
+    "claim": "Lemmy was known for his soft, gentle voice.",
+    "ground_truth": "REFUTES",
+    "predicted_label": "REFUTES",
+    "raw_response": "Based on the information available in memory, the claim \"Lemmy was known for his soft, gentle voice\" is classified as: REFUTES.",
+    "is_correct": true
+  },
+  {
+    "id": 212194,
+    "claim": "Miracle at St. Anna only tells the story of four cats.",
+    "ground_truth": "REFUTES",
+    "predicted_label": "REFUTES",
+    "raw_response": "Based on the information available in memory, the claim \"Miracle at St. Anna only tells the story of four cats\" is classified as: REFUTES.",
+    "is_correct": true
+  },
+  {
+    "id": 181855,
+    "claim": "Don Hall is Catholic.",
+    "ground_truth": "NOT ENOUGH INFO",
+    "predicted_label": "NOT ENOUGH INFO",
+    "raw_response": "Based on the information available in memory, the claim \"Don Hall is Catholic\" is classified as: NOT ENOUGH INFO.",
+    "is_correct": true
+  },
+  {
+    "id": 12943,
+    "claim": "Miranda Otto is the daughter of a horse.",
+    "ground_truth": "REFUTES",
+    "predicted_label": "REFUTES",
+    "raw_response": "Based on the information available in memory, the claim \"Miranda Otto is the daughter of a horse\" is classified as: REFUTES.",
+    "is_correct": true
+  },
+  {
+    "id": 127573,
+    "claim": "Diana, Princess of Wales was renowned as Lady Diana Spencer.",
+    "ground_truth": "SUPPORTS",
+    "predicted_label": "SUPPORTS",
+    "raw_response": "Based on the information available in memory, the claim \"Diana, Princess of Wales was renowned as Lady Diana Spencer\" is classified as: SUPPORTS.",
+    "is_correct": true
+  },
+  {
+    "id": 173133,
+    "claim": "Anne Sullivan was an English teacher.",
+    "ground_truth": "NOT ENOUGH INFO",
+    "predicted_label": "NOT ENOUGH INFO",
+    "raw_response": "Based on the information available in memory, the claim \"Anne Sullivan was an English teacher\" is classified as: NOT ENOUGH INFO.",
+    "is_correct": true
+  },
+  {
+    "id": 6893,
+    "claim": "Underdog features the voice talents of Amy Adams.",
+    "ground_truth": "SUPPORTS",
+    "predicted_label": "SUPPORTS",
+    "raw_response": "Based on the information available in memory, the claim \"Underdog features the voice talents of Amy Adams\" is classified as: SUPPORTS.",
+    "is_correct": true
+  },
+  {
+    "id": 174033,
+    "claim": "The Endless River is an album by a band formed in London in 1966.",
+    "ground_truth": "REFUTES",
+    "predicted_label": "NOT ENOUGH INFO",
+    "raw_response": "Based on the information available in memory, the claim \"The Endless River is an album by a band formed in London in 1966\" is classified as: NOT ENOUGH INFO.",
+    "is_correct": false
+  },
+  {
+    "id": 51442,
+    "claim": "West Virginia borders Ohio and Virginia to the southeast.",
+    "ground_truth": "REFUTES",
+    "predicted_label": "REFUTES",
+    "raw_response": "Based on the information available in memory, the claim \"West Virginia borders Ohio and Virginia to the southeast\" is classified as: REFUTES.",
+    "is_correct": true
+  },
+  {
+    "id": 172746,
+    "claim": "The Beach is based on a 1996 film.",
+    "ground_truth": "REFUTES",
+    "predicted_label": "NOT ENOUGH INFO",
+    "raw_response": "Based on the information available in memory, the claim \"The Beach is based on a 1996 film\" is classified as: NOT ENOUGH INFO.",
+    "is_correct": false
+  },
+  {
+    "id": 202762,
+    "claim": "Despicable Me 2 was directed exclusively by Elmo.",
+    "ground_truth": "REFUTES",
+    "predicted_label": "REFUTES",
+    "raw_response": "Based on the information available in memory, the claim \"Despicable Me 2 was directed exclusively by Elmo\" is classified as: REFUTES.",
+    "is_correct": true
+  },
+  {
+    "id": 14428,
+    "claim": "Gordon Ramsay has had apprentices.",
+    "ground_truth": "SUPPORTS",
+    "predicted_label": "SUPPORTS",
+    "raw_response": "Based on the information available in memory, the claim \"Gordon Ramsay has had apprentices\" is classified as: SUPPORTS.",
+    "is_correct": true
+  },
+  {
+    "id": 144769,
+    "claim": "Fantastic Four (2005 film) was released only in Australia.",
+    "ground_truth": "REFUTES",
+    "predicted_label": "REFUTES",
+    "raw_response": "Based on the information available in memory, the claim \"Fantastic Four (2005 film) was released only in Australia\" is classified as: REFUTES.",
+    "is_correct": true
+  },
+  {
+    "id": 195017,
+    "claim": "Girl is a studio song.",
+    "ground_truth": "NOT ENOUGH INFO",
+    "predicted_label": "NOT ENOUGH INFO",
+    "raw_response": "Based on the information available in memory, the claim \"Girl is a studio song\" is classified as: NOT ENOUGH INFO.",
+    "is_correct": true
+  },
+  {
+    "id": 99877,
+    "claim": "Danny Brown named his third album XXXX.",
+    "ground_truth": "REFUTES",
+    "predicted_label": "NOT ENOUGH INFO",
+    "raw_response": "Based on the information available in memory, the claim \"Danny Brown named his third album XXXX\" is classified as: NOT ENOUGH INFO.",
+    "is_correct": false
+  },
+  {
+    "id": 179300,
+    "claim": "Franchising is regulated in Nebraska.",
+    "ground_truth": "NOT ENOUGH INFO",
+    "predicted_label": "NOT ENOUGH INFO",
+    "raw_response": "Based on the information available in memory, the claim \"Franchising is regulated in Nebraska\" is classified as: NOT ENOUGH INFO.",
+    "is_correct": true
+  },
+  {
+    "id": 168987,
+    "claim": "Middle-earth was created by J. K. Rowling.",
+    "ground_truth": "REFUTES",
+    "predicted_label": "REFUTES",
+    "raw_response": "Based on the information available in memory, the claim \"Middle-earth was created by J. K. Rowling\" is classified as: REFUTES.",
+    "is_correct": true
+  },
+  {
+    "id": 154086,
+    "claim": "Birthday Song (2 Chainz song) was produced by American rapper Kanye West.",
+    "ground_truth": "REFUTES",
+    "predicted_label": "NOT ENOUGH INFO",
+    "raw_response": "Based on the information available in memory, the claim \"Birthday Song (2 Chainz song) was produced by American rapper Kanye West\" is classified as: NOT ENOUGH INFO.",
+    "is_correct": false
+  },
+  {
+    "id": 195912,
+    "claim": "Frozen is a film from 2003.",
+    "ground_truth": "REFUTES",
+    "predicted_label": "REFUTES",
+    "raw_response": "Based on the information available in memory, the claim \"Frozen is a film from 2003\" is classified as: REFUTES.",
+    "is_correct": true
+  },
+  {
+    "id": 9718,
+    "claim": "Leonard Nimoy narrated a computer game.",
+    "ground_truth": "SUPPORTS",
+    "predicted_label": "NOT ENOUGH INFO",
+    "raw_response": "Based on the information available in memory, the claim \"Leonard Nimoy narrated a computer game\" is classified as: NOT ENOUGH INFO.",
+    "is_correct": false
+  },
+  {
+    "id": 125010,
+    "claim": "Numb was released in a Linkin Park DLC for 2011.",
+    "ground_truth": "SUPPORTS",
+    "predicted_label": "NOT ENOUGH INFO",
+    "raw_response": "Based on the information available in memory, the claim \"Numb was released in a Linkin Park DLC for 2011\" is classified as: NOT ENOUGH INFO.",
+    "is_correct": false
+  },
+  {
+    "id": 2594,
+    "claim": "Chris Eubank Jr. is an athlete.",
+    "ground_truth": "SUPPORTS",
+    "predicted_label": "SUPPORTS",
+    "raw_response": "Based on the information available in memory, the claim \"Chris Eubank Jr. is an athlete\" is classified as: SUPPORTS.",
+    "is_correct": true
+  },
+  {
+    "id": 68044,
+    "claim": "Uranium-235 was discovered by a governor who was born in August.",
+    "ground_truth": "NOT ENOUGH INFO",
+    "predicted_label": "NOT ENOUGH INFO",
+    "raw_response": "Based on the information available in memory, the claim \"Uranium-235 was discovered by a governor who was born in August\" is classified as: NOT ENOUGH INFO.",
+    "is_correct": true
+  },
+  {
+    "id": 27052,
+    "claim": "David Packouz is an American citizen.",
+    "ground_truth": "SUPPORTS",
+    "predicted_label": "NOT ENOUGH INFO",
+    "raw_response": "Based on the information available in memory, the claim \"David Packouz is an American citizen\" is classified as: NOT ENOUGH INFO.",
+    "is_correct": false
+  },
+  {
+    "id": 185193,
+    "claim": "Home for the Holidays stars an American actress.",
+    "ground_truth": "SUPPORTS",
+    "predicted_label": "SUPPORTS",
+    "raw_response": "Based on the information available in memory, the claim \"Home for the Holidays stars an American actress\" is classified as: SUPPORTS.",
+    "is_correct": true
+  },
+  {
+    "id": 101771,
+    "claim": "Joe Walsh was brought into the Rock and Roll Hall of Fame.",
+    "ground_truth": "SUPPORTS",
+    "predicted_label": "SUPPORTS",
+    "raw_response": "Based on the information available in memory, the claim \"Joe Walsh was brought into the Rock and Roll Hall of Fame\" is classified as: SUPPORTS.",
+    "is_correct": true
+  },
+  {
+    "id": 127588,
+    "claim": "A Milli is a hip hop song.",
+    "ground_truth": "NOT ENOUGH INFO",
+    "predicted_label": "SUPPORTS",
+    "raw_response": "Based on the information available in memory, the claim \"A Milli is a hip hop song\" is classified as: SUPPORTS.",
+    "is_correct": false
+  },
+  {
+    "id": 140354,
+    "claim": "Matthew Gray Gubler is an artist.",
+    "ground_truth": "SUPPORTS",
+    "predicted_label": "SUPPORTS",
+    "raw_response": "Based on the information available in memory, the claim \"Matthew Gray Gubler is an artist\" is classified as: SUPPORTS.",
+    "is_correct": true
+  },
+  {
+    "id": 33172,
+    "claim": "Chaka Khan makes music.",
+    "ground_truth": "SUPPORTS",
+    "predicted_label": "SUPPORTS",
+    "raw_response": "Based on the information available in memory, the claim \"Chaka Khan makes music\" is classified as: SUPPORTS.",
+    "is_correct": true
+  },
+  {
+    "id": 186994,
+    "claim": "The western part of the Atlantic Ocean is the location of the Bermuda Triangle.",
+    "ground_truth": "SUPPORTS",
+    "predicted_label": "SUPPORTS",
+    "raw_response": "Based on the information available in memory, the claim \"The western part of the Atlantic Ocean is the location of the Bermuda Triangle\" is classified as: SUPPORTS.",
+    "is_correct": true
+  },
+  {
+    "id": 10164,
+    "claim": "Bad Romance was profitable around the world.",
+    "ground_truth": "SUPPORTS",
+    "predicted_label": "NOT ENOUGH INFO",
+    "raw_response": "Based on the information available in memory, the claim \"Bad Romance was profitable around the world\" is classified as: NOT ENOUGH INFO.",
+    "is_correct": false
+  },
+  {
+    "id": 217678,
+    "claim": "The Pelican Brief is based on a novel of the same name by John Grisham.",
+    "ground_truth": "SUPPORTS",
+    "predicted_label": "SUPPORTS",
+    "raw_response": "Based on the information available in memory, the claim \"The Pelican Brief is based on a novel of the same name by John Grisham\" is classified as: SUPPORTS.",
+    "is_correct": true
+  },
+  {
+    "id": 97299,
+    "claim": "Camden, New Jersey is the only location of Rutgers University -- Camden's.",
+    "ground_truth": "NOT ENOUGH INFO",
+    "predicted_label": "REFUTES",
+    "raw_response": "Based on the information available in memory, the claim \"Camden, New Jersey is the only location of Rutgers University -- Camden's\" is classified as: REFUTES.",
+    "is_correct": false
+  },
+  {
+    "id": 179306,
+    "claim": "Franchising is still unregulated in the United States.",
+    "ground_truth": "REFUTES",
+    "predicted_label": "REFUTES",
+    "raw_response": "Based on the information available in memory, the claim \"Franchising is still unregulated in the United States\" is classified as: REFUTES.",
+    "is_correct": true
+  },
+  {
+    "id": 111713,
+    "claim": "The Mighty Ducks was distributed by a subsidiary of Doug the Pug.",
+    "ground_truth": "REFUTES",
+    "predicted_label": "NOT ENOUGH INFO",
+    "raw_response": "Based on the information available in memory, the claim \"The Mighty Ducks was distributed by a subsidiary of Doug the Pug\" is classified as: NOT ENOUGH INFO.",
+    "is_correct": false
+  },
+  {
+    "id": 141894,
+    "claim": "The Road to El Dorado only stars Ben Stiller.",
+    "ground_truth": "REFUTES",
+    "predicted_label": "REFUTES",
+    "raw_response": "Based on the information available in memory, the claim \"The Road to El Dorado only stars Ben Stiller\" is classified as: REFUTES.",
+    "is_correct": true
+  },
+  {
+    "id": 5972,
+    "claim": "Poseidon had a budget of $160 million.",
+    "ground_truth": "SUPPORTS",
+    "predicted_label": "SUPPORTS",
+    "raw_response": "Based on the information available in memory, the claim \"Poseidon had a budget of $160 million\" is classified as: SUPPORTS.",
+    "is_correct": true
+  },
+  {
+    "id": 191425,
+    "claim": "Keith Urban is solely the first album of a Canadian gospel singer.",
+    "ground_truth": "REFUTES",
+    "predicted_label": "REFUTES",
+    "raw_response": "Based on the information available in memory, the claim \"Keith Urban is solely the first album of a Canadian gospel singer\" is classified as: REFUTES.",
+    "is_correct": true
+  },
+  {
+    "id": 153268,
+    "claim": "Melancholia was directed by a Danish screenwriter living in Russia.",
+    "ground_truth": "NOT ENOUGH INFO",
+    "predicted_label": "REFUTES",
+    "raw_response": "Based on the information available in memory, the claim \"Melancholia was directed by a Danish screenwriter living in Russia\" is classified as: REFUTES.",
+    "is_correct": false
+  },
+  {
+    "id": 23686,
+    "claim": "Fidel Castro has a sister.",
+    "ground_truth": "NOT ENOUGH INFO",
+    "predicted_label": "SUPPORTS",
+    "raw_response": "Based on the information available in memory, the claim \"Fidel Castro has a sister\" is classified as: SUPPORTS.",
+    "is_correct": false
+  },
+  {
+    "id": 22194,
+    "claim": "Jewell worked with Snoop Dogg.",
+    "ground_truth": "SUPPORTS",
+    "predicted_label": "SUPPORTS",
+    "raw_response": "Based on the information available in memory, the claim \"Jewell worked with Snoop Dogg\" is classified as: SUPPORTS.",
+    "is_correct": true
+  },
+  {
+    "id": 19671,
+    "claim": "Basildon has connections.",
+    "ground_truth": "SUPPORTS",
+    "predicted_label": "NOT ENOUGH INFO",
+    "raw_response": "Based on the information available in memory, the claim \"Basildon has connections\" is classified as: NOT ENOUGH INFO.",
+    "is_correct": false
+  },
+  {
+    "id": 92439,
+    "claim": "Terry Crews was only a quarterback.",
+    "ground_truth": "REFUTES",
+    "predicted_label": "REFUTES",
+    "raw_response": "Based on the information available in memory, the claim \"Terry Crews was only a quarterback\" is classified as: REFUTES.",
+    "is_correct": true
+  },
+  {
+    "id": 146176,
+    "claim": "Garden State was at the Prague Film Festival.",
+    "ground_truth": "NOT ENOUGH INFO",
+    "predicted_label": "NOT ENOUGH INFO",
+    "raw_response": "Based on the information available in memory, the claim \"Garden State was at the Prague Film Festival\" is classified as: NOT ENOUGH INFO.",
+    "is_correct": true
+  },
+  {
+    "id": 119288,
+    "claim": "Eddie Murphy rejected all offers to star in The Adventures of Pluto Nash.",
+    "ground_truth": "REFUTES",
+    "predicted_label": "NOT ENOUGH INFO",
+    "raw_response": "Based on the information available in memory, the claim \"Eddie Murphy rejected all offers to star in The Adventures of Pluto Nash\" is classified as: NOT ENOUGH INFO.",
+    "is_correct": false
+  },
+  {
+    "id": 73412,
+    "claim": "Marco Polo was an Asia.",
+    "ground_truth": "SUPPORTS",
+    "predicted_label": "REFUTES",
+    "raw_response": "Based on the information available in memory, the claim \"Marco Polo was an Asia\" is classified as: REFUTES.",
+    "is_correct": false
+  },
+  {
+    "id": 163971,
+    "claim": "Veeram was produced by Marvel.",
+    "ground_truth": "REFUTES",
+    "predicted_label": "NOT ENOUGH INFO",
+    "raw_response": "Based on the information available in memory, the claim \"Veeram was produced by Marvel\" is classified as: NOT ENOUGH INFO.",
+    "is_correct": false
+  },
+  {
+    "id": 129876,
+    "claim": "John Deighton worked a retail job.",
+    "ground_truth": "NOT ENOUGH INFO",
+    "predicted_label": "NOT ENOUGH INFO",
+    "raw_response": "Based on the information available in memory, the claim \"John Deighton worked a retail job\" is classified as: NOT ENOUGH INFO.",
+    "is_correct": true
+  },
+  {
+    "id": 92172,
+    "claim": "Neil Diamond is a painter.",
+    "ground_truth": "NOT ENOUGH INFO",
+    "predicted_label": "REFUTES",
+    "raw_response": "Based on the information available in memory, the claim \"Neil Diamond is a painter\" is classified as: REFUTES.",
+    "is_correct": false
+  },
+  {
+    "id": 91336,
+    "claim": "The Mighty Ducks was distributed by a subsidiary of Walt Disney Studios in 2017.",
+    "ground_truth": "NOT ENOUGH INFO",
+    "predicted_label": "SUPPORTS",
+    "raw_response": "Based on the information available in memory, the claim \"The Mighty Ducks was distributed by a subsidiary of Walt Disney Studios in 2017\" is classified as: SUPPORTS.",
+    "is_correct": false
+  },
+  {
+    "id": 194346,
+    "claim": "Happiness in Slavery is a song.",
+    "ground_truth": "SUPPORTS",
+    "predicted_label": "SUPPORTS",
+    "raw_response": "Based on the information available in memory, the claim \"Happiness in Slavery is a song\" is classified as: SUPPORTS.",
+    "is_correct": true
+  },
+  {
+    "id": 80124,
+    "claim": "Sikkim is a part of the World Bank.",
+    "ground_truth": "NOT ENOUGH INFO",
+    "predicted_label": "NOT ENOUGH INFO",
+    "raw_response": "Based on the information available in memory, the claim \"Sikkim is a part of the World Bank\" is classified as: NOT ENOUGH INFO.",
+    "is_correct": true
+  },
+  {
+    "id": 189762,
+    "claim": "Matthias Corvinus had one of the largest collections of books in Europe during the Renaissance in the 1450's.",
+    "ground_truth": "SUPPORTS",
+    "predicted_label": "SUPPORTS",
+    "raw_response": "Based on the information available in memory, the claim \"Matthias Corvinus had one of the largest collections of books in Europe during the Renaissance in the 1450's\" is classified as: SUPPORTS.",
+    "is_correct": true
+  },
+  {
+    "id": 107290,
+    "claim": "José Ferrer played the part of Cyrano de Bergerac in 1947.",
+    "ground_truth": "NOT ENOUGH INFO",
+    "predicted_label": "SUPPORTS",
+    "raw_response": "Based on the information available in memory, the claim \"José Ferrer played the part of Cyrano de Bergerac in 1947\" is classified as: SUPPORTS.",
+    "is_correct": false
+  },
+  {
+    "id": 181124,
+    "claim": "So You Think You Can Dance premiered on July 20th, 2005 at 8:00 PM.",
+    "ground_truth": "NOT ENOUGH INFO",
+    "predicted_label": "NOT ENOUGH INFO",
+    "raw_response": "Based on the information available in memory, the claim \"So You Think You Can Dance premiered on July 20th, 2005 at 8:00 PM\" is classified as: NOT ENOUGH INFO.",
+    "is_correct": true
+  },
+  {
+    "id": 127366,
+    "claim": "James VI and I was a major advocate of a single parliament.",
+    "ground_truth": "SUPPORTS",
+    "predicted_label": "NOT ENOUGH INFO",
+    "raw_response": "Based on the information available in memory, the claim \"James VI and I was a major advocate of a single parliament\" is classified as: NOT ENOUGH INFO.",
+    "is_correct": false
+  },
+  {
+    "id": 66962,
+    "claim": "Chaka Khan has released at least five studio albums featuring Oprah Winfrey.",
+    "ground_truth": "NOT ENOUGH INFO",
+    "predicted_label": "REFUTES",
+    "raw_response": "Based on the information available in memory, the claim \"Chaka Khan has released at least five studio albums featuring Oprah Winfrey\" is classified as: REFUTES.",
+    "is_correct": false
+  },
+  {
+    "id": 5004,
+    "claim": "The Crips are a street gang.",
+    "ground_truth": "SUPPORTS",
+    "predicted_label": "SUPPORTS",
+    "raw_response": "Based on the information available in memory, the claim \"The Crips are a street gang\" is classified as: SUPPORTS.",
+    "is_correct": true
+  },
+  {
+    "id": 25824,
+    "claim": "Bad Romance sold 12 million copies worldwide.",
+    "ground_truth": "SUPPORTS",
+    "predicted_label": "NOT ENOUGH INFO",
+    "raw_response": "Based on the information available in memory, the claim \"Bad Romance sold 12 million copies worldwide\" is classified as: NOT ENOUGH INFO.",
+    "is_correct": false
+  },
+  {
+    "id": 179327,
+    "claim": "Osamu Tezuka practiced hiking as a young child.",
+    "ground_truth": "NOT ENOUGH INFO",
+    "predicted_label": "NOT ENOUGH INFO",
+    "raw_response": "Based on the information available in memory, the claim \"Osamu Tezuka practiced hiking as a young child\" is classified as: NOT ENOUGH INFO.",
+    "is_correct": true
+  },
+  {
+    "id": 41786,
+    "claim": "Jack Falahee is an actor.",
+    "ground_truth": "SUPPORTS",
+    "predicted_label": "SUPPORTS",
+    "raw_response": "Based on the information available in memory, the claim \"Jack Falahee is an actor\" is classified as: SUPPORTS.",
+    "is_correct": true
+  },
+  {
+    "id": 202791,
+    "claim": "Despicable Me 2 was written exclusively by Elmo.",
+    "ground_truth": "REFUTES",
+    "predicted_label": "REFUTES",
+    "raw_response": "Based on the information available in memory, the claim \"Despicable Me 2 was written exclusively by Elmo\" is classified as: REFUTES.",
+    "is_correct": true
+  },
+  {
+    "id": 32940,
+    "claim": "David Spade appeared in Joe Dirt 2: Beautiful Loser.",
+    "ground_truth": "SUPPORTS",
+    "predicted_label": "SUPPORTS",
+    "raw_response": "Based on the information available in memory, the claim \"David Spade appeared in Joe Dirt 2: Beautiful Loser\" is classified as: SUPPORTS.",
+    "is_correct": true
+  },
+  {
+    "id": 75378,
+    "claim": "South African Communist Party is part of the Congress of South African Trade Unions.",
+    "ground_truth": "SUPPORTS",
+    "predicted_label": "NOT ENOUGH INFO",
+    "raw_response": "Based on the information available in memory, the claim \"South African Communist Party is part of the Congress of South African Trade Unions\" is classified as: NOT ENOUGH INFO.",
+    "is_correct": false
+  },
+  {
+    "id": 31632,
+    "claim": "Chris Kyle was not a sniper.",
+    "ground_truth": "REFUTES",
+    "predicted_label": "REFUTES",
+    "raw_response": "Based on the information available in memory, the claim \"Chris Kyle was not a sniper\" is classified as: REFUTES.",
+    "is_correct": true
+  },
+  {
+    "id": 105060,
+    "claim": "Eddie Guerrero did not have issues.",
+    "ground_truth": "REFUTES",
+    "predicted_label": "REFUTES",
+    "raw_response": "Based on the information available in memory, the claim \"Eddie Guerrero did not have issues\" is classified as: REFUTES.",
+    "is_correct": true
+  },
+  {
+    "id": 212329,
+    "claim": "Mary-Kate Olsen and Ashley Olsen are Germans.",
+    "ground_truth": "REFUTES",
+    "predicted_label": "REFUTES",
+    "raw_response": "Based on the information available in memory, the claim \"Mary-Kate Olsen and Ashley Olsen are Germans\" is classified as: REFUTES.",
+    "is_correct": true
+  },
+  {
+    "id": 178331,
+    "claim": "Al Jardine sang lead vocals on a song written by C. E. Quick.",
+    "ground_truth": "SUPPORTS",
+    "predicted_label": "SUPPORTS",
+    "raw_response": "Based on the information available in memory, the claim \"Al Jardine sang lead vocals on a song written by C. E. Quick\" is classified as: SUPPORTS.",
+    "is_correct": true
+  },
+  {
+    "id": 71613,
+    "claim": "Tatum O'Neal was Time's Woman of the Year in 1986.",
+    "ground_truth": "NOT ENOUGH INFO",
+    "predicted_label": "NOT ENOUGH INFO",
+    "raw_response": "Based on the information available in memory, the claim \"Tatum O'Neal was Time's Woman of the Year in 1986\" is classified as: NOT ENOUGH INFO.",
+    "is_correct": true
+  },
+  {
+    "id": 97927,
+    "claim": "Bones is a movie.",
+    "ground_truth": "REFUTES",
+    "predicted_label": "SUPPORTS",
+    "raw_response": "Based on the information available in memory, the claim \"Bones is a movie\" is classified as: SUPPORTS.",
+    "is_correct": false
+  },
+  {
+    "id": 131756,
+    "claim": "Tremont Street Subway was incapable of serving any stations of any time.",
+    "ground_truth": "REFUTES",
+    "predicted_label": "REFUTES",
+    "raw_response": "Based on the information available in memory, the claim \"Tremont Street Subway was incapable of serving any stations of any time\" is classified as: REFUTES.",
+    "is_correct": true
+  },
+  {
+    "id": 144153,
+    "claim": "Craig David has yet to be nominated for any Brit Awards.",
+    "ground_truth": "NOT ENOUGH INFO",
+    "predicted_label": "REFUTES",
+    "raw_response": "Based on the information available in memory, the claim \"Craig David has yet to be nominated for any Brit Awards\" is classified as: REFUTES.",
+    "is_correct": false
+  },
+  {
+    "id": 179316,
+    "claim": "Franchising is regulated in over thirty countries.",
+    "ground_truth": "SUPPORTS",
+    "predicted_label": "SUPPORTS",
+    "raw_response": "Based on the information available in memory, the claim \"Franchising is regulated in over thirty countries\" is classified as: SUPPORTS.",
+    "is_correct": true
+  },
+  {
+    "id": 107067,
+    "claim": "Hashtags were used to respond to the dress.",
+    "ground_truth": "SUPPORTS",
+    "predicted_label": "SUPPORTS",
+    "raw_response": "Based on the information available in memory, the claim \"Hashtags were used to respond to the dress\" is classified as: SUPPORTS.",
+    "is_correct": true
+  },
+  {
+    "id": 50718,
+    "claim": "The Chrysler Building was the world's tallest building for 11 months until it was surpassed by the Empire State Building.",
+    "ground_truth": "NOT ENOUGH INFO",
+    "predicted_label": "SUPPORTS",
+    "raw_response": "Based on the information available in memory, the claim \"The Chrysler Building was the world's tallest building for 11 months until it was surpassed by the Empire State Building\" is classified as: SUPPORTS.",
+    "is_correct": false
+  },
+  {
+    "id": 222041,
+    "claim": "Brubaker is a 1950 film.",
+    "ground_truth": "REFUTES",
+    "predicted_label": "REFUTES",
+    "raw_response": "Based on the information available in memory, the claim \"Brubaker is a 1950 film\" is classified as: REFUTES.",
+    "is_correct": true
+  },
+  {
+    "id": 183599,
+    "claim": "Finding Dory was spearheaded by Angus MacLane.",
+    "ground_truth": "NOT ENOUGH INFO",
+    "predicted_label": "SUPPORTS",
+    "raw_response": "Based on the information available in memory, the claim \"Finding Dory was spearheaded by Angus MacLane\" is classified as: SUPPORTS.",
+    "is_correct": false
+  },
+  {
+    "id": 59355,
+    "claim": "Margaret Thatcher implemented windows that have come to be known as Thatcherism.",
+    "ground_truth": "REFUTES",
+    "predicted_label": "REFUTES",
+    "raw_response": "Based on the information available in memory, the claim \"Margaret Thatcher implemented windows that have come to be known as Thatcherism\" is classified as: REFUTES.",
+    "is_correct": true
+  },
+  {
+    "id": 36159,
+    "claim": "Eminem collaborates with Lil Uzi Vert on Recovery.",
+    "ground_truth": "NOT ENOUGH INFO",
+    "predicted_label": "NOT ENOUGH INFO",
+    "raw_response": "Based on the information available in memory, the claim \"Eminem collaborates with Lil Uzi Vert on Recovery\" is classified as: NOT ENOUGH INFO.",
+    "is_correct": true
+  },
+  {
+    "id": 11498,
+    "claim": "Ashton Kutcher was in two scandals in 2005.",
+    "ground_truth": "NOT ENOUGH INFO",
+    "predicted_label": "NOT ENOUGH INFO",
+    "raw_response": "Based on the information available in memory, the claim \"Ashton Kutcher was in two scandals in 2005\" is classified as: NOT ENOUGH INFO.",
+    "is_correct": true
+  },
+  {
+    "id": 96468,
+    "claim": "Derek Hough starred in a King-Lear-inspired film.",
+    "ground_truth": "NOT ENOUGH INFO",
+    "predicted_label": "NOT ENOUGH INFO",
+    "raw_response": "Based on the information available in memory, the claim \"Derek Hough starred in a King Lear-inspired film\" is classified as: NOT ENOUGH INFO.",
+    "is_correct": true
+  },
+  {
+    "id": 22002,
+    "claim": "Shooter is about an expert cowboy.",
+    "ground_truth": "REFUTES",
+    "predicted_label": "NOT ENOUGH INFO",
+    "raw_response": "Based on the information available in memory, the claim \"Shooter is about an expert cowboy\" is classified as: NOT ENOUGH INFO.",
+    "is_correct": false
+  },
+  {
+    "id": 32815,
+    "claim": "Eric Church is a singer.",
+    "ground_truth": "SUPPORTS",
+    "predicted_label": "SUPPORTS",
+    "raw_response": "Based on the information available in memory, the claim \"Eric Church is a singer\" is classified as: SUPPORTS.",
+    "is_correct": true
+  },
+  {
+    "id": 225290,
+    "claim": "Michaela Watkins is a Catholic.",
+    "ground_truth": "NOT ENOUGH INFO",
+    "predicted_label": "NOT ENOUGH INFO",
+    "raw_response": "Based on the information available in memory, the claim \"Michaela Watkins is a Catholic\" is classified as: NOT ENOUGH INFO.",
+    "is_correct": true
+  },
+  {
+    "id": 125197,
+    "claim": "Jack Falahee is an actor and he is unknown.",
+    "ground_truth": "REFUTES",
+    "predicted_label": "REFUTES",
+    "raw_response": "Based on the information available in memory, the claim \"Jack Falahee is an actor and he is unknown\" is classified as: REFUTES.",
+    "is_correct": true
+  },
+  {
+    "id": 127682,
+    "claim": "John Deighton experienced swelling in his legs.",
+    "ground_truth": "SUPPORTS",
+    "predicted_label": "NOT ENOUGH INFO",
+    "raw_response": "Based on the information available in memory, the claim \"John Deighton experienced swelling in his legs\" is classified as: NOT ENOUGH INFO.",
+    "is_correct": false
+  },
+  {
+    "id": 202796,
+    "claim": "Despicable Me 2 was written by Cinco Paul in 2014.",
+    "ground_truth": "NOT ENOUGH INFO",
+    "predicted_label": "SUPPORTS",
+    "raw_response": "Based on the information available in memory, the claim \"Despicable Me 2 was written by Cinco Paul in 2014\" is classified as: SUPPORTS.",
+    "is_correct": false
+  },
+  {
+    "id": 55976,
+    "claim": "Derek Hough starred in an American song.",
+    "ground_truth": "REFUTES",
+    "predicted_label": "NOT ENOUGH INFO",
+    "raw_response": "Based on the information available in memory, the claim \"Derek Hough starred in an American song\" is classified as: NOT ENOUGH INFO.",
+    "is_correct": false
+  },
+  {
+    "id": 187119,
+    "claim": "Eva Mendes was born in 1999.",
+    "ground_truth": "REFUTES",
+    "predicted_label": "REFUTES",
+    "raw_response": "Based on the information available in memory, the claim \"Eva Mendes was born in 1999\" is classified as: REFUTES.",
+    "is_correct": true
+  },
+  {
+    "id": 100481,
+    "claim": "There are rumors that Augustus' wife, Livia, poisoned him while he was sleeping.",
+    "ground_truth": "NOT ENOUGH INFO",
+    "predicted_label": "SUPPORTS",
+    "raw_response": "Based on the information available in memory, the claim \"There are rumors that Augustus' wife, Livia, poisoned him while he was sleeping\" is classified as: SUPPORTS.",
+    "is_correct": false
+  },
+  {
+    "id": 223,
+    "claim": "Advertising is an audio form of marketing communication.",
+    "ground_truth": "SUPPORTS",
+    "predicted_label": "SUPPORTS",
+    "raw_response": "Based on the information available in memory, the claim \"Advertising is an audio form of marketing communication\" is classified as: SUPPORTS.",
+    "is_correct": true
+  },
+  {
+    "id": 161864,
+    "claim": "Robert Lopez has been nominated for, but lost Emmy awards.",
+    "ground_truth": "REFUTES",
+    "predicted_label": "SUPPORTS",
+    "raw_response": "Based on the information available in memory, the claim \"Robert Lopez has been nominated for, but lost Emmy awards\" is classified as: SUPPORTS.",
+    "is_correct": false
+  },
+  {
+    "id": 198021,
+    "claim": "The New York City Landmarks Preservation Commission includes three engineers.",
+    "ground_truth": "NOT ENOUGH INFO",
+    "predicted_label": "NOT ENOUGH INFO",
+    "raw_response": "Based on the information available in memory, the claim \"The New York City Landmarks Preservation Commission includes three engineers\" is classified as: NOT ENOUGH INFO.",
+    "is_correct": true
+  },
+  {
+    "id": 224957,
+    "claim": "Kentucky's horse racing is unpopular.",
+    "ground_truth": "NOT ENOUGH INFO",
+    "predicted_label": "REFUTES",
+    "raw_response": "Based on the information available in memory, the claim \"Kentucky's horse racing is unpopular\" is classified as: REFUTES.",
+    "is_correct": false
+  },
+  {
+    "id": 138357,
+    "claim": "House ran for 9 seasons.",
+    "ground_truth": "REFUTES",
+    "predicted_label": "REFUTES",
+    "raw_response": "Based on the information available in memory, the claim \"House ran for 9 seasons\" is classified as: REFUTES.",
+    "is_correct": true
+  },
+  {
+    "id": 157813,
+    "claim": "One of the most influential bands of its time is Pearl Jam.",
+    "ground_truth": "SUPPORTS",
+    "predicted_label": "SUPPORTS",
+    "raw_response": "Based on the information available in memory, the claim \"One of the most influential bands of its time is Pearl Jam\" is classified as: SUPPORTS.",
+    "is_correct": true
+  },
+  {
+    "id": 79601,
+    "claim": "Global warming is projected to result in reduced levels of sea ice.",
+    "ground_truth": "SUPPORTS",
+    "predicted_label": "SUPPORTS",
+    "raw_response": "Based on the information available in memory, the claim \"Global warming is projected to result in reduced levels of sea ice\" is classified as: SUPPORTS.",
+    "is_correct": true
+  },
+  {
+    "id": 153341,
+    "claim": "Intelligence officers refused to meet with Omar Khadr.",
+    "ground_truth": "REFUTES",
+    "predicted_label": "NOT ENOUGH INFO",
+    "raw_response": "Based on the information available in memory, the claim \"Intelligence officers refused to meet with Omar Khadr\" is classified as: NOT ENOUGH INFO.",
+    "is_correct": false
+  },
+  {
+    "id": 104847,
+    "claim": "The New York Knicks are one of the professional teams in the National Basketball Association's Eastern Conference.",
+    "ground_truth": "SUPPORTS",
+    "predicted_label": "SUPPORTS",
+    "raw_response": "Based on the information available in memory, the claim \"The New York Knicks are one of the professional teams in the National Basketball Association's Eastern Conference\" is classified as: SUPPORTS.",
+    "is_correct": true
+  },
+  {
+    "id": 78274,
+    "claim": "Youtube is ranked as the second most popular business in the world.",
+    "ground_truth": "NOT ENOUGH INFO",
+    "predicted_label": "NOT ENOUGH INFO",
+    "raw_response": "Based on the information available in memory, the claim \"Youtube is ranked as the second most popular business in the world\" is classified as: NOT ENOUGH INFO.",
+    "is_correct": true
+  },
+  {
+    "id": 202934,
+    "claim": "Avenged Sevenfold was released by G.O.O.D. Music.",
+    "ground_truth": "NOT ENOUGH INFO",
+    "predicted_label": "REFUTES",
+    "raw_response": "Based on the information available in memory, the claim \"Avenged Sevenfold was released by G.O.O.D. Music\" is classified as: REFUTES.",
+    "is_correct": false
+  },
+  {
+    "id": 186936,
+    "claim": "Cher is Cher's eighteenth EP.",
+    "ground_truth": "NOT ENOUGH INFO",
+    "predicted_label": "NOT ENOUGH INFO",
+    "raw_response": "Based on the information available in memory, the claim \"Cher is Cher's eighteenth EP\" is classified as: NOT ENOUGH INFO.",
+    "is_correct": true
+  },
+  {
+    "id": 224971,
+    "claim": "Kentucky has run-down distilleries.",
+    "ground_truth": "NOT ENOUGH INFO",
+    "predicted_label": "NOT ENOUGH INFO",
+    "raw_response": "Based on the information available in memory, the claim \"Kentucky has run-down distilleries\" is classified as: NOT ENOUGH INFO.",
+    "is_correct": true
+  },
+  {
+    "id": 70918,
+    "claim": "The Chrysler Building is shorter than the Empire State Building by 10 meters.",
+    "ground_truth": "REFUTES",
+    "predicted_label": "SUPPORTS",
+    "raw_response": "Based on the information available in memory, the claim \"The Chrysler Building is shorter than the Empire State Building by 10 meters\" is classified as: SUPPORTS.",
+    "is_correct": false
+  },
+  {
+    "id": 71246,
+    "claim": "Appropriation (art) played a significant role in musical arts.",
+    "ground_truth": "SUPPORTS",
+    "predicted_label": "NOT ENOUGH INFO",
+    "raw_response": "Based on the information available in memory, the claim \"Appropriation (art) played a significant role in musical arts\" is classified as: NOT ENOUGH INFO.",
+    "is_correct": false
+  },
+  {
+    "id": 10204,
+    "claim": "The Battle of France was the German invasion of France.",
+    "ground_truth": "SUPPORTS",
+    "predicted_label": "SUPPORTS",
+    "raw_response": "Based on the information available in memory, the claim \"The Battle of France was the German invasion of France\" is classified as: SUPPORTS.",
+    "is_correct": true
+  },
+  {
+    "id": 77622,
+    "claim": "The Road to El Dorado is a horror film.",
+    "ground_truth": "REFUTES",
+    "predicted_label": "REFUTES",
+    "raw_response": "Based on the information available in memory, the claim \"The Road to El Dorado is a horror film\" is classified as: REFUTES.",
+    "is_correct": true
+  },
+  {
+    "id": 149160,
+    "claim": "Billboard Dad only stars men.",
+    "ground_truth": "REFUTES",
+    "predicted_label": "NOT ENOUGH INFO",
+    "raw_response": "Based on the information available in memory, the claim \"Billboard Dad only stars men\" is classified as: NOT ENOUGH INFO.",
+    "is_correct": false
+  },
+  {
+    "id": 155920,
+    "claim": "Taylor Lautner appeared in The Bernie Mac Show in 2001.",
+    "ground_truth": "REFUTES",
+    "predicted_label": "NOT ENOUGH INFO",
+    "raw_response": "Based on the information available in memory, the claim \"Taylor Lautner appeared in The Bernie Mac Show in 2001\" is classified as: NOT ENOUGH INFO.",
+    "is_correct": false
+  },
+  {
+    "id": 115388,
+    "claim": "Duff McKagan was born in 1974.",
+    "ground_truth": "REFUTES",
+    "predicted_label": "NOT ENOUGH INFO",
+    "raw_response": "Based on the information available in memory, the claim \"Duff McKagan was born in 1974\" is classified as: NOT ENOUGH INFO.",
+    "is_correct": false
+  },
+  {
+    "id": 32958,
+    "claim": "The New York Knicks compete in the Eastern Conference of the National Basketball Association.",
+    "ground_truth": "SUPPORTS",
+    "predicted_label": "SUPPORTS",
+    "raw_response": "Based on the information available in memory, the claim \"The New York Knicks compete in the Eastern Conference of the National Basketball Association\" is classified as: SUPPORTS.",
+    "is_correct": true
+  },
+  {
+    "id": 13742,
+    "claim": "Neil Diamond likes to be called Leslie.",
+    "ground_truth": "NOT ENOUGH INFO",
+    "predicted_label": "NOT ENOUGH INFO",
+    "raw_response": "Based on the information available in memory, the claim \"Neil Diamond likes to be called Leslie\" is classified as: NOT ENOUGH INFO.",
+    "is_correct": true
+  },
+  {
+    "id": 67654,
+    "claim": "Tim Roth is a frugal person.",
+    "ground_truth": "NOT ENOUGH INFO",
+    "predicted_label": "NOT ENOUGH INFO",
+    "raw_response": "Based on the information available in memory, the claim \"Tim Roth is a frugal person\" is classified as: NOT ENOUGH INFO.",
+    "is_correct": true
+  },
+  {
+    "id": 154989,
+    "claim": "Poldark has three series.",
+    "ground_truth": "SUPPORTS",
+    "predicted_label": "NOT ENOUGH INFO",
+    "raw_response": "Based on the information available in memory, the claim \"Poldark has three series\" is classified as: NOT ENOUGH INFO.",
+    "is_correct": false
+  },
+  {
+    "id": 165668,
+    "claim": "Tom Baker has narrated American video games.",
+    "ground_truth": "NOT ENOUGH INFO",
+    "predicted_label": "NOT ENOUGH INFO",
+    "raw_response": "Based on the information available in memory, the claim \"Tom Baker has narrated American video games\" is classified as: NOT ENOUGH INFO.",
+    "is_correct": true
+  },
+  {
+    "id": 129881,
+    "claim": "The Prowler made his last appearance in The Amazing Spider-Man #78.",
+    "ground_truth": "NOT ENOUGH INFO",
+    "predicted_label": "NOT ENOUGH INFO",
+    "raw_response": "Based on the information available in memory, the claim \"The Prowler made his last appearance in The Amazing Spider-Man #78\" is classified as: NOT ENOUGH INFO.",
+    "is_correct": true
+  },
+  {
+    "id": 166488,
+    "claim": "Roswell was directed by Jason Katims.",
+    "ground_truth": "NOT ENOUGH INFO",
+    "predicted_label": "NOT ENOUGH INFO",
+    "raw_response": "Based on the information available in memory, the claim \"Roswell was directed by Jason Katims\" is classified as: NOT ENOUGH INFO.",
+    "is_correct": true
+  },
+  {
+    "id": 38004,
+    "claim": "Lizzy Caplan starred in television show like True Blood.",
+    "ground_truth": "SUPPORTS",
+    "predicted_label": "NOT ENOUGH INFO",
+    "raw_response": "Based on the information available in memory, the claim \"Lizzy Caplan starred in television show like True Blood\" is classified as: NOT ENOUGH INFO.",
+    "is_correct": false
+  },
+  {
+    "id": 113116,
+    "claim": "Renato Balestra was born in a plane.",
+    "ground_truth": "NOT ENOUGH INFO",
+    "predicted_label": "NOT ENOUGH INFO",
+    "raw_response": "Based on the information available in memory, the claim \"Renato Balestra was born in a plane\" is classified as: NOT ENOUGH INFO.",
+    "is_correct": true
+  },
+  {
+    "id": 48697,
+    "claim": "Eva Green had a theatre career.",
+    "ground_truth": "SUPPORTS",
+    "predicted_label": "NOT ENOUGH INFO",
+    "raw_response": "Based on the information available in memory, the claim \"Eva Green had a theatre career\" is classified as: NOT ENOUGH INFO.",
+    "is_correct": false
+  },
+  {
+    "id": 53263,
+    "claim": "Henry VIII (TV serial) features a film and television actor in a leading role.",
+    "ground_truth": "SUPPORTS",
+    "predicted_label": "SUPPORTS",
+    "raw_response": "Based on the information available in memory, the claim \"Henry VIII (TV serial) features a film and television actor in a leading role\" is classified as: SUPPORTS.",
+    "is_correct": true
+  },
+  {
+    "id": 120210,
+    "claim": "Yara Shahidi is a dog.",
+    "ground_truth": "REFUTES",
+    "predicted_label": "REFUTES",
+    "raw_response": "Based on the information available in memory, the claim \"Yara Shahidi is a dog\" is classified as: REFUTES.",
+    "is_correct": true
+  },
+  {
+    "id": 85343,
+    "claim": "Justine Bateman is a patron of the arts.",
+    "ground_truth": "NOT ENOUGH INFO",
+    "predicted_label": "NOT ENOUGH INFO",
+    "raw_response": "Based on the information available in memory, the claim \"Justine Bateman is a patron of the arts\" is classified as: NOT ENOUGH INFO.",
+    "is_correct": true
+  }
+]

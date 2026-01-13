@@ -1,0 +1,2036 @@
+[
+  {
+    "question": "Who did Maria have dinner with on May 3, 2023?",
+    "response": "There is no information specifying who Maria had dinner with on May 3, 2023.",
+    "answer": "her mother",
+    "metadata": {
+      "question": "Who did Maria have dinner with on May 3, 2023?",
+      "answer": "her mother",
+      "evidence": [
+        "D13:16"
+      ],
+      "category": 2
+    }
+  },
+  {
+    "question": "When did Maria donate her car?",
+    "response": "Maria donated her old car on 21 December 2022.",
+    "answer": "21 December 2022",
+    "metadata": {
+      "question": "When did Maria donate her car?",
+      "answer": "21 December 2022",
+      "evidence": [
+        "D2:1"
+      ],
+      "category": 2
+    }
+  },
+  {
+    "question": "What martial arts has John done?",
+    "response": "John has done kickboxing and taekwondo.",
+    "answer": "Kickboxing, Taekwondo",
+    "metadata": {
+      "question": "What martial arts has John done?",
+      "answer": "Kickboxing, Taekwondo",
+      "evidence": [
+        "D2:28",
+        "D1:4"
+      ],
+      "category": 1
+    }
+  },
+  {
+    "question": "What type of volunteering have John and Maria both done?",
+    "response": "John and Maria have both volunteered in community service activities, with a focus on supporting homeless shelters and community betterment projects.",
+    "answer": "Volunteering at a homeless shelter",
+    "metadata": {
+      "question": "What type of volunteering have John and Maria both done?",
+      "answer": "Volunteering at a homeless shelter",
+      "evidence": [
+        "D3:5",
+        "D2:1"
+      ],
+      "category": 1
+    }
+  },
+  {
+    "question": "When did John join the online support group?",
+    "response": "John joined the online support group advocating for military veterans by early August 2023.",
+    "answer": "The week before 1 January 2023",
+    "metadata": {
+      "question": "When did John join the online support group?",
+      "answer": "The week before 1 January 2023",
+      "evidence": [
+        "D3:1"
+      ],
+      "category": 2
+    }
+  },
+  {
+    "question": "When did Maria go to the beach?",
+    "response": "Maria went to the beach during her solo trip to Spain in 2022.",
+    "answer": "December 2022",
+    "metadata": {
+      "question": "When did Maria go to the beach?",
+      "answer": "December 2022",
+      "evidence": [
+        "D3:15"
+      ],
+      "category": 2
+    }
+  },
+  {
+    "question": "Where has Maria made friends?",
+    "response": "Maria has made friends at her nearby church, through volunteering at a homeless shelter, and with church friends during activities such as camping and picnics.",
+    "answer": "homeless shelter, gym, church",
+    "metadata": {
+      "question": "Where has Maria made friends?",
+      "answer": "homeless shelter, gym, church",
+      "evidence": [
+        "D4:1",
+        "D2:1",
+        "D19:1",
+        "D14:10"
+      ],
+      "category": 1
+    }
+  },
+  {
+    "question": "What items des John mention having as a child?",
+    "response": "There is no specific information available in the memories about the items John had as a child.",
+    "answer": "A doll, a film camera",
+    "metadata": {
+      "question": "What items des John mention having as a child?",
+      "answer": "A doll, a film camera",
+      "evidence": [
+        "D5:13",
+        "D3:15"
+      ],
+      "category": 1
+    }
+  },
+  {
+    "question": "What might John's financial status be?",
+    "response": "John has faced some financial challenges, including a car breakdown in April 2023 that caused financial strain and losing his job in August 2023. Despite these setbacks, he remains optimistic and actively seeks new opportunities, showing resilience. He also supports his family and pursues political ambitions, indicating ongoing motivation and adaptability.",
+    "answer": "Middle-class or wealthy",
+    "metadata": {
+      "question": "What might John's financial status be?",
+      "answer": "Middle-class or wealthy",
+      "evidence": [
+        "D5:5"
+      ],
+      "category": 3
+    }
+  },
+  {
+    "question": "Who gave Maria's family money when she was younger and her family was going through tough times?",
+    "response": "There is no information available in the memories about who gave Maria's family money when she was younger and going through tough times.",
+    "answer": "Her aunt",
+    "metadata": {
+      "question": "Who gave Maria's family money when she was younger and her family was going through tough times?",
+      "answer": "Her aunt",
+      "evidence": [
+        "D6:9",
+        "D5:8"
+      ],
+      "category": 1
+    }
+  },
+  {
+    "question": "When did Maria meet Jean?",
+    "response": "Maria met Jean at the homeless shelter by February 25, 2023.",
+    "answer": "February 24, 2023",
+    "metadata": {
+      "question": "When did Maria meet Jean?",
+      "answer": "February 24, 2023",
+      "evidence": [
+        "D7:1"
+      ],
+      "category": 2
+    }
+  },
+  {
+    "question": "What people has Maria met and helped while volunteering?",
+    "response": "Maria has met and helped homeless shelter residents Laura and Cindy, both of whom expressed gratitude for the support she and other volunteers provided. She also helps other shelter residents by assisting them at the front desk and organizing meal events, providing food, beds, and community support.",
+    "answer": "David, Jean, Cindy, Laura",
+    "metadata": {
+      "question": "What people has Maria met and helped while volunteering?",
+      "answer": "David, Jean, Cindy, Laura",
+      "evidence": [
+        "D7:5",
+        "D6:5",
+        "D27:8",
+        "D21:19"
+      ],
+      "category": 1
+    }
+  },
+  {
+    "question": "What test has John taken multiple times?",
+    "response": "John has taken an aptitude test multiple times, with a retake recorded on 25 February 2023.",
+    "answer": "The military aptitude test",
+    "metadata": {
+      "question": "What test has John taken multiple times?",
+      "answer": "The military aptitude test",
+      "evidence": [
+        "D8:18",
+        "D3:11"
+      ],
+      "category": 1
+    }
+  },
+  {
+    "question": "When did Maria's grandmother pass away?",
+    "response": "The memories do not contain information about the date of Maria's grandmother's death.",
+    "answer": "The week before 6 March 2023",
+    "metadata": {
+      "question": "When did Maria's grandmother pass away?",
+      "answer": "The week before 6 March 2023",
+      "evidence": [
+        "D8:1"
+      ],
+      "category": 2
+    }
+  },
+  {
+    "question": "Would John be considered a patriotic person?",
+    "response": "Yes, John would be considered a patriotic person. He actively supports military veterans through advocacy projects, participates in veterans' rights marches, organizes community events to honor veterans, visits veteran hospitals, and teaches his family to respect and appreciate veterans' service.",
+    "answer": "Yes",
+    "metadata": {
+      "question": "Would John be considered a patriotic person?",
+      "answer": "Yes",
+      "evidence": [
+        "D8:18",
+        "D8:20"
+      ],
+      "category": 3
+    }
+  },
+  {
+    "question": "What writing classes has Maria taken?",
+    "response": "Maria has taken creative writing and poetry classes.",
+    "answer": "Poetry, creative writing",
+    "metadata": {
+      "question": "What writing classes has Maria taken?",
+      "answer": "Poetry, creative writing",
+      "evidence": [
+        "D9:1",
+        "D7:1"
+      ],
+      "category": 1
+    }
+  },
+  {
+    "question": "When did John get his degree?",
+    "response": "John got his degree in March 2023.",
+    "answer": "The week before 2 April 2023",
+    "metadata": {
+      "question": "When did John get his degree?",
+      "answer": "The week before 2 April 2023",
+      "evidence": [
+        "D9:2"
+      ],
+      "category": 2
+    }
+  },
+  {
+    "question": "What might John's degree be in?",
+    "response": "John's degree is likely in mechanical engineering.",
+    "answer": "Political science, Public administration, Public affairs",
+    "metadata": {
+      "question": "What might John's degree be in?",
+      "answer": "Political science, Public administration, Public affairs",
+      "evidence": [
+        "D9:6"
+      ],
+      "category": 3
+    }
+  },
+  {
+    "question": "Who did John go to yoga with?",
+    "response": "John goes to beginner yoga classes with a colleague.",
+    "answer": "Rob",
+    "metadata": {
+      "question": "Who did John go to yoga with?",
+      "answer": "Rob",
+      "evidence": [
+        "D7:16",
+        "D10:1"
+      ],
+      "category": 1
+    }
+  },
+  {
+    "question": "What damages have happened to John's car?",
+    "response": "John's car broke down on April 7, 2023, while he was commuting to work. There are no specific details about the damages, only that the breakdown caused financial strain.",
+    "answer": "Broken windshield, Car broke down",
+    "metadata": {
+      "question": "What damages have happened to John's car?",
+      "answer": "Broken windshield, Car broke down",
+      "evidence": [
+        "D11:1",
+        "D4:2"
+      ],
+      "category": 1
+    }
+  },
+  {
+    "question": "When did John take a road trip to the Pacific Northwest?",
+    "response": "John took his road trip to the Pacific Northwest in 2022.",
+    "answer": "2022",
+    "metadata": {
+      "question": "When did John take a road trip to the Pacific Northwest?",
+      "answer": "2022",
+      "evidence": [
+        "D11:3",
+        "D11:5"
+      ],
+      "category": 2
+    }
+  },
+  {
+    "question": "What areas of the U.S. has John been to or is planning to go to?",
+    "response": "John traveled in 2022 to the Pacific Northwest coast and national parks. In late July 2023, he visited a military memorial with his family. No specific future U.S. travel plans are noted.",
+    "answer": "Pacific northwest, east coast",
+    "metadata": {
+      "question": "What areas of the U.S. has John been to or is planning to go to?",
+      "answer": "Pacific northwest, east coast",
+      "evidence": [
+        "D11:5",
+        "D12:17"
+      ],
+      "category": 1
+    }
+  },
+  {
+    "question": "When did John go to a convention with colleagues?",
+    "response": "John attended the convention with colleagues in March 2023.",
+    "answer": "March 2023",
+    "metadata": {
+      "question": "When did John go to a convention with colleagues?",
+      "answer": "March 2023",
+      "evidence": [
+        "D12:9"
+      ],
+      "category": 2
+    }
+  },
+  {
+    "question": "What desserts has Maria made?",
+    "response": "There is no information in the memories about any desserts made by Maria.",
+    "answer": "Banana split sundae, Peach cobbler",
+    "metadata": {
+      "question": "What desserts has Maria made?",
+      "answer": "Banana split sundae, Peach cobbler",
+      "evidence": [
+        "D2:25",
+        "D13:18"
+      ],
+      "category": 1
+    }
+  },
+  {
+    "question": "When did John start boot camp with his family?",
+    "response": "John started boot camp with his family in March 2023.",
+    "answer": "April.2023",
+    "metadata": {
+      "question": "When did John start boot camp with his family?",
+      "answer": "April.2023",
+      "evidence": [
+        "D13:3"
+      ],
+      "category": 2
+    }
+  },
+  {
+    "question": "What European countries has Maria been to?",
+    "response": "Maria has been to Spain in Europe, as evidenced by her 2022 solo trip there.",
+    "answer": "Spain, England",
+    "metadata": {
+      "question": "What European countries has Maria been to?",
+      "answer": "Spain, England",
+      "evidence": [
+        "D13:24",
+        "D8:15"
+      ],
+      "category": 1
+    }
+  },
+  {
+    "question": "What has Maria done to feel closer to her faith?",
+    "response": "Maria has done several things to feel closer to her faith: she joined a nearby church on May 5, 2023, enhancing her sense of community and spiritual support; she bought a cross necklace as a symbol of her faith; and she gave talks at the homeless shelter where she volunteers, which brought her happiness and a deeper spiritual connection.",
+    "answer": "Join a local church, buy a cross necklace",
+    "metadata": {
+      "question": "What has Maria done to feel closer to her faith?",
+      "answer": "Join a local church, buy a cross necklace",
+      "evidence": [
+        "D14:10",
+        "D11:10"
+      ],
+      "category": 1
+    }
+  },
+  {
+    "question": "When did John have a party with veterans?",
+    "response": "John had a party with veterans around mid-May 2023.",
+    "answer": "The Friday before 20 May 2023",
+    "metadata": {
+      "question": "When did John have a party with veterans?",
+      "answer": "The Friday before 20 May 2023",
+      "evidence": [
+        "D15:11"
+      ],
+      "category": 2
+    }
+  },
+  {
+    "question": "What causes does John feel passionate about supporting?",
+    "response": "John is passionate about supporting education reform, infrastructure improvements, better housing and living conditions, and military veteran advocacy. He actively participates in community projects and political efforts focused on these causes, motivated by personal experiences and a desire to make a positive impact.",
+    "answer": "Veterans, schools, infrastructure",
+    "metadata": {
+      "question": "What causes does John feel passionate about supporting?",
+      "answer": "Veterans, schools, infrastructure",
+      "evidence": [
+        "D15:3",
+        "D12:5",
+        "D9:8",
+        "D1:8"
+      ],
+      "category": 1
+    }
+  },
+  {
+    "question": "What events is Maria planning for the homeless shelter funraiser?",
+    "response": "Maria is planning a ring-toss tournament and a chili cook-off for the homeless shelter fundraiser in May 2023.",
+    "answer": "Chili cook-off, ring-toss tournament",
+    "metadata": {
+      "question": "What events is Maria planning for the homeless shelter funraiser?",
+      "answer": "Chili cook-off, ring-toss tournament",
+      "evidence": [
+        "D16:4",
+        "D15:18"
+      ],
+      "category": 1
+    }
+  },
+  {
+    "question": "What shelters does Maria volunteer at?",
+    "response": "Maria volunteers at a homeless shelter since about August 2022 and at a local dog shelter once a month starting around June 2023.",
+    "answer": "The homeless shelter, the dog shelter",
+    "metadata": {
+      "question": "What shelters does Maria volunteer at?",
+      "answer": "The homeless shelter, the dog shelter",
+      "evidence": [
+        "D2:1",
+        "D11:10",
+        "D17:12"
+      ],
+      "category": 1
+    }
+  },
+  {
+    "question": "When did John get his dog Max?",
+    "response": "John got his dog Max around June 2013.",
+    "answer": "In 2013",
+    "metadata": {
+      "question": "When did John get his dog Max?",
+      "answer": "In 2013",
+      "evidence": [
+        "D17:1"
+      ],
+      "category": 2
+    }
+  },
+  {
+    "question": "What outdoor activities has John done with his colleagues?",
+    "response": "John has done mountaineering with his colleagues in early June 2023, during which they reached the summit together.",
+    "answer": "Hiking, mountaineering",
+    "metadata": {
+      "question": "What outdoor activities has John done with his colleagues?",
+      "answer": "Hiking, mountaineering",
+      "evidence": [
+        "D18:2",
+        "D16:2"
+      ],
+      "category": 1
+    }
+  },
+  {
+    "question": "What types of yoga has Maria practiced?",
+    "response": "Maria has practiced aerial yoga, particularly enjoying upside-down poses, and kundalini yoga.",
+    "answer": "Aerial, kundalini",
+    "metadata": {
+      "question": "What types of yoga has Maria practiced?",
+      "answer": "Aerial, kundalini",
+      "evidence": [
+        "D1:3",
+        "D18:15",
+        "D19:3"
+      ],
+      "category": 1
+    }
+  },
+  {
+    "question": "When did Maria join a gym?",
+    "response": "Maria joined a gym in mid-June 2023.",
+    "answer": "The week before 16 June 2023",
+    "metadata": {
+      "question": "When did Maria join a gym?",
+      "answer": "The week before 16 June 2023",
+      "evidence": [
+        "D19:1"
+      ],
+      "category": 2
+    }
+  },
+  {
+    "question": "What states has Maria vacationed at?",
+    "response": "Maria has vacationed in Oregon and Spain.",
+    "answer": "Oregon, Florida",
+    "metadata": {
+      "question": "What states has Maria vacationed at?",
+      "answer": "Oregon, Florida",
+      "evidence": [
+        "D19:23",
+        "D18:3"
+      ],
+      "category": 1
+    }
+  },
+  {
+    "question": "What music events has John attended?",
+    "response": "There are no records in the available memories indicating that John attended any music events.",
+    "answer": "Live music event, violin concert",
+    "metadata": {
+      "question": "What music events has John attended?",
+      "answer": "Live music event, violin concert",
+      "evidence": [
+        "D20:4",
+        "D8:12"
+      ],
+      "category": 1
+    }
+  },
+  {
+    "question": "What events for veterans has John participated in?",
+    "response": "John participated in several veterans-related events: In May 2023, he initiated a project supporting military veterans that included organizing a petition and hosting a social event where veterans shared stories. In early July 2023, he took part in a veterans' rights march and visited a veteran's hospital, meeting an elderly veteran named Samuel. By August 2023, John was advocating for veterans through a virtual support group, encouraging family and friends to join.",
+    "answer": "Petition, march, party, visiting veterans hospital, 5K charity run",
+    "metadata": {
+      "question": "What events for veterans has John participated in?",
+      "answer": "Petition, march, party, visiting veterans hospital, 5K charity run",
+      "evidence": [
+        "D15:1",
+        "D15:11",
+        "D21:22",
+        "D24:1",
+        "D29:4"
+      ],
+      "category": 1
+    }
+  },
+  {
+    "question": "When did Maria get in a car accident?",
+    "response": "July 2, 2023",
+    "answer": "July 2, 2023",
+    "metadata": {
+      "question": "When did Maria get in a car accident?",
+      "answer": "July 2, 2023",
+      "evidence": [
+        "D21:3"
+      ],
+      "category": 2
+    }
+  },
+  {
+    "question": "Around which US holiday did Maria get into a car accident?",
+    "response": "Maria's car accident occurred on July 2, 2023, around the US Independence Day holiday on July 4th.",
+    "answer": "Independence Day",
+    "metadata": {
+      "question": "Around which US holiday did Maria get into a car accident?",
+      "answer": "Independence Day",
+      "evidence": [
+        "D21:3"
+      ],
+      "category": 3
+    }
+  },
+  {
+    "question": "What are the names of John's children?",
+    "response": "John's children are named Kyle and Sara.",
+    "answer": "Kyle, Sara",
+    "metadata": {
+      "question": "What are the names of John's children?",
+      "answer": "Kyle, Sara",
+      "evidence": [
+        "D8:4",
+        "D22:7"
+      ],
+      "category": 1
+    }
+  },
+  {
+    "question": "Does John live close to a beach or the mountains?",
+    "response": "There is no explicit information in the memories indicating that John currently lives close to either a beach or the mountains.",
+    "answer": "beach",
+    "metadata": {
+      "question": "Does John live close to a beach or the mountains?",
+      "answer": "beach",
+      "evidence": [
+        "D22:15"
+      ],
+      "category": 3
+    }
+  },
+  {
+    "question": "What area was hit by a flood?",
+    "response": "John's old neighborhood West County was hit by a severe flood in late June or early July 2023.",
+    "answer": "West County",
+    "metadata": {
+      "question": "What area was hit by a flood?",
+      "answer": "West County",
+      "evidence": [
+        "D14:21",
+        "D23:1"
+      ],
+      "category": 1
+    }
+  },
+  {
+    "question": "When was John's old area hit with a flood?",
+    "response": "John's old area was hit with a flood in late June or early July 2023.",
+    "answer": "The week before 7 July 2023",
+    "metadata": {
+      "question": "When was John's old area hit with a flood?",
+      "answer": "The week before 7 July 2023",
+      "evidence": [
+        "D23:1"
+      ],
+      "category": 2
+    }
+  },
+  {
+    "question": "What activities has Maria done with her church friends?",
+    "response": "Maria has done several activities with her church friends, including a picnic in mid-July 2023 with games like charades and scavenger hunts, and a camping trip in early June 2023 which she described as a blast and a helpful mental break.",
+    "answer": "Hiking, picnic, volunteer work",
+    "metadata": {
+      "question": "What activities has Maria done with her church friends?",
+      "answer": "Hiking, picnic, volunteer work",
+      "evidence": [
+        "D25:2",
+        "D24:6",
+        "D28:5"
+      ],
+      "category": 1
+    }
+  },
+  {
+    "question": "Would John be open to moving to another country?",
+    "response": "There is no information indicating that John is open to moving to another country. His focus is on local community and political involvement.",
+    "answer": "No, he has goals specifically in the U.S. like joining the military and running for office.",
+    "metadata": {
+      "question": "Would John be open to moving to another country?",
+      "answer": "No, he has goals specifically in the U.S. like joining the military and running for office.",
+      "evidence": [
+        "D24:3",
+        "D7:2"
+      ],
+      "category": 3
+    }
+  },
+  {
+    "question": "When did Maria go hiking with her church friends?",
+    "response": "Maria went hiking with her church friends in mid July 2023.",
+    "answer": "The weekend before 22 July 2023",
+    "metadata": {
+      "question": "When did Maria go hiking with her church friends?",
+      "answer": "The weekend before 22 July 2023",
+      "evidence": [
+        "D25:2"
+      ],
+      "category": 2
+    }
+  },
+  {
+    "question": "What exercises has John done?",
+    "response": "John has done kickboxing, taekwondo, beginner yoga, and participates in family boot camps three times a week. He is also interested in trying rock climbing as a fitness challenge.",
+    "answer": "Weight training, Circuit training, Kickboxing, yoga",
+    "metadata": {
+      "question": "What exercises has John done?",
+      "answer": "Weight training, Circuit training, Kickboxing, yoga",
+      "evidence": [
+        "D25:17",
+        "D25:13",
+        "D10:1",
+        "D1:4"
+      ],
+      "category": 1
+    }
+  },
+  {
+    "question": "When did John have his first firefighter call-out?",
+    "response": "John had his first firefighter call-out around mid-August 2023.",
+    "answer": "The sunday before 3` July 2023",
+    "metadata": {
+      "question": "When did John have his first firefighter call-out?",
+      "answer": "The sunday before 3` July 2023",
+      "evidence": [
+        "D26:4"
+      ],
+      "category": 2
+    }
+  },
+  {
+    "question": "What food item did Maria drop off at the homeless shelter?",
+    "response": "There is no specific mention in the memories about the exact food item Maria dropped off at the homeless shelter.",
+    "answer": "Cakes",
+    "metadata": {
+      "question": "What food item did Maria drop off at the homeless shelter?",
+      "answer": "Cakes",
+      "evidence": [
+        "D26:1",
+        "D25:19"
+      ],
+      "category": 1
+    }
+  },
+  {
+    "question": "What attributes describe John?",
+    "response": "John is persistent, community-oriented, and motivated by family and social causes. He is physically active, practicing kickboxing, taekwondo, yoga, and rock climbing. He is deeply interested in local politics, focusing on education, infrastructure, and housing improvements. He is involved in community service including veteran support and fire-fighting. John values family bonds, enjoys nature and mental well-being activities, and is committed to personal growth and social impact.",
+    "answer": "Selfless, family-oriented, passionate, rational",
+    "metadata": {
+      "question": "What attributes describe John?",
+      "answer": "Selfless, family-oriented, passionate, rational",
+      "evidence": [
+        "D26:6",
+        "D2:14",
+        "D3:5",
+        "D4:6"
+      ],
+      "category": 3
+    }
+  },
+  {
+    "question": "When did Maria start volunteering at the homeless shelter?",
+    "response": "Maria started volunteering at the homeless shelter around August 2022.",
+    "answer": "Around August 2022",
+    "metadata": {
+      "question": "When did Maria start volunteering at the homeless shelter?",
+      "answer": "Around August 2022",
+      "evidence": [
+        "D27:4"
+      ],
+      "category": 2
+    }
+  },
+  {
+    "question": "Who have written notes of gratitude to Maria?",
+    "response": "The notes of gratitude to Maria were written by Cindy and Laura, residents at the homeless shelter where Maria volunteers.",
+    "answer": "Cindy, Laura",
+    "metadata": {
+      "question": "Who have written notes of gratitude to Maria?",
+      "answer": "Cindy, Laura",
+      "evidence": [
+        "D27:8",
+        "D21:19"
+      ],
+      "category": 1
+    }
+  },
+  {
+    "question": "When did John help renovate his hometown community center?",
+    "response": "John helped renovate his hometown community center in 2022.",
+    "answer": "2022",
+    "metadata": {
+      "question": "When did John help renovate his hometown community center?",
+      "answer": "2022",
+      "evidence": [
+        "D28:11"
+      ],
+      "category": 2
+    }
+  },
+  {
+    "question": "When did Maria take up community work with her church friends?",
+    "response": "Maria took up community work with her church friends starting on May 5, 2023.",
+    "answer": "August 4, 2023",
+    "metadata": {
+      "question": "When did Maria take up community work with her church friends?",
+      "answer": "August 4, 2023",
+      "evidence": [
+        "D28:8"
+      ],
+      "category": 2
+    }
+  },
+  {
+    "question": "When did Maria receive a medal from the homeless shelter?",
+    "response": "There is no information in the memories about Maria receiving a medal from the homeless shelter.",
+    "answer": "The week before 9 August 2023",
+    "metadata": {
+      "question": "When did Maria receive a medal from the homeless shelter?",
+      "answer": "The week before 9 August 2023",
+      "evidence": [
+        "D29:1"
+      ],
+      "category": 2
+    }
+  },
+  {
+    "question": "When did John participate in a 5K charity run?",
+    "response": "There is no explicit record in the memories indicating that John participated in a 5K charity run. Maria participated in a 5K charity run for a homeless shelter around early April 2023, but John did not participate in that event as per available information.",
+    "answer": "first weekend of August 2023",
+    "metadata": {
+      "question": "When did John participate in a 5K charity run?",
+      "answer": "first weekend of August 2023",
+      "evidence": [
+        "D29:2",
+        "D29:4"
+      ],
+      "category": 2
+    }
+  },
+  {
+    "question": "What causes has John done events for?",
+    "response": "John has done events for causes including military veterans' support and rights advocacy, community improvement especially addressing flood damage and infrastructure in his old area, and participation in tech for good community impact events.",
+    "answer": "Toy drive, Community food drive, veterans, domestic violence",
+    "metadata": {
+      "question": "What causes has John done events for?",
+      "answer": "Toy drive, Community food drive, veterans, domestic violence",
+      "evidence": [
+        "D3:5",
+        "D6:12",
+        "D29:4",
+        "D29:10"
+      ],
+      "category": 1
+    }
+  },
+  {
+    "question": "When did Maria get Coco?",
+    "response": "Maria got Coco around late July 2023.",
+    "answer": "Two weeks before 11 August 2023",
+    "metadata": {
+      "question": "When did Maria get Coco?",
+      "answer": "Two weeks before 11 August 2023",
+      "evidence": [
+        "D30:1"
+      ],
+      "category": 2
+    }
+  },
+  {
+    "question": "When did John go on a camping trip with Max?",
+    "response": "John went on a camping trip with Max in summer 2022.",
+    "answer": "The summer of 2022",
+    "metadata": {
+      "question": "When did John go on a camping trip with Max?",
+      "answer": "The summer of 2022",
+      "evidence": [
+        "D30:6"
+      ],
+      "category": 2
+    }
+  },
+  {
+    "question": "What are Maria's dogs' names?",
+    "response": "Maria's dogs' names are Coco and Shadow.",
+    "answer": "Coco, Shadow",
+    "metadata": {
+      "question": "What are Maria's dogs' names?",
+      "answer": "Coco, Shadow",
+      "evidence": [
+        "D30:1",
+        "D31:4"
+      ],
+      "category": 1
+    }
+  },
+  {
+    "question": "When did Maria adopt Shadow?",
+    "response": "Maria adopted Shadow in early August 2023.",
+    "answer": "The week before 13 August 2023",
+    "metadata": {
+      "question": "When did Maria adopt Shadow?",
+      "answer": "The week before 13 August 2023",
+      "evidence": [
+        "D31:2"
+      ],
+      "category": 2
+    }
+  },
+  {
+    "question": "How many dogs has Maria adopted from the dog shelter she volunteers at?",
+    "response": "Maria has adopted two dogs from the dog shelter she volunteers at: Coco in late July 2023 and Shadow in early August 2023.",
+    "answer": "two",
+    "metadata": {
+      "question": "How many dogs has Maria adopted from the dog shelter she volunteers at?",
+      "answer": "two",
+      "evidence": [
+        "D30:1",
+        "D31:2"
+      ],
+      "category": 1
+    }
+  },
+  {
+    "question": "How many weeks passed between Maria adopting Coco and Shadow?",
+    "response": "Maria adopted Coco in late July 2023 and Shadow in early August 2023, about 1 to 2 weeks later.",
+    "answer": "two weeks",
+    "metadata": {
+      "question": "How many weeks passed between Maria adopting Coco and Shadow?",
+      "answer": "two weeks",
+      "evidence": [
+        "D30:1",
+        "D31:2"
+      ],
+      "category": 2
+    }
+  },
+  {
+    "question": "What job might Maria pursue in the future?",
+    "response": "Maria is likely to pursue a future job or career related to community service or nonprofit charity work, given her strong ongoing commitment and fulfillment from volunteering at homeless and animal shelters.",
+    "answer": "Shelter coordinator, Counselor",
+    "metadata": {
+      "question": "What job might Maria pursue in the future?",
+      "answer": "Shelter coordinator, Counselor",
+      "evidence": [
+        "D32:14",
+        "D5:8",
+        "D11:10",
+        "D27:4"
+      ],
+      "category": 3
+    }
+  },
+  {
+    "question": "What is John's main focus in local politics?",
+    "response": "John's main focus in local politics is improving local infrastructure, including power stability, road safety, and housing conditions, particularly in his old neighborhood West County.",
+    "answer": "Improving education and infrastructure",
+    "metadata": {
+      "question": "What is John's main focus in local politics?",
+      "answer": "Improving education and infrastructure",
+      "evidence": [
+        "D1:8"
+      ],
+      "category": 4
+    }
+  },
+  {
+    "question": "What sparked John's interest in improving education and infrastructure in the community?",
+    "response": "John's interest in improving education and infrastructure in the community was sparked by his childhood experiences and recent events such as a power cut and poor road conditions in his old neighborhood West County.",
+    "answer": "Seeing how lack of education and crumbling infrastructure affected his neighborhood while growing up.",
+    "metadata": {
+      "question": "What sparked John's interest in improving education and infrastructure in the community?",
+      "answer": "Seeing how lack of education and crumbling infrastructure affected his neighborhood while growing up.",
+      "evidence": [
+        "D1:10"
+      ],
+      "category": 4
+    }
+  },
+  {
+    "question": "How did the extra funding help the school shown in the photo shared by John?",
+    "response": "There is no information in the memories about how extra funding specifically helped the school shown in the photo shared by John. However, John has been volunteering as a mentor at a local school, positively impacting student confidence and skills as of August 2023.",
+    "answer": "Enabled needed repairs and renovations, making the learning environment safer and more modern for students.",
+    "metadata": {
+      "question": "How did the extra funding help the school shown in the photo shared by John?",
+      "answer": "Enabled needed repairs and renovations, making the learning environment safer and more modern for students.",
+      "evidence": [
+        "D1:12"
+      ],
+      "category": 4
+    }
+  },
+  {
+    "question": "What type of workout class did Maria start doing in December 2023?",
+    "response": "There is no information in the memories about Maria starting any workout class in December 2023.",
+    "answer": "aerial yoga",
+    "metadata": {
+      "question": "What type of workout class did Maria start doing in December 2023?",
+      "answer": "aerial yoga",
+      "evidence": [
+        "D1:3"
+      ],
+      "category": 4
+    }
+  },
+  {
+    "question": "What did Maria donate to a homeless shelter in December 2023?",
+    "response": "There is no memory record of Maria donating anything to a homeless shelter specifically in December 2023.",
+    "answer": "old car",
+    "metadata": {
+      "question": "What did Maria donate to a homeless shelter in December 2023?",
+      "answer": "old car",
+      "evidence": [
+        "D2:1"
+      ],
+      "category": 4
+    }
+  },
+  {
+    "question": "What kind of meal did John and his family make together in the photo shared by John?",
+    "response": "John and his family made pizza together in the photo shared by John.",
+    "answer": "pizza",
+    "metadata": {
+      "question": "What kind of meal did John and his family make together in the photo shared by John?",
+      "answer": "pizza",
+      "evidence": [
+        "D2:24"
+      ],
+      "category": 4
+    }
+  },
+  {
+    "question": "What kind of online group did John join?",
+    "response": "John joined a virtual support group advocating for military veterans.",
+    "answer": "service-focused online group",
+    "metadata": {
+      "question": "What kind of online group did John join?",
+      "answer": "service-focused online group",
+      "evidence": [
+        "D3:1"
+      ],
+      "category": 4
+    }
+  },
+  {
+    "question": "What kind of activities did John and his mates from the online group do as part of their service efforts?",
+    "response": "John and his online group mates engaged in several service activities including advocating for military veterans through a virtual support group, organizing petitions and social events for veterans, joining a local fire-fighting brigade with community fundraising, and mentoring local school students.",
+    "answer": "gave out food and supplies at a homeless shelter, organized a toy drive for kids in need",
+    "metadata": {
+      "question": "What kind of activities did John and his mates from the online group do as part of their service efforts?",
+      "answer": "gave out food and supplies at a homeless shelter, organized a toy drive for kids in need",
+      "evidence": [
+        "D3:5"
+      ],
+      "category": 4
+    }
+  },
+  {
+    "question": "Who inspired Maria to start volunteering?",
+    "response": "Maria was inspired to start volunteering by witnessing a struggling family and was further motivated by a heartfelt gratitude letter from a homeless shelter resident named Laura.",
+    "answer": "Her aunt",
+    "metadata": {
+      "question": "Who inspired Maria to start volunteering?",
+      "answer": "Her aunt",
+      "evidence": [
+        "D5:8"
+      ],
+      "category": 4
+    }
+  },
+  {
+    "question": "Why did Maria sit with the little girl at the shelter event in February 2023?",
+    "response": "Maria sat with the little girl at the shelter event in February 2023 out of compassion and to provide comfort and support, motivated by her commitment to help struggling families and individuals at the homeless shelter where she volunteers.",
+    "answer": "The girl seemed sad and had no other family",
+    "metadata": {
+      "question": "Why did Maria sit with the little girl at the shelter event in February 2023?",
+      "answer": "The girl seemed sad and had no other family",
+      "evidence": [
+        "D5:10"
+      ],
+      "category": 4
+    }
+  },
+  {
+    "question": "What did Jean go through before meeting Maria?",
+    "response": "Before meeting Maria, John (Jean) returned from a family road trip in December 2022, practiced kickboxing and taekwondo, and engaged in family boot camps for fitness and bonding. He was deeply interested in local politics, focusing on education, infrastructure, and housing improvements, motivated by childhood experiences and recent community challenges like power cuts and poor roads in West County. He graduated in March 2023 and was considering a policymaking career. He also valued family support, enjoyed games, climbing, cooking pizza, picnics, and park visits with his child.",
+    "answer": "divorce, job loss, homelessness",
+    "metadata": {
+      "question": "What did Jean go through before meeting Maria?",
+      "answer": "divorce, job loss, homelessness",
+      "evidence": [
+        "D7:7"
+      ],
+      "category": 4
+    }
+  },
+  {
+    "question": "Why did John decide to run for office again?",
+    "response": "John decided to run for office again in early May 2023, motivated by his persistence to make a positive difference in his community. Key motivators included recent power cuts and poor road conditions in his old neighborhood West County, as well as a desire to improve infrastructure, road safety, and housing conditions. He also planned to start community projects addressing these issues.",
+    "answer": "saw the impact he could make in the community through politics",
+    "metadata": {
+      "question": "Why did John decide to run for office again?",
+      "answer": "saw the impact he could make in the community through politics",
+      "evidence": [
+        "D7:4"
+      ],
+      "category": 4
+    }
+  },
+  {
+    "question": "What activity did John's colleague, Rob, invite him to?",
+    "response": "John's colleague Rob invited him to join a beginner's yoga class.",
+    "answer": "beginner's yoga class",
+    "metadata": {
+      "question": "What activity did John's colleague, Rob, invite him to?",
+      "answer": "beginner's yoga class",
+      "evidence": [
+        "D7:16"
+      ],
+      "category": 4
+    }
+  },
+  {
+    "question": "What is the name of John's one-year-old child?",
+    "response": "John's one-year-old child's name is Kyle.",
+    "answer": "Kyle",
+    "metadata": {
+      "question": "What is the name of John's one-year-old child?",
+      "answer": "Kyle",
+      "evidence": [
+        "D8:4"
+      ],
+      "category": 4
+    }
+  },
+  {
+    "question": "How often does John take his kids to the park?",
+    "response": "John takes his kids to the park regularly as part of their family activities, with visits noted at least several times during 2023, including in early June and ongoing outdoor family fun as of August 2023.",
+    "answer": "A few times a week",
+    "metadata": {
+      "question": "How often does John take his kids to the park?",
+      "answer": "A few times a week",
+      "evidence": [
+        "D8:8"
+      ],
+      "category": 4
+    }
+  },
+  {
+    "question": "What did Maria make for her home to remind her of a trip to England?",
+    "response": "There is no available information in the memories about what Maria made for her home to remind her of a trip to England.",
+    "answer": "painting of a castle on a hill",
+    "metadata": {
+      "question": "What did Maria make for her home to remind her of a trip to England?",
+      "answer": "painting of a castle on a hill",
+      "evidence": [
+        "D8:15"
+      ],
+      "category": 4
+    }
+  },
+  {
+    "question": "Where did Maria get the idea for the castle shadow box in her home?",
+    "response": "There is no information available in the memories about where Maria got the idea for the castle shadow box in her home.",
+    "answer": "England",
+    "metadata": {
+      "question": "Where did Maria get the idea for the castle shadow box in her home?",
+      "answer": "England",
+      "evidence": [
+        "D8:15"
+      ],
+      "category": 4
+    }
+  },
+  {
+    "question": "What did John receive a certificate for?",
+    "response": "There is no information in the memories about John receiving a certificate.",
+    "answer": "completion of a university degree",
+    "metadata": {
+      "question": "What did John receive a certificate for?",
+      "answer": "completion of a university degree",
+      "evidence": [
+        "D9:2"
+      ],
+      "category": 4
+    }
+  },
+  {
+    "question": "What areas is John particularly interested in for policymaking?",
+    "response": "John is particularly interested in policymaking areas of education reform, infrastructure improvements (including power stability and road safety), and housing conditions, especially focused on his old neighborhood, West County.",
+    "answer": "education and infrastructure",
+    "metadata": {
+      "question": "What areas is John particularly interested in for policymaking?",
+      "answer": "education and infrastructure",
+      "evidence": [
+        "D9:8"
+      ],
+      "category": 4
+    }
+  },
+  {
+    "question": "What did Maria participate in last weekend before April 10, 2023?",
+    "response": "Maria participated in organizing and preparing a meal event for homeless shelter residents in early April 2023.",
+    "answer": "a 5K charity run",
+    "metadata": {
+      "question": "What did Maria participate in last weekend before April 10, 2023?",
+      "answer": "a 5K charity run",
+      "evidence": [
+        "D10:10"
+      ],
+      "category": 4
+    }
+  },
+  {
+    "question": "What event did John volunteer at last weekend?",
+    "response": "John volunteered last weekend at a community event with the local fire-fighting brigade, where he helped raise donations that contributed to purchasing a new fire truck.",
+    "answer": "career fair at a local school",
+    "metadata": {
+      "question": "What event did John volunteer at last weekend?",
+      "answer": "career fair at a local school",
+      "evidence": [
+        "D10:13"
+      ],
+      "category": 4
+    }
+  },
+  {
+    "question": "What did John do that put a strain on his wallet?",
+    "response": "John's car broke down in early April 2023 while commuting to work, which caused financial strain on his wallet.",
+    "answer": "His car broke down",
+    "metadata": {
+      "question": "What did John do that put a strain on his wallet?",
+      "answer": "His car broke down",
+      "evidence": [
+        "D11:1"
+      ],
+      "category": 4
+    }
+  },
+  {
+    "question": "Where did John explore on a road trip last year?",
+    "response": "John explored the Pacific Northwest coast and national parks on his road trip in 2022.",
+    "answer": "Pacific Northwest",
+    "metadata": {
+      "question": "Where did John explore on a road trip last year?",
+      "answer": "Pacific Northwest",
+      "evidence": [
+        "D11:5"
+      ],
+      "category": 4
+    }
+  },
+  {
+    "question": "What topic has John been blogging about recently?",
+    "response": "John has been blogging recently about political issues, especially education reform and infrastructure development.",
+    "answer": "politics and the government",
+    "metadata": {
+      "question": "What topic has John been blogging about recently?",
+      "answer": "politics and the government",
+      "evidence": [
+        "D12:1"
+      ],
+      "category": 4
+    }
+  },
+  {
+    "question": "Why did John start blogging about politics and policies?",
+    "response": "John began blogging about politics and policies to raise awareness and foster positive community impact, especially focusing on education reform and infrastructure development. His motivation was driven by local issues such as power outages and poor road conditions in his neighborhood, aiming to empower people and improve their living conditions.",
+    "answer": "raise awareness and start conversations to create positive change",
+    "metadata": {
+      "question": "Why did John start blogging about politics and policies?",
+      "answer": "raise awareness and start conversations to create positive change",
+      "evidence": [
+        "D12:3"
+      ],
+      "category": 4
+    }
+  },
+  {
+    "question": "What was the focus of John's recent research and writing on his blog?",
+    "response": "John's recent research and blog writing focus on political issues, especially education reform and infrastructure development, aiming to raise awareness and create positive community impact.",
+    "answer": "education reform and infrastructure development",
+    "metadata": {
+      "question": "What was the focus of John's recent research and writing on his blog?",
+      "answer": "education reform and infrastructure development",
+      "evidence": [
+        "D12:5"
+      ],
+      "category": 4
+    }
+  },
+  {
+    "question": "What did John attend with his colleagues in March 2023?",
+    "response": "John attended a convention for tech enthusiasts focused on community impact with his colleagues in March 2023.",
+    "answer": "a tech-for-good convention",
+    "metadata": {
+      "question": "What did John attend with his colleagues in March 2023?",
+      "answer": "a tech-for-good convention",
+      "evidence": [
+        "D12:9"
+      ],
+      "category": 2
+    }
+  },
+  {
+    "question": "How often does John work out with his family?",
+    "response": "John works out with his family three times a week at family boot camps.",
+    "answer": "Three times a week",
+    "metadata": {
+      "question": "How often does John work out with his family?",
+      "answer": "Three times a week",
+      "evidence": [
+        "D13:7"
+      ],
+      "category": 4
+    }
+  },
+  {
+    "question": "How has John's fitness improved since starting boot camps with his family?",
+    "response": "Since starting family boot camps in March-April 2023, John's fitness has improved with increased energy, strength, endurance, and motivation. The routine also supports family bonding and helps encourage healthy, active habits for his children.",
+    "answer": "More energy, gains in strength and endurance",
+    "metadata": {
+      "question": "How has John's fitness improved since starting boot camps with his family?",
+      "answer": "More energy, gains in strength and endurance",
+      "evidence": [
+        "D13:5"
+      ],
+      "category": 4
+    }
+  },
+  {
+    "question": "What kind of food did Maria have on her dinner spread iwth her mother?",
+    "response": "There is no specific information in the memories about the kinds of food Maria had on her dinner spread with her mother.",
+    "answer": "Salads, sandwiches, homemade desserts",
+    "metadata": {
+      "question": "What kind of food did Maria have on her dinner spread iwth her mother?",
+      "answer": "Salads, sandwiches, homemade desserts",
+      "evidence": [
+        "D13:18"
+      ],
+      "category": 4
+    }
+  },
+  {
+    "question": "What activity did Maria and her mom do together in May 2023?",
+    "response": "There is no specific mention in the memories of an activity that Maria and her mom did together in May 2023.",
+    "answer": "Made dinner together",
+    "metadata": {
+      "question": "What activity did Maria and her mom do together in May 2023?",
+      "answer": "Made dinner together",
+      "evidence": [
+        "D13:16"
+      ],
+      "category": 4
+    }
+  },
+  {
+    "question": "What did Maria do to feel closer to a community and her faith?",
+    "response": "Maria joined a nearby church on May 5, 2023, to feel closer to community and strengthen her faith. She also volunteers actively at a homeless shelter, giving talks, organizing meal events, and bought a cross necklace as a symbol of her faith. Additionally, she volunteers monthly at a local dog shelter, enhancing her community connection.",
+    "answer": "joined a nearby church",
+    "metadata": {
+      "question": "What did Maria do to feel closer to a community and her faith?",
+      "answer": "joined a nearby church",
+      "evidence": [
+        "D14:10"
+      ],
+      "category": 4
+    }
+  },
+  {
+    "question": "Why did Maria join a nearby church recently?",
+    "response": "Maria joined the nearby church on May 5, 2023, to feel closer to community and strengthen her faith, which enhanced her sense of belonging and spiritual support.",
+    "answer": "to feel closer to a community and her faith",
+    "metadata": {
+      "question": "Why did Maria join a nearby church recently?",
+      "answer": "to feel closer to a community and her faith",
+      "evidence": [
+        "D14:10"
+      ],
+      "category": 4
+    }
+  },
+  {
+    "question": "What did John host for the veterans in May 2023 as part of the project?",
+    "response": "John hosted a party for veterans to share their stories in May 2023 as part of his project to support military veterans.",
+    "answer": "a small party to share their stories",
+    "metadata": {
+      "question": "What did John host for the veterans in May 2023 as part of the project?",
+      "answer": "a small party to share their stories",
+      "evidence": [
+        "D15:13"
+      ],
+      "category": 4
+    }
+  },
+  {
+    "question": "What did John and the veterans do during the small party?",
+    "response": "During the small party John organized for veterans in May 2023, the veterans shared their personal stories, fostering camaraderie, making connections, and building a sense of community and support.",
+    "answer": "share stories and make connections",
+    "metadata": {
+      "question": "What did John and the veterans do during the small party?",
+      "answer": "share stories and make connections",
+      "evidence": [
+        "D15:13"
+      ],
+      "category": 4
+    }
+  },
+  {
+    "question": "What emotions did John feel during the small party with the veterans?",
+    "response": "John felt passionate, appreciative, and motivated during the small party with the veterans. The event fostered camaraderie and a strong sense of community support.",
+    "answer": "heartwarming",
+    "metadata": {
+      "question": "What emotions did John feel during the small party with the veterans?",
+      "answer": "heartwarming",
+      "evidence": [
+        "D15:13"
+      ],
+      "category": 4
+    }
+  },
+  {
+    "question": "What event is Maria getting ready for at the shelter on May 25, 2023?",
+    "response": "Maria is getting ready for a ring-toss tournament fundraiser event at the shelter on May 25, 2023.",
+    "answer": "fundraiser",
+    "metadata": {
+      "question": "What event is Maria getting ready for at the shelter on May 25, 2023?",
+      "answer": "fundraiser",
+      "evidence": [
+        "D16:2"
+      ],
+      "category": 4
+    }
+  },
+  {
+    "question": "What does Maria need to spread the word about for the fundraiser for the volunteer shelter?",
+    "response": "Maria needs to spread the word about a ring-toss tournament fundraiser event she is organizing for the homeless shelter to raise funds and increase community support for the residents.",
+    "answer": "chili cook-off",
+    "metadata": {
+      "question": "What does Maria need to spread the word about for the fundraiser for the volunteer shelter?",
+      "answer": "chili cook-off",
+      "evidence": [
+        "D16:4"
+      ],
+      "category": 4
+    }
+  },
+  {
+    "question": "What was the name of the pet that John had to say goodbye to on 3 June, 2023?",
+    "response": "John had to say goodbye to his pet dog Max on 3 June 2023.",
+    "answer": "Max",
+    "metadata": {
+      "question": "What was the name of the pet that John had to say goodbye to on 3 June, 2023?",
+      "answer": "Max",
+      "evidence": [
+        "D17:1"
+      ],
+      "category": 4
+    }
+  },
+  {
+    "question": "How long was Max a part of John's family?",
+    "response": "Max was a part of John's family for 10 years.",
+    "answer": "10 years",
+    "metadata": {
+      "question": "How long was Max a part of John's family?",
+      "answer": "10 years",
+      "evidence": [
+        "D17:1"
+      ],
+      "category": 4
+    }
+  },
+  {
+    "question": "How does John plan to honor the memories of his beloved pet?",
+    "response": "John plans to honor the memories of his beloved pet Max by considering adopting a rescue dog to teach his children responsibility and compassion, cherishing the lessons of love and loyalty Max brought to their family.",
+    "answer": "By considering adopting a rescue dog",
+    "metadata": {
+      "question": "How does John plan to honor the memories of his beloved pet?",
+      "answer": "By considering adopting a rescue dog",
+      "evidence": [
+        "D17:11"
+      ],
+      "category": 4
+    }
+  },
+  {
+    "question": "What important values does John want to teach his kids through adopting a rescue dog?",
+    "response": "John wants to teach his kids responsibility and compassion through adopting a rescue dog.",
+    "answer": "Responsibility and compassion",
+    "metadata": {
+      "question": "What important values does John want to teach his kids through adopting a rescue dog?",
+      "answer": "Responsibility and compassion",
+      "evidence": [
+        "D17:11"
+      ],
+      "category": 4
+    }
+  },
+  {
+    "question": "What new activity did Maria start recently, as mentioned on 3 June, 2023?",
+    "response": "Maria recently started camping with her church friends in early June 2023, which she found refreshing and enjoyable.",
+    "answer": "volunteering at a local dog shelter once a month",
+    "metadata": {
+      "question": "What new activity did Maria start recently, as mentioned on 3 June, 2023?",
+      "answer": "volunteering at a local dog shelter once a month",
+      "evidence": [
+        "D17:12"
+      ],
+      "category": 4
+    }
+  },
+  {
+    "question": "What did Maria say it was like being at the waterfall in Oregon?",
+    "response": "Maria described being at the waterfall in Oregon as \"magical and calming.\"",
+    "answer": "Like being in a fairy tale",
+    "metadata": {
+      "question": "What did Maria say it was like being at the waterfall in Oregon?",
+      "answer": "Like being in a fairy tale",
+      "evidence": [
+        "D18:7"
+      ],
+      "category": 4
+    }
+  },
+  {
+    "question": "What does Maria say she feels when doing upside-down yoga poses?",
+    "response": "Maria feels free and light when doing upside-down yoga poses, which help her focus on her body and find peace.",
+    "answer": "Free and light",
+    "metadata": {
+      "question": "What does Maria say she feels when doing upside-down yoga poses?",
+      "answer": "Free and light",
+      "evidence": [
+        "D18:17"
+      ],
+      "category": 4
+    }
+  },
+  {
+    "question": "What exciting news did Maria share on 16 June, 2023?",
+    "response": "On 16 June 2023, Maria shared the exciting news that she joined a gym and began a fitness routine focused on strength, endurance, and kundalini yoga.",
+    "answer": "joined a gym",
+    "metadata": {
+      "question": "What exciting news did Maria share on 16 June, 2023?",
+      "answer": "joined a gym",
+      "evidence": [
+        "D19:1"
+      ],
+      "category": 4
+    }
+  },
+  {
+    "question": "What yoga activity has Maria been trying to improve her strength and endurance?",
+    "response": "Maria has been trying kundalini yoga to improve her strength and endurance.",
+    "answer": "kundalini yoga",
+    "metadata": {
+      "question": "What yoga activity has Maria been trying to improve her strength and endurance?",
+      "answer": "kundalini yoga",
+      "evidence": [
+        "D19:3"
+      ],
+      "category": 4
+    }
+  },
+  {
+    "question": "What did John recently get promoted to?",
+    "response": "John was promoted to assistant manager in mid-June 2023.",
+    "answer": "assistant manager",
+    "metadata": {
+      "question": "What did John recently get promoted to?",
+      "answer": "assistant manager",
+      "evidence": [
+        "D19:8"
+      ],
+      "category": 4
+    }
+  },
+  {
+    "question": "What was one of the biggest challenges John faced in his journey to becoming assistant manager?",
+    "response": "One of the biggest challenges John faced in his journey to becoming assistant manager was overcoming technical difficulties and self-doubt at work.",
+    "answer": "self-doubt",
+    "metadata": {
+      "question": "What was one of the biggest challenges John faced in his journey to becoming assistant manager?",
+      "answer": "self-doubt",
+      "evidence": [
+        "D19:12"
+      ],
+      "category": 4
+    }
+  },
+  {
+    "question": "How does John describe the support he received during his journey to becoming assistant manager?",
+    "response": "John describes the support he received during his journey to becoming assistant manager as coming from his family and his own perseverance, which helped him overcome challenges including technical difficulties and self-doubt.",
+    "answer": "having support at home and his own grit",
+    "metadata": {
+      "question": "How does John describe the support he received during his journey to becoming assistant manager?",
+      "answer": "having support at home and his own grit",
+      "evidence": [
+        "D19:12"
+      ],
+      "category": 4
+    }
+  },
+  {
+    "question": "What kind of event did John and his family attend in June 2023?",
+    "response": "John and his family attended a joyful day at the park with playground activities in early June 2023.",
+    "answer": "live music event",
+    "metadata": {
+      "question": "What kind of event did John and his family attend in June 2023?",
+      "answer": "live music event",
+      "evidence": [
+        "D20:4"
+      ],
+      "category": 4
+    }
+  },
+  {
+    "question": "Why did Maria need to help her cousin find a new place to live?",
+    "response": "Maria's cousin had to leave her previous home suddenly due to difficult and stressful circumstances around July 2023, prompting Maria to help her find a new place to live.",
+    "answer": "Her cousin had to leave and find a new place in a hurry.",
+    "metadata": {
+      "question": "Why did Maria need to help her cousin find a new place to live?",
+      "answer": "Her cousin had to leave and find a new place in a hurry.",
+      "evidence": [
+        "D21:5"
+      ],
+      "category": 4
+    }
+  },
+  {
+    "question": "What event did John participate in to show support for veterans' rights?",
+    "response": "John participated in a veterans' rights march event in early July 2023.",
+    "answer": "marching event",
+    "metadata": {
+      "question": "What event did John participate in to show support for veterans' rights?",
+      "answer": "marching event",
+      "evidence": [
+        "D21:22"
+      ],
+      "category": 4
+    }
+  },
+  {
+    "question": "What inspired John to join the marching event for veterans' rights?",
+    "response": "John was inspired to join the veterans' rights marching event by his deep respect for the military, the importance he places on standing up for one's beliefs, and the motivation he gained from shared values and activism with like-minded people.",
+    "answer": "Respect for the military and the desire to show support",
+    "metadata": {
+      "question": "What inspired John to join the marching event for veterans' rights?",
+      "answer": "Respect for the military and the desire to show support",
+      "evidence": [
+        "D21:24"
+      ],
+      "category": 4
+    }
+  },
+  {
+    "question": "How often does John get to see sunsets like the one he shared with Maria?",
+    "response": "John typically watches sunsets, including those shared with Maria, on a weekly basis as part of his routine for mental peace and motivation.",
+    "answer": "At least once a week",
+    "metadata": {
+      "question": "How often does John get to see sunsets like the one he shared with Maria?",
+      "answer": "At least once a week",
+      "evidence": [
+        "D22:17"
+      ],
+      "category": 4
+    }
+  },
+  {
+    "question": "What natural disaster affected John's old area on 7 July, 2023?",
+    "response": "A severe flood affected John's old area on 7 July 2023.",
+    "answer": "Flood",
+    "metadata": {
+      "question": "What natural disaster affected John's old area on 7 July, 2023?",
+      "answer": "Flood",
+      "evidence": [
+        "D23:1"
+      ],
+      "category": 4
+    }
+  },
+  {
+    "question": "How did the flood impact the homes in John's old area?",
+    "response": "The flood in early July 2023 severely damaged homes in John's old area due to poor infrastructure.",
+    "answer": "Lots of homes were ruined.",
+    "metadata": {
+      "question": "How did the flood impact the homes in John's old area?",
+      "answer": "Lots of homes were ruined.",
+      "evidence": [
+        "D23:1"
+      ],
+      "category": 4
+    }
+  },
+  {
+    "question": "What motivated Maria and John to discuss potential solutions for their community on 7 July, 2023?",
+    "response": "On 7 July 2023, Maria and John were motivated to discuss potential community solutions due to a severe flood in John's old neighborhood that caused significant home and infrastructure damage. John organized a community meeting to address these issues and invited Maria to collaborate in finding solutions.",
+    "answer": "Flood in John's old area",
+    "metadata": {
+      "question": "What motivated Maria and John to discuss potential solutions for their community on 7 July, 2023?",
+      "answer": "Flood in John's old area",
+      "evidence": [
+        "D23:1"
+      ],
+      "category": 4
+    }
+  },
+  {
+    "question": "What did Maria plan to do later on the evening of 7 July, 2023?",
+    "response": "There is no specific information available about Maria's plans for the evening of 7 July 2023.",
+    "answer": "have dinner with friends from the gym",
+    "metadata": {
+      "question": "What did Maria plan to do later on the evening of 7 July, 2023?",
+      "answer": "have dinner with friends from the gym",
+      "evidence": [
+        "D23:14"
+      ],
+      "category": 4
+    }
+  },
+  {
+    "question": "What kind of activities did Maria do at the picnic with her church friends?",
+    "response": "At the picnic with her church friends in mid July 2023, Maria participated in games such as charades and scavenger hunts.",
+    "answer": "played games like charades and a scavenger hunt",
+    "metadata": {
+      "question": "What kind of activities did Maria do at the picnic with her church friends?",
+      "answer": "played games like charades and a scavenger hunt",
+      "evidence": [
+        "D24:8"
+      ],
+      "category": 4
+    }
+  },
+  {
+    "question": "What does John appreciate about the veteran's hospital visit?",
+    "response": "John appreciated the inspiring and heartfelt stories of resilience shared by veterans, especially an elderly veteran named Samuel, which deepened his appreciation for veterans and motivated his advocacy efforts.",
+    "answer": "the resilience of the veterans and their inspiring stories",
+    "metadata": {
+      "question": "What does John appreciate about the veteran's hospital visit?",
+      "answer": "the resilience of the veterans and their inspiring stories",
+      "evidence": [
+        "D24:3"
+      ],
+      "category": 4
+    }
+  },
+  {
+    "question": "What did John take away from visiting the veteran's hospital?",
+    "response": "John's takeaway from visiting the veteran's hospital in early July 2023 was being inspired by the resilience and heartfelt stories of an elderly veteran named Samuel. The visit deepened his appreciation for veterans and motivated him to support and advocate for them.",
+    "answer": "appreciation for giving back",
+    "metadata": {
+      "question": "What did John take away from visiting the veteran's hospital?",
+      "answer": "appreciation for giving back",
+      "evidence": [
+        "D24:1"
+      ],
+      "category": 4
+    }
+  },
+  {
+    "question": "Why did John feel inspired to join the military after the visit to the hospital?",
+    "response": "John felt inspired to join the military after visiting the veteran's hospital because he was deeply moved by the resilient and heartfelt stories shared by an elderly veteran named Samuel. These stories reinforced his appreciation for veterans and motivated his commitment to support them.",
+    "answer": "seeing the resilience of the veterans",
+    "metadata": {
+      "question": "Why did John feel inspired to join the military after the visit to the hospital?",
+      "answer": "seeing the resilience of the veterans",
+      "evidence": [
+        "D24:3"
+      ],
+      "category": 4
+    }
+  },
+  {
+    "question": "In what activity did Maria and her church friends participate in July 2023?",
+    "response": "In mid July 2023, Maria and her church friends participated in a picnic that included games like charades and scavenger hunts.",
+    "answer": "hiking",
+    "metadata": {
+      "question": "In what activity did Maria and her church friends participate in July 2023?",
+      "answer": "hiking",
+      "evidence": [
+        "D25:2"
+      ],
+      "category": 4
+    }
+  },
+  {
+    "question": "What does John think about trying new classes at the yoga studio?",
+    "response": "John has a positive opinion about trying new classes at the yoga studio. Around early April 2023, he started attending beginner yoga classes, focusing on fundamentals like poses and breathing. He feels great mentally and physically after the sessions and has incorporated yoga into his daily routine for its benefits.",
+    "answer": "Trying new classes is a fun way to switch up the exercise routine.",
+    "metadata": {
+      "question": "What does John think about trying new classes at the yoga studio?",
+      "answer": "Trying new classes is a fun way to switch up the exercise routine.",
+      "evidence": [
+        "D25:14"
+      ],
+      "category": 4
+    }
+  },
+  {
+    "question": "Which activity has John done apart from yoga at the studio?",
+    "response": "Apart from yoga, John has done kickboxing and circuit training at the studio.",
+    "answer": "weight training",
+    "metadata": {
+      "question": "Which activity has John done apart from yoga at the studio?",
+      "answer": "weight training",
+      "evidence": [
+        "D25:17"
+      ],
+      "category": 4
+    }
+  },
+  {
+    "question": "What community service did Maria mention that she was involved in on 31 July, 2023?",
+    "response": "Maria was involved in ongoing volunteering at a homeless shelter around the end of July 2023. There is no specific record of a distinct community service event on 31 July 2023, but she was actively engaged in helping the community through the shelter.",
+    "answer": "volunteered at a homeless shelter",
+    "metadata": {
+      "question": "What community service did Maria mention that she was involved in on 31 July, 2023?",
+      "answer": "volunteered at a homeless shelter",
+      "evidence": [
+        "D26:1"
+      ],
+      "category": 4
+    }
+  },
+  {
+    "question": "How did Maria start volunteering at the homeless shelter?",
+    "response": "Maria started volunteering at the homeless shelter around August 2022 after witnessing a struggling family and reaching out to the shelter to offer help.",
+    "answer": "Witnessed a family struggling on the streets and reached out to the shelter",
+    "metadata": {
+      "question": "How did Maria start volunteering at the homeless shelter?",
+      "answer": "Witnessed a family struggling on the streets and reached out to the shelter",
+      "evidence": [
+        "D27:4"
+      ],
+      "category": 4
+    }
+  },
+  {
+    "question": "What did John do the week before August 3, 2023 involving his kids?",
+    "response": "About a week before August 3, 2023, John took his kids to visit a military memorial, which was a meaningful and humbling experience for them.",
+    "answer": "Had a meaningful experience at a military memorial",
+    "metadata": {
+      "question": "What did John do the week before August 3, 2023 involving his kids?",
+      "answer": "Had a meaningful experience at a military memorial",
+      "evidence": [
+        "D27:9"
+      ],
+      "category": 4
+    }
+  },
+  {
+    "question": "How did John describe his kids' reaction at the military memorial?",
+    "response": "John described his kids' reaction at the military memorial as awestruck and humbled, highlighting the visit as a meaningful moment to teach respect and appreciation for veterans' service.",
+    "answer": "awestruck and humbled",
+    "metadata": {
+      "question": "How did John describe his kids' reaction at the military memorial?",
+      "answer": "awestruck and humbled",
+      "evidence": [
+        "D27:11"
+      ],
+      "category": 4
+    }
+  },
+  {
+    "question": "Why does Maria think it's important for younger generations to visit military memorials?",
+    "response": "Maria likely believes it's important for younger generations to visit military memorials to foster respect and appreciation for veterans' service and sacrifice, helping them understand and honor the legacy of those who served.",
+    "answer": "To remember and appreciate those who served",
+    "metadata": {
+      "question": "Why does Maria think it's important for younger generations to visit military memorials?",
+      "answer": "To remember and appreciate those who served",
+      "evidence": [
+        "D27:12"
+      ],
+      "category": 4
+    }
+  },
+  {
+    "question": "What does John believe is important for children regarding veterans?",
+    "response": "John believes it is important for children to learn to respect and appreciate veterans' service. This was highlighted by a family visit to a military memorial in late July 2023, which had a profound and humbling impact on his children.",
+    "answer": "Teaching them to respect and appreciate those who served",
+    "metadata": {
+      "question": "What does John believe is important for children regarding veterans?",
+      "answer": "Teaching them to respect and appreciate those who served",
+      "evidence": [
+        "D27:13"
+      ],
+      "category": 4
+    }
+  },
+  {
+    "question": "What happened to John's job in August 2023?",
+    "response": "John lost his job at a mechanical engineering company in August 2023 due to the company's failure and is seeking new opportunities in the tech industry.",
+    "answer": "John lost his job at the mechanical engineering company.",
+    "metadata": {
+      "question": "What happened to John's job in August 2023?",
+      "answer": "John lost his job at the mechanical engineering company.",
+      "evidence": [
+        "D28:1"
+      ],
+      "category": 4
+    }
+  },
+  {
+    "question": "What activity did Maria take up with her friends from church in August 2023?",
+    "response": "In August 2023, Maria took up volunteering at the homeless shelter, including helping at the front desk on August 11, 2023. There is no explicit mention of a distinct social activity with her church friends in August 2023 in the memories.",
+    "answer": "community work",
+    "metadata": {
+      "question": "What activity did Maria take up with her friends from church in August 2023?",
+      "answer": "community work",
+      "evidence": [
+        "D28:8"
+      ],
+      "category": 4
+    }
+  },
+  {
+    "question": "What did John do to help his community last year in his hometown?",
+    "response": "In 2022, John volunteered to help renovate a rundown community center in his hometown, contributing positively to the community.",
+    "answer": "Helped renovate a rundown community center.",
+    "metadata": {
+      "question": "What did John do to help his community last year in his hometown?",
+      "answer": "Helped renovate a rundown community center.",
+      "evidence": [
+        "D28:11"
+      ],
+      "category": 4
+    }
+  },
+  {
+    "question": "What cause did the 5K charity run organized by John support?",
+    "response": "The 5K charity run supported the homeless shelter cause.",
+    "answer": "veterans and their families",
+    "metadata": {
+      "question": "What cause did the 5K charity run organized by John support?",
+      "answer": "veterans and their families",
+      "evidence": [
+        "D29:4"
+      ],
+      "category": 4
+    }
+  },
+  {
+    "question": "Who did John work with to raise awareness and funds for victims of domestic abuse?",
+    "response": "There is no information in the memories about John working with anyone specifically to raise awareness and funds for victims of domestic abuse.",
+    "answer": "a local organization",
+    "metadata": {
+      "question": "Who did John work with to raise awareness and funds for victims of domestic abuse?",
+      "answer": "a local organization",
+      "evidence": [
+        "D29:10"
+      ],
+      "category": 4
+    }
+  },
+  {
+    "question": "What recognition did Maria receive at the homeless shelter in August 2023?",
+    "response": "Maria received a heartfelt gratitude note from a shelter resident named Cindy in August 2023, recognizing her positive impact and support at the homeless shelter.",
+    "answer": "a medal for volunteering",
+    "metadata": {
+      "question": "What recognition did Maria receive at the homeless shelter in August 2023?",
+      "answer": "a medal for volunteering",
+      "evidence": [
+        "D29:1"
+      ],
+      "category": 4
+    }
+  },
+  {
+    "question": "What is the name of Maria's puppy she got two weeks before August 11, 2023?",
+    "response": "Coco",
+    "answer": "Coco",
+    "metadata": {
+      "question": "What is the name of Maria's puppy she got two weeks before August 11, 2023?",
+      "answer": "Coco",
+      "evidence": [
+        "D30:1"
+      ],
+      "category": 4
+    }
+  },
+  {
+    "question": "What activity did John and Max enjoy together last summer?",
+    "response": "John and Max enjoyed a camping trip together last summer, where they hiked, swam, and enjoyed nature.",
+    "answer": "Camping",
+    "metadata": {
+      "question": "What activity did John and Max enjoy together last summer?",
+      "answer": "Camping",
+      "evidence": [
+        "D30:6"
+      ],
+      "category": 4
+    }
+  },
+  {
+    "question": "How does John describe the camping trip with Max?",
+    "response": "John fondly remembers his camping trip with Max in summer 2022. They hiked, swam, and enjoyed nature together, describing it as a peaceful and fulfilling experience. These memories bring him comfort since Max has passed away.",
+    "answer": "Peaceful and awesome",
+    "metadata": {
+      "question": "How does John describe the camping trip with Max?",
+      "answer": "Peaceful and awesome",
+      "evidence": [
+        "D30:6"
+      ],
+      "category": 4
+    }
+  },
+  {
+    "question": "Why does John say he feels stuck and questioning his decisions and goals?",
+    "response": "John feels stuck and questions his decisions and goals because he is facing emotional challenges about his impact and is exploring volunteering and joining local organizations to find meaningful ways to contribute and channel his enthusiasm.",
+    "answer": "Not feeling like making much of an impact",
+    "metadata": {
+      "question": "Why does John say he feels stuck and questioning his decisions and goals?",
+      "answer": "Not feeling like making much of an impact",
+      "evidence": [
+        "D30:14"
+      ],
+      "category": 4
+    }
+  },
+  {
+    "question": "What is the name of Maria's second puppy?",
+    "response": "The name of Maria's second puppy is Shadow.",
+    "answer": "Shadow",
+    "metadata": {
+      "question": "What is the name of Maria's second puppy?",
+      "answer": "Shadow",
+      "evidence": [
+        "D31:4"
+      ],
+      "category": 4
+    }
+  },
+  {
+    "question": "How is Maria's new puppy adjusting to its new home?",
+    "response": "Maria's new puppy, Coco, adopted in late July 2023, is adjusting well to the new home. The puppy brings her joy and companionship, and though there is some adjustment needed, it is going positively and worth it.",
+    "answer": "doing great - learning commands and house training",
+    "metadata": {
+      "question": "How is Maria's new puppy adjusting to its new home?",
+      "answer": "doing great - learning commands and house training",
+      "evidence": [
+        "D31:10"
+      ],
+      "category": 4
+    }
+  },
+  {
+    "question": "What is John currently doing as a volunteer in August 2023?",
+    "response": "In August 2023, John is volunteering as a mentor for local school students, actively participating in a local fire-fighting brigade including community fundraising, and advocating for military veterans through a virtual support group.",
+    "answer": "mentoring students at a local school",
+    "metadata": {
+      "question": "What is John currently doing as a volunteer in August 2023?",
+      "answer": "mentoring students at a local school",
+      "evidence": [
+        "D31:1"
+      ],
+      "category": 4
+    }
+  },
+  {
+    "question": "What activities does John's family enjoy doing together?",
+    "response": "John's family enjoys hiking, park visits with playground time, picnics, board games, movie nights, family boot camps for fitness, visiting military memorials, and arts and crafts activities together.",
+    "answer": "going for hikes, hanging out at the park, having picnics, playing board games, having movie nights",
+    "metadata": {
+      "question": "What activities does John's family enjoy doing together?",
+      "answer": "going for hikes, hanging out at the park, having picnics, playing board games, having movie nights",
+      "evidence": [
+        "D31:19"
+      ],
+      "category": 4
+    }
+  },
+  {
+    "question": "What did the donations help John's community acquire on 16 August, 2023?",
+    "response": "The donations helped John's community acquire a new fire truck for the local fire station on 16 August 2023.",
+    "answer": "a brand new fire truck",
+    "metadata": {
+      "question": "What did the donations help John's community acquire on 16 August, 2023?",
+      "answer": "a brand new fire truck",
+      "evidence": [
+        "D32:11"
+      ],
+      "category": 4
+    }
+  }
+]

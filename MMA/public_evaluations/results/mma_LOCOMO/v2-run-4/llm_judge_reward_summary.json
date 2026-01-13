@@ -1,0 +1,115 @@
+{
+  "thresholds": {
+    "llm": 0.75,
+    "f1": 0.5,
+    "bleu": 0.3
+  },
+  "penalties": {
+    "lambda_wrong": 2.0,
+    "reward_abstain": 0.5
+  },
+  "overall_stats": {
+    "total": 1542,
+    "answered": 1453,
+    "abstained": 89,
+    "coverage": 0.9423,
+    "correct": 1158,
+    "wrong": 295,
+    "accuracy_answered": 0.797,
+    "wrong_rate_answered": 0.203,
+    "avg_llm_among_answered": 0.797
+  },
+  "utility": 612.5,
+  "examples_abstain": [
+    {
+      "question": "When did Caroline go biking with friends?",
+      "response": "There is no specific information in the memories about the date when Caroline went biking with friends.",
+      "answer": "The weekend before 13 September 2023",
+      "llm_score": 0,
+      "f1_score": 0.09090909090909091,
+      "bleu_score": 0.05555555555555554,
+      "category": "2"
+    },
+    {
+      "question": "How many children does Melanie have?",
+      "response": "Melanie has multiple children, but the exact number is not specified in the memories available.",
+      "answer": "3",
+      "llm_score": 0,
+      "f1_score": 0.0,
+      "bleu_score": 0,
+      "category": "1"
+    },
+    {
+      "question": "Would Melanie go on another roadtrip soon?",
+      "response": "There is no information indicating that Melanie plans to go on another roadtrip soon.",
+      "answer": "Likely no; since this one went badly",
+      "llm_score": 0,
+      "f1_score": 0.0,
+      "bleu_score": 0.06666666666666667,
+      "category": "3"
+    },
+    {
+      "question": "What was Melanie's favorite book from her childhood?",
+      "response": "There is no information available in the memories about Melanie's favorite childhood book.",
+      "answer": "\"Charlotte's Web\"",
+      "llm_score": 0,
+      "f1_score": 0.0,
+      "bleu_score": 0.06666666666666667,
+      "category": "4"
+    },
+    {
+      "question": "What do sunflowers represent according to Caroline?",
+      "response": "There is no information in the memories about what sunflowers represent according to Caroline.",
+      "answer": "warmth and happiness",
+      "llm_score": 0,
+      "f1_score": 0.0,
+      "bleu_score": 0,
+      "category": "4"
+    },
+    {
+      "question": "What activity did Caroline used to do with her dad?",
+      "response": "There is no information in the memories about the specific activity Caroline used to do with her dad.",
+      "answer": "Horseback riding",
+      "llm_score": 0,
+      "f1_score": 0.0,
+      "bleu_score": 0,
+      "category": "4"
+    },
+    {
+      "question": "What precautionary sign did Melanie see at the café?",
+      "response": "There is no information in the memories about a precautionary sign seen by Melanie at a café.",
+      "answer": "A sign stating that someone is not being able to leave",
+      "llm_score": 0,
+      "f1_score": 0.2222222222222222,
+      "bleu_score": 0.16666666666666669,
+      "category": "4"
+    },
+    {
+      "question": "What do Melanie's family give her?",
+      "response": "There is no specific information in the memories about gifts that Melanie's family gave her.",
+      "answer": "Strength and motivation",
+      "llm_score": 0,
+      "f1_score": 0.0,
+      "bleu_score": 0,
+      "category": "4"
+    },
+    {
+      "question": "What does Jon tell Gina he won't do?",
+      "response": "There is no explicit information in the memories about what Jon told Gina he won't do.",
+      "answer": "quit",
+      "llm_score": 0,
+      "f1_score": 0.0,
+      "bleu_score": 0,
+      "category": "4"
+    },
+    {
+      "question": "Who gave Maria's family money when she was younger and her family was going through tough times?",
+      "response": "There is no information available in the memories about who gave Maria's family money when she was younger and going through tough times.",
+      "answer": "Her aunt",
+      "llm_score": 0,
+      "f1_score": 0.0,
+      "bleu_score": 0,
+      "category": "1"
+    }
+  ]
+}

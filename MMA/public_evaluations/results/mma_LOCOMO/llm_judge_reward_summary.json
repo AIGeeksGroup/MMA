@@ -1,0 +1,115 @@
+{
+  "thresholds": {
+    "llm": 0.75,
+    "f1": 0.5,
+    "bleu": 0.3
+  },
+  "penalties": {
+    "lambda_wrong": 2.0,
+    "reward_abstain": 0.5
+  },
+  "overall_stats": {
+    "total": 1542,
+    "answered": 1507,
+    "abstained": 35,
+    "coverage": 0.9773,
+    "correct": 1190,
+    "wrong": 317,
+    "accuracy_answered": 0.7896,
+    "wrong_rate_answered": 0.2104,
+    "avg_llm_among_answered": 0.7896
+  },
+  "utility": 573.5,
+  "examples_abstain": [
+    {
+      "question": "What books has Melanie read?",
+      "response": "There is no information in the memories about specific books that Melanie has read.",
+      "answer": "\"Nothing is Impossible\", \"Charlotte's Web\"",
+      "llm_score": 0,
+      "f1_score": 0.10526315789473682,
+      "bleu_score": 0.06666666666666667,
+      "category": "1"
+    },
+    {
+      "question": "When did Melanie buy the figurines?",
+      "response": "There is no information in the memories about when Melanie bought figurines.",
+      "answer": "21 October 2023",
+      "llm_score": 0,
+      "f1_score": 0.0,
+      "bleu_score": 0,
+      "category": "2"
+    },
+    {
+      "question": "What was Melanie's favorite book from her childhood?",
+      "response": "There is no information in the memories about Melanie's favorite book from her childhood.",
+      "answer": "\"Charlotte's Web\"",
+      "llm_score": 0,
+      "f1_score": 0.0,
+      "bleu_score": 0.0625,
+      "category": "4"
+    },
+    {
+      "question": "What do sunflowers represent according to Caroline?",
+      "response": "There is no specific information in the memories about what sunflowers represent according to Caroline.",
+      "answer": "warmth and happiness",
+      "llm_score": 0,
+      "f1_score": 0.0,
+      "bleu_score": 0,
+      "category": "4"
+    },
+    {
+      "question": "Does John live close to a beach or the mountains?",
+      "response": "John lives in a neighborhood where he enjoys outdoor activities and family bonding, including hiking and beach vacations, but there is no explicit information indicating that he lives close to a beach or the mountains.",
+      "answer": "beach",
+      "llm_score": 0,
+      "f1_score": 0.06451612903225806,
+      "bleu_score": 0.026315789473684213,
+      "category": "3"
+    },
+    {
+      "question": "What did John receive a certificate for?",
+      "response": "There is no information in the memories about John receiving a certificate for any activity or achievement.",
+      "answer": "completion of a university degree",
+      "llm_score": 0,
+      "f1_score": 0.0909090909090909,
+      "bleu_score": 0.05555555555555554,
+      "category": "4"
+    },
+    {
+      "question": "What kind of food did Maria have on her dinner spread iwth her mother?",
+      "response": "There is no specific information in the memories about the kind of food Maria had on her dinner spread with her mother.",
+      "answer": "Salads, sandwiches, homemade desserts",
+      "llm_score": 0,
+      "f1_score": 0.0,
+      "bleu_score": 0,
+      "category": "4"
+    },
+    {
+      "question": "What did Maria say it was like being at the waterfall in Oregon?",
+      "response": "There is no information in the memories about what Maria said regarding her experience at the waterfall in Oregon.",
+      "answer": "Like being in a fairy tale",
+      "llm_score": 0,
+      "f1_score": 0.08695652173913045,
+      "bleu_score": 0.05000000000000001,
+      "category": "4"
+    },
+    {
+      "question": "Which of Joanna's screenplay were rejected from production companies?",
+      "response": "Joanna's screenplay that was rejected from production companies is the one she finished and submitted before June 3, 2022. The exact title is not specified in the memories, only that she received generic rejection letters but remains determined to continue writing.",
+      "answer": "first screenplay on drama and romance, third screenplay on loss identity and connection",
+      "llm_score": 0,
+      "f1_score": 0.08695652173913045,
+      "bleu_score": 0.06666666666666667,
+      "category": "1"
+    },
+    {
+      "question": "When did Joanna finish up the writing for her book?",
+      "response": "Joanna started writing her book around early July 2022, but there is no explicit information in the memories about when she finished writing it.",
+      "answer": "The week before 6October, 2022",
+      "llm_score": 0,
+      "f1_score": 0.14285714285714285,
+      "bleu_score": 0.1153846153846154,
+      "category": "2"
+    }
+  ]
+}

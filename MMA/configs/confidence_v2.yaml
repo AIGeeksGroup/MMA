@@ -1,0 +1,16 @@
+{
+  "source_scores": {
+    "knowledge_vault_fact": 0.95,
+    "semantic_inferred": 0.70,
+    "procedural_workflow": 0.60,
+    "episodic_user_statement": 0.50,
+    "resource_document": 0.60
+  },
+  "lambda": 0.0231,
+  "weights": {
+    "w_s": 0.45,
+    "w_t": 0.40,
+    "w_c": 0.15,
+  },
+  "llm_model_for_linking": "openai/gpt-4.1-mini"
+}

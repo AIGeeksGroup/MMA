@@ -1,0 +1,419 @@
+{
+  "subdirs_scanned": [
+    "./results/mma_LOCOMO/v2-full-locomo-run-3/0",
+    "./results/mma_LOCOMO/v2-full-locomo-run-3/1",
+    "./results/mma_LOCOMO/v2-full-locomo-run-3/2",
+    "./results/mma_LOCOMO/v2-full-locomo-run-3/3",
+    "./results/mma_LOCOMO/v2-full-locomo-run-3/4",
+    "./results/mma_LOCOMO/v2-full-locomo-run-3/5",
+    "./results/mma_LOCOMO/v2-full-locomo-run-3/6",
+    "./results/mma_LOCOMO/v2-full-locomo-run-3/7",
+    "./results/mma_LOCOMO/v2-full-locomo-run-3/8",
+    "./results/mma_LOCOMO/v2-full-locomo-run-3/9"
+  ],
+  "skipped": [
+    {
+      "subdir": "./results/mma_LOCOMO/v2-full-locomo-run-3/.ipynb_checkpoints",
+      "has_results": false,
+      "has_chunks": false,
+      "missing": "results.json/evaluation_metrics.json"
+    }
+  ],
+  "totals": {
+    "missing_info": 89,
+    "retrieved_hit": 72,
+    "retrieved_miss": 17,
+    "unknown": 0
+  },
+  "examples": {
+    "retrieved_hit": [
+      {
+        "question": "When did Melanie run a charity race?",
+        "response": "There is no information available in the memories about when Melanie ran a charity race.",
+        "answer": "The sunday before 25 May 2023",
+        "evidence": [
+          "D2:1"
+        ],
+        "subdir": "./results/mma_LOCOMO/v2-full-locomo-run-3/0",
+        "match_strategy": "date_tokens"
+      },
+      {
+        "question": "When is Melanie planning on going camping?",
+        "response": "Melanie's most recent camping trip was on 19 October 2023. There is no specific information about future planned camping dates.",
+        "answer": "June 2023",
+        "evidence": [
+          "D2:7"
+        ],
+        "subdir": "./results/mma_LOCOMO/v2-full-locomo-run-3/0",
+        "match_strategy": "all_short_tokens"
+      },
+      {
+        "question": "When did Melanie read the book \"nothing is impossible\"?",
+        "response": "There is no information in the memories about when Melanie read the book 'nothing is impossible'.",
+        "answer": 2022,
+        "evidence": [
+          "D7:8"
+        ],
+        "subdir": "./results/mma_LOCOMO/v2-full-locomo-run-3/0",
+        "match_strategy": "exact_substring"
+      },
+      {
+        "question": "What did the charity race raise awareness for?",
+        "response": "There is no explicit information in the memories about what cause the charity race raised awareness for.",
+        "answer": "mental health",
+        "evidence": [
+          "D2:2"
+        ],
+        "subdir": "./results/mma_LOCOMO/v2-full-locomo-run-3/0",
+        "match_strategy": "exact_substring"
+      },
+      {
+        "question": "What was discussed in the LGBTQ+ counseling workshop?",
+        "response": "There is no specific information available in the memories about the content of the LGBTQ+ counseling workshop.",
+        "answer": "therapeutic methods and how to best work with trans people",
+        "evidence": [
+          "D4:13"
+        ],
+        "subdir": "./results/mma_LOCOMO/v2-full-locomo-run-3/0",
+        "match_strategy": "exact_substring"
+      },
+      {
+        "question": "What are the new shoes that Melanie got used for?",
+        "response": "There is no information available about the purpose or use of Melanie's new shoes in the memories.",
+        "answer": "Running",
+        "evidence": [
+          "D7:19"
+        ],
+        "subdir": "./results/mma_LOCOMO/v2-full-locomo-run-3/0",
+        "match_strategy": "exact_substring"
+      },
+      {
+        "question": "What do sunflowers represent according to Caroline?",
+        "response": "There is no specific information in the memories about what sunflowers represent according to Caroline.",
+        "answer": "warmth and happiness",
+        "evidence": [
+          "D8:11"
+        ],
+        "subdir": "./results/mma_LOCOMO/v2-full-locomo-run-3/0",
+        "match_strategy": "exact_substring"
+      },
+      {
+        "question": "What did the posters at the poetry reading say?",
+        "response": "There is no specific information in the memories about what the posters at the poetry reading said. The event was described as empowering and inspiring, where transgender individuals shared their stories through poetry in a safe and supportive environment, but the exact content of any posters was not recorded.",
+        "answer": "\"Trans Lives Matter\"",
+        "evidence": [
+          "D17:19"
+        ],
+        "subdir": "./results/mma_LOCOMO/v2-full-locomo-run-3/0",
+        "match_strategy": "all_short_tokens"
+      },
+      {
+        "question": "Which city have both Jean and John visited?",
+        "response": "There is no information in the memories about cities visited by Jean and John or any common city they visited.",
+        "answer": "Rome",
+        "evidence": [
+          "D2:5",
+          "D15:1"
+        ],
+        "subdir": "./results/mma_LOCOMO/v2-full-locomo-run-3/1",
+        "match_strategy": "exact_substring"
+      },
+      {
+        "question": "When was Jon in Rome?",
+        "response": "There is no information in the memories about Jon being in Rome or the time of any visit to Rome.",
+        "answer": "June 2023",
+        "evidence": [
+          "D15:1"
+        ],
+        "subdir": "./results/mma_LOCOMO/v2-full-locomo-run-3/1",
+        "match_strategy": "all_short_tokens"
+      },
+      {
+        "question": "Which cities has Jon visited?",
+        "response": "There is no information in the memories about which cities Jon has visited.",
+        "answer": "Paris, Rome",
+        "evidence": [
+          "D2:4",
+          "D15:1"
+        ],
+        "subdir": "./results/mma_LOCOMO/v2-full-locomo-run-3/1",
+        "match_strategy": "all_short_tokens"
+      },
+      {
+        "question": "What is Jon's favorite style of dance?",
+        "response": "There is no explicit information in the memories about Jon's favorite style of dance.",
+        "answer": "Contemporary",
+        "evidence": [
+          "D1:8"
+        ],
+        "subdir": "./results/mma_LOCOMO/v2-full-locomo-run-3/1",
+        "match_strategy": "exact_substring"
+      },
+      {
+        "question": "What kind of dance piece did Gina's team perform to win first place?",
+        "response": "There is no information in the memories about the specific kind of dance piece Gina's team performed to win first place.",
+        "answer": "\"Finding Freedom\"",
+        "evidence": [
+          "D1:19"
+        ],
+        "subdir": "./results/mma_LOCOMO/v2-full-locomo-run-3/1",
+        "match_strategy": "exact_substring"
+      },
+      {
+        "question": "What does Gina say about the dancers in the photo?",
+        "response": "There is no information in the memories about what Gina says regarding the dancers in the photo.",
+        "answer": "They look graceful",
+        "evidence": [
+          "D1:26"
+        ],
+        "subdir": "./results/mma_LOCOMO/v2-full-locomo-run-3/1",
+        "match_strategy": "all_short_tokens"
+      },
+      {
+        "question": "What kind of flooring is Jon looking for in his dance studio?",
+        "response": "There is no specific information in the memories about the kind of flooring Jon is looking for in his dance studio.",
+        "answer": "Marley flooring",
+        "evidence": [
+          "D2:8"
+        ],
+        "subdir": "./results/mma_LOCOMO/v2-full-locomo-run-3/1",
+        "match_strategy": "exact_substring"
+      },
+      {
+        "question": "What did Gina find for her clothing store on 1 February, 2023?",
+        "response": "There is no specific information about what Gina found or did for her clothing store on 1 February 2023 in the memories. Gina launched her online clothing store after losing her job at Door Dash, which was by March 2023.",
+        "answer": "The perfect spot for her store",
+        "evidence": [
+          "D3:2"
+        ],
+        "subdir": "./results/mma_LOCOMO/v2-full-locomo-run-3/1",
+        "match_strategy": "all_short_tokens"
+      },
+      {
+        "question": "What did Jon take a trip to Rome for?",
+        "response": "There is no information in the memories regarding Jon taking a trip to Rome or the purpose of such a trip.",
+        "answer": "To clear his mind",
+        "evidence": [
+          "D15:1"
+        ],
+        "subdir": "./results/mma_LOCOMO/v2-full-locomo-run-3/1",
+        "match_strategy": "all_short_tokens"
+      },
+      {
+        "question": "What items des John mention having as a child?",
+        "response": "There is no information in the memories about specific items John had as a child.",
+        "answer": "A doll, a film camera",
+        "evidence": [
+          "D5:13",
+          "D3:15"
+        ],
+        "subdir": "./results/mma_LOCOMO/v2-full-locomo-run-3/2",
+        "match_strategy": "all_short_tokens"
+      },
+      {
+        "question": "Who gave Maria's family money when she was younger and her family was going through tough times?",
+        "response": "There is no information in the memories about who gave Maria's family money when she was younger during tough times.",
+        "answer": "Her aunt",
+        "evidence": [
+          "D6:9",
+          "D5:8"
+        ],
+        "subdir": "./results/mma_LOCOMO/v2-full-locomo-run-3/2",
+        "match_strategy": "all_short_tokens"
+      },
+      {
+        "question": "When did Maria meet Jean?",
+        "response": "There is no information in the memories about when Maria met Jean.",
+        "answer": "February 24, 2023",
+        "evidence": [
+          "D7:1"
+        ],
+        "subdir": "./results/mma_LOCOMO/v2-full-locomo-run-3/2",
+        "match_strategy": "all_short_tokens"
+      }
+    ],
+    "retrieved_miss": [
+      {
+        "question": "How does Jon use the clipboard with a notepad attached to it?",
+        "response": "There is no information in the memories about how Jon uses a clipboard with a notepad attached to it.",
+        "answer": "To set goals, track achievements, and find areas for improvement",
+        "evidence": [
+          "D13:11"
+        ],
+        "subdir": "./results/mma_LOCOMO/v2-full-locomo-run-3/1",
+        "match_strategy": "no_match"
+      },
+      {
+        "question": "Who did Maria have dinner with on May 3, 2023?",
+        "response": "No information available about who Maria had dinner with on May 3, 2023.",
+        "answer": "her mother",
+        "evidence": [
+          "D13:16"
+        ],
+        "subdir": "./results/mma_LOCOMO/v2-full-locomo-run-3/2",
+        "match_strategy": "no_match"
+      },
+      {
+        "question": "Would John be open to moving to another country?",
+        "response": "There is no information indicating that John is open to moving to another country. He is currently focused on his local community, family, political campaign, and job search.",
+        "answer": "No, he has goals specifically in the U.S. like joining the military and running for office.",
+        "evidence": [
+          "D24:3",
+          "D7:2"
+        ],
+        "subdir": "./results/mma_LOCOMO/v2-full-locomo-run-3/2",
+        "match_strategy": "no_match"
+      },
+      {
+        "question": "What physical transformation did Nate undergo in April 2022?",
+        "response": "There is no information in the memories about any physical transformation Nate underwent in April 2022.",
+        "answer": "dyed his hair purple",
+        "evidence": [
+          "D7:1",
+          "D7:3"
+        ],
+        "subdir": "./results/mma_LOCOMO/v2-full-locomo-run-3/3",
+        "match_strategy": "no_match"
+      },
+      {
+        "question": "What color did Nate choose for his hair?",
+        "response": "There is no information in the memories about the color Nate chose for his hair.",
+        "answer": "purple",
+        "evidence": [
+          "D7:1",
+          "D7:3"
+        ],
+        "subdir": "./results/mma_LOCOMO/v2-full-locomo-run-3/3",
+        "match_strategy": "no_match"
+      },
+      {
+        "question": "What kind of lighting does Nate's gaming room have?",
+        "response": "There is no specific information in the memories about the kind of lighting in Nate's gaming room.",
+        "answer": "red and purple lighting",
+        "evidence": [
+          "D10:2"
+        ],
+        "subdir": "./results/mma_LOCOMO/v2-full-locomo-run-3/3",
+        "match_strategy": "no_match"
+      },
+      {
+        "question": "Would Tim enjoy reading books by C. S. Lewis or John Greene?",
+        "response": "Tim would likely enjoy reading books by C. S. Lewis, given his strong preference for fantasy literature. There is no explicit information regarding Tim's enjoyment of John Greene's books.",
+        "answer": "C. S.Lewis",
+        "evidence": [
+          "D1:14",
+          "D1:16",
+          "D1:18"
+        ],
+        "subdir": "./results/mma_LOCOMO/v2-full-locomo-run-3/4",
+        "match_strategy": "no_match"
+      },
+      {
+        "question": "Does James live in Connecticut?",
+        "response": "No, there is no information in the memories indicating that James lives in Connecticut.",
+        "answer": "Likely yes",
+        "evidence": [
+          "D5:1"
+        ],
+        "subdir": "./results/mma_LOCOMO/v2-full-locomo-run-3/6",
+        "match_strategy": "no_match"
+      },
+      {
+        "question": "Was James feeling lonely before meeting Samantha?",
+        "response": "There is no information in the memories indicating that James was feeling lonely before meeting Samantha.",
+        "answer": "Most likely yes, because he mentioned that the only creatures that gave him joy are dogs and he was actively trying to date.",
+        "evidence": [
+          "D9:16"
+        ],
+        "subdir": "./results/mma_LOCOMO/v2-full-locomo-run-3/6",
+        "match_strategy": "no_match"
+      },
+      {
+        "question": "Why didn't John want to go to Starbucks?",
+        "response": "There is no information in the memories about why John didn't want to go to Starbucks.",
+        "answer": "Possibly because he likes to drink beer on his days off.",
+        "evidence": [
+          "D21:12",
+          "D21:14"
+        ],
+        "subdir": "./results/mma_LOCOMO/v2-full-locomo-run-3/6",
+        "match_strategy": "no_match"
+      },
+      {
+        "question": "In what country did Jolene buy snake Seraphim?",
+        "response": "There is no information in the memories about the country where Jolene bought her snake Seraphim.",
+        "answer": "In France",
+        "evidence": [
+          "D2:24"
+        ],
+        "subdir": "./results/mma_LOCOMO/v2-full-locomo-run-3/7",
+        "match_strategy": "no_match"
+      },
+      {
+        "question": "Which US state did Jolene visit during her internship?",
+        "response": "There is no information in the memories about which US state Jolene visited during her internship.",
+        "answer": "Alaska",
+        "evidence": [
+          "D13:15"
+        ],
+        "subdir": "./results/mma_LOCOMO/v2-full-locomo-run-3/7",
+        "match_strategy": "no_match"
+      },
+      {
+        "question": "What recurring frustration does Evan experience?",
+        "response": "There is no explicit information in the memories about a recurring frustration experienced by Evan.",
+        "answer": "Evan consistently misplaces his keys every week.",
+        "evidence": [
+          "D6:13",
+          "D21:20"
+        ],
+        "subdir": "./results/mma_LOCOMO/v2-full-locomo-run-3/8",
+        "match_strategy": "no_match"
+      },
+      {
+        "question": "How many months lapsed between Sam's first and second doctor's appointment?",
+        "response": "There is no information available about the dates of Sam's first and second doctor's appointments, so I cannot determine the number of months lapsed between them.",
+        "answer": "three months",
+        "evidence": [
+          "D2:6",
+          "D7:2"
+        ],
+        "subdir": "./results/mma_LOCOMO/v2-full-locomo-run-3/8",
+        "match_strategy": "no_match"
+      },
+      {
+        "question": "How often does Sam get health checkups?",
+        "response": "There is no specific information available about how often Sam gets health checkups.",
+        "answer": "every three months",
+        "evidence": [
+          "D2:6",
+          "D7:2",
+          "D12:1"
+        ],
+        "subdir": "./results/mma_LOCOMO/v2-full-locomo-run-3/8",
+        "match_strategy": "no_match"
+      },
+      {
+        "question": "Would Dave prefer working on a Dodge Charger or a Subaru Forester?",
+        "response": "There is no specific information in the memories about Dave's preference between working on a Dodge Charger or a Subaru Forester. However, he is known to be passionate about restoring classic muscle cars like the Ford Mustang.",
+        "answer": "Dodge Charger",
+        "evidence": [],
+        "subdir": "./results/mma_LOCOMO/v2-full-locomo-run-3/9",
+        "match_strategy": "no_match"
+      },
+      {
+        "question": "What gifts has Calvin received from his artist friends?",
+        "response": "There is no specific information in the memories about gifts Calvin has received from his artist friends.",
+        "answer": "gold chain, custom-made guitar with an octopus on it",
+        "evidence": [
+          "D4:24",
+          "D4:26",
+          "D16:14"
+        ],
+        "subdir": "./results/mma_LOCOMO/v2-full-locomo-run-3/9",
+        "match_strategy": "no_match"
+      }
+    ],
+    "unknown": []
+  }
+}
