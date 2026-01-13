@@ -8,10 +8,9 @@ This is the official repository for the paper:
 >
 > \*Equal contribution. †Project lead. ‡Corresponding author.
 >
-> **_Submitted to ACL 2026_**
->
-> ### [Paper](https://arxiv.org/abs/xxxx.xxxxx) | [Project Page](https://github.com/AIGeeksGroup/MMA)
->
+> ### [Paper](https://arxiv.org/abs/xxxx.xxxxx) | [HF Paper]()
+
+> [!NOTE]
 > _⚠️ **Repository Structure**: This repo contains the **MMA Agent framework** (based on MIRIX) and the **MMA-Bench evaluation toolkit**._
 
 ## 📖 Introduction
