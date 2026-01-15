@@ -10,7 +10,8 @@ This is the official repository for the paper:
 >
 > ### [Paper](https://arxiv.org/abs/xxxx.xxxxx) | [HF Paper]()
 
-> [!NOTE] > _⚠️ **Repository Structure**: This repo contains the **MMA Agent framework** (based on MIRIX) and the **MMA-Bench evaluation toolkit**._
+> [!NOTE]
+>  _⚠️ **Repository Structure**: This repo contains the **MMA Agent framework** (based on MIRIX) and the **MMA-Bench evaluation toolkit**._
 
 ## 📖 Introduction
 
