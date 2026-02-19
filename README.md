@@ -8,7 +8,7 @@ This is the official repository for the paper:
 >
 > \*Equal contribution. †Project lead. ‡Corresponding author.
 >
-> ### [Paper](https://arxiv.org/abs/xxxx.xxxxx) | [HF Paper]()
+> ### [Paper](https://arxiv.org/abs/2602.16493) | [HF Paper](https://huggingface.co/papers/2602.16493)
 
 > [!NOTE]
 >  _⚠️ **Repository Structure**: This repo contains the **MMA Agent framework** (based on MIRIX) and the **MMA-Bench evaluation toolkit**._
