@@ -13,6 +13,20 @@ This is the official repository for the paper:
 > [!NOTE]
 >  _⚠️ **Repository Structure**: This repo contains the **MMA Agent framework** (based on MIRIX) and the **MMA-Bench evaluation toolkit**._
 
+## Citation
+
+If you find our work useful, please cite:
+
+```bibtex
+@article{lu2026mma,
+  title={MMA: Multimodal Memory Agent},
+  author={Lu, Yihao and Cheng, Wanru and Zhang, Zeyu and Tang, Hao},
+  journal={arXiv preprint arXiv:2602.16493},
+  year={2026}
+}
+```
+
+
 ## 📖 Introduction
 
 Long-horizon multimodal agents often suffer from **"Blind Faith"**—relying on stale, low-credibility, or conflicting retrieved memories. This triggers overconfident errors in safety-critical scenarios.
@@ -160,19 +174,6 @@ We acknowledge the use of the following resources:
 
 - [**MIRIX**](https://github.com/Mirix-AI/MIRIX): Foundational memory architecture.
 - **Base Models**: Qwen & GPT (API).
-
-## Citation
-
-If you find our work useful, please cite:
-
-```bibtex
-@article{,
-  title={MMA: Multimodal Memory Agent},
-  author={Yihao Lu, Wanru Cheng, Zeyu Zhang, Hao Tang},
-  journal={arXiv preprint arXiv:xxxx.xxxxx},
-  year={2026}
-}
-```
 
 ## License
 
