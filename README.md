@@ -8,7 +8,7 @@ This is the official repository for the paper:
 >
 > \*Equal contribution. †Project lead. ‡Corresponding author.
 >
-> ***AACL-IJCNLP 2026***
+> ***AACL-IJCNLP 2026 Oral***
 >
 > ### [Paper](https://arxiv.org/abs/2602.16493) | [HF Paper](https://huggingface.co/papers/2602.16493)
 
